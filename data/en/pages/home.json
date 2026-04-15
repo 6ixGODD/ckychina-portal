@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "title": "The New Generation of Smart Audio Trend Leaders",
+    "description": "CKY brand focuses on high-quality audio and smart audio-visual system R&D, design and manufacturing, with the brand philosophy of Dare to Sound, Dare to Act",
+    "keywords": "CKY,smart speakers,audio brand,home theater,portable speakers,turntable players"
+  },
+  "hero": {
+    "title": "New Generation Smart Audio Trend Leaders",
+    "content": "CKY (Cadence Kinetic Youth) has been deeply cultivating the audio field for 26 years, empowering design aesthetics with cutting-edge technology and creating the brand spirit of \"Dare to Sound, Dare to Act\". Our products cover home, office, automotive, and outdoor scenarios, and are sold to over 30 countries in Europe, North America, South America, and Asia, serving as the trendy audio partner for the new generation.",
+    "cta": "Explore Our Brand",
+    "statistics": [
+      {
+        "number": "30+",
+        "label": "Countries & Regions"
+      },
+      {
+        "number": "26",
+        "label": "Years of Excellence"
+      },
+      {
+        "number": "High-Tech",
+        "label": "Enterprise"
+      }
+    ],
+    "image": {
+      "src": "/assets/img/hero/01.webp",
+      "alt": "CKY Brand"
+    }
+  },
+  "about": {
+    "sectionTitle": {
+      "subtitle": "Brand Story",
+      "title": "Rhythm, Vitality, Infinite Expression",
+      "description": "CKY is an explorer of high-quality audio and smart audio-visual systems, expressing vivid melodies in unique ways, free-spirited, lively and trendy"
+    },
+    "logo": {
+      "src": "/assets/img/brand-story/01.webp",
+      "alt": "CKY Brand Identity"
+    },
+    "mainContent": {
+      "title": "From Chinese Newcomer to International Trendsetter",
+      "lead": "Interpreting unrestricted sound aesthetics through unique fashion design and vibrant color combinations.",
+      "paragraphs": [
+        "Since its birth in 2000, CKY has engraved \"freedom and happiness\" into every melody over 26 years. As a high-tech enterprise certified in China, the brand's inherent international DNA has driven it to pass BSCI international social responsibility certification, deeply cultivate the European and American markets, and establish a US subsidiary.",
+        "Integrating Silicon Valley's cutting-edge technology with Western trendy aesthetics, we create smart speakers that combine both appearance and sound quality for young people. The collision of vibrant colors and personalized designs makes each product an emotional outlet for young people—no need to deliberately cater, expressing oneself anytime, anywhere, elevating sound sharing into a delightful experience full of surprises."
+      ],
+      "stats": [
+        {
+          "number": "26",
+          "label": "Years of Heritage"
+        },
+        {
+          "number": "30+",
+          "label": "Global Presence"
+        },
+        {
+          "number": "BSCI",
+          "label": "Certified"
+        }
+      ]
+    },
+    "image": {
+      "src": "/assets/img/brand-story/02.webp",
+      "alt": "CKY Brand Development"
+    },
+    "additionalContent": {
+      "title": "Bidirectional Voice, In Sync with the World",
+      "paragraphs": [
+        "When CKY played \"the voice of China\" on the international stage, the Chinese founding team made a bold decision: to bring world trends into China. Adhering to the unique proposition of \"bidirectional voice\", CKY quickly swept the domestic young market—encouraging the new generation to both bravely express themselves and be willing to listen to diverse voices. This attitude of resonating with young people has established CKY's position as the \"trendy audio partner\" of Generation Z, winning favor with its trendy and cool image and daring spirit.",
+        "After 26 years of deep cultivation, CKY, which integrates \"rhythm, dynamism, and vitality\", has grown into an influential independent brand in China, winning widespread recognition with excellent craftsmanship and pure sound quality. The brand slogan \"Dare to Sound, Dare to Act\" has become the spiritual resonance for young people to break through themselves. Looking to the future, CKY will uphold the philosophy of \"success comes from cooperation\", joining hands with global partners to spread the sound of freedom and happiness around the world."
+      ]
+    }
+  },
+  "services": {
+    "sectionTitle": {
+      "subtitle": "Product Series",
+      "title": "Full-Scene Audio Solutions",
+      "description": "Product matrix covering home, office, automotive, and outdoor scenarios to meet sound needs in different contexts"
+    },
+    "items": [
+      {
+        "icon": "bi bi-speaker",
+        "title": "SOUNDBAR Systems",
+        "description": "Enhanced by Dolby Atmos technology, flexible configuration from 2.1 to 5.1.2 channels, equipped with wireless subwoofers and satellite speakers to create cinema-level immersive audio experiences.",
+        "link": {
+          "text": "Learn More",
+          "href": "#portfolio",
+          "filter": ".filter-soundbar"
+        }
+      },
+      {
+        "icon": "bi bi-boombox",
+        "title": "PORTABLE Party Speakers",
+        "description": "Dual 8-inch to dual 12-inch large-diameter speakers, optional built-in rechargeable battery or AC power supply, supports TWS interconnection and guitar/microphone interfaces, designed specifically for outdoor gatherings and performance scenarios.",
+        "link": {
+          "text": "Learn More",
+          "href": "#portfolio",
+          "filter": ".filter-portable"
+        }
+      },
+      {
+        "icon": "bi bi-vinyl",
+        "title": "TURNTABLE Players",
+        "description": "Vintage aesthetics meet modern technology, Bluetooth 5.4 wireless connection, MDF wooden cabinets, equipped with high-quality stylus and speaker systems to relive the musical sentiment of the vinyl era.",
+        "link": {
+          "text": "Learn More",
+          "href": "#portfolio",
+          "filter": ".filter-turntable"
+        }
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionTitle": {
+      "subtitle": "Our Advantages",
+      "title": "Why Choose CKY",
+      "description": "Choosing CKY means not only choosing high-quality audio, but also choosing a lifestyle full of vitality and daring to break through"
+    },
+    "mainContent": {
+      "title": "CKY's Brand Proposition",
+      "paragraphs": [
+        "<strong>CKY, the voice of the new generation.</strong>",
+        "Like a close friend, resonating with you. We focus on the essence of audio, with deep accumulation as the foundation, making the audio field our core focus for future development."
+      ]
+    },
+    "image": {
+      "src": "/assets/img/our-advantages/01.webp",
+      "alt": "CKY Brand Philosophy"
+    },
+    "features": [
+      {
+        "icon": "bi bi-shield-check",
+        "title": "Strength Builds Trust",
+        "description": "Following international cutting-edge core technology, deeply cultivating the markets of developed countries in Europe and America, shining on the international stage with superior product quality. Honored with the \"Well-known Brand\" award, authoritatively certifying product quality, enterprise management, and industry position, building a solid foundation of trust for user choices."
+      },
+      {
+        "icon": "bi bi-grid-3x3",
+        "title": "Adapting to Diverse Needs",
+        "description": "As a pioneer in the wireless smart speaker field, we have built a product matrix covering home, office, automotive, and outdoor scenarios. From gentle morning wake-ups to focused listening at work, to immersive enjoyment during leisure time, we meet different contextual sound needs with a rich product line."
+      },
+      {
+        "icon": "bi bi-soundwave",
+        "title": "Upgraded Audio Experience",
+        "description": "Adhering to the ultimate pursuit of audio technology, integrating cutting-edge technology into product development. The unique \"bidirectional sound\" technology breaks through traditional unidirectional transmission limitations, and Bluetooth technology continues to iterate and upgrade, enabling network interconnection and cloud music storage. Upholding the quality creed of \"sound quality first\", every product undergoes professional tuning and meticulous crafting to present authentic sound effects and a rich auditory feast with multiple layers."
+      },
+      {
+        "icon": "bi bi-lightning-charge",
+        "title": "Leading Lifestyle Attitude",
+        "description": "Understanding the spiritual core of young consumers, encouraging the new generation to break through themselves and move forward courageously with the brand slogan \"Dare to Sound, Dare to Act\". The brand image is trendy and cool, with designs integrating cutting-edge inspiration, combining technology and fashion sense, perfectly matching young aesthetic preferences, and highly resonating with contemporary values that pursue individuality and embrace diversity."
+      }
+    ]
+  },
+  "portfolio": {
+    "sectionTitle": {
+      "subtitle": "Products",
+      "title": "Featured Product Series",
+      "description": "Explore CKY's innovative audio products, each concentrating the ultimate pursuit of sound quality and the craftsmanship of design"
+    },
+    "filters": [
+      {
+        "label": "All Products",
+        "value": "*"
+      },
+      {
+        "label": "SOUNDBAR",
+        "value": ".filter-soundbar"
+      },
+      {
+        "label": "PORTABLE",
+        "value": ".filter-portable"
+      },
+      {
+        "label": "TURNTABLE",
+        "value": ".filter-turntable"
+      }
+    ],
+    "items": [
+      {
+        "filterClass": "filter-soundbar",
+        "category": "SOUNDBAR System",
+        "year": "2026",
+        "title": "SRA5088G Dolby Atmos Soundbar",
+        "description": "5.1.2 channel Dolby Atmos soundbar system, equipped with wireless satellite speakers and powerful subwoofer, 195W surging power output, creating a true home theater-level audio experience.",
+        "image": {
+          "src": "/assets/img/products/soundbar/sra5088g/00.webp",
+          "alt": "SRA5088G"
+        },
+        "link": "/en/products/soundbar/sra5088g",
+        "tags": ["5.1.2 Channel", "195W Power", "Wireless Satellites"],
+        "imageOrder": "left"
+      },
+      {
+        "filterClass": "filter-portable",
+        "category": "PORTABLE Party Speaker",
+        "year": "2026",
+        "title": "PT91219 Dual 12\" Party Speaker",
+        "description": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, the preferred equipment for large events and professional performances.",
+        "image": {
+          "src": "/assets/img/products/portable/pt91219/00.webp",
+          "alt": "PT91219"
+        },
+        "link": "/en/products/portable/pt91219",
+        "tags": ["Dual 12\"", "150W Power", "TWS Link"],
+        "imageOrder": "right"
+      },
+      {
+        "filterClass": "filter-turntable",
+        "category": "TURNTABLE Player",
+        "year": "2026",
+        "title": "TT101 Turntable Player",
+        "description": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching and more, a perfect fusion of vintage appearance and modern technology.",
+        "image": {
+          "src": "/assets/img/products/turntable/tt101/00.webp",
+          "alt": "TT101"
+        },
+        "link": "/en/products/turntable/tt101",
+        "tags": ["Bluetooth 5.4", "MDF Cabinet", "Vintage Design"],
+        "imageOrder": "left"
+      },
+      {
+        "filterClass": "filter-soundbar",
+        "category": "SOUNDBAR System",
+        "year": "2026",
+        "title": "SR322B All-in-One Soundbar",
+        "description": "2.2 channel soundbar system with built-in dual subwoofer design, 100W power output, metal dark gray with gray metal grille, combining elegant appearance with excellent sound quality.",
+        "image": {
+          "src": "/assets/img/products/soundbar/sr322b/00.webp",
+          "alt": "SR322B"
+        },
+        "link": "/en/products/soundbar/sr322b",
+        "tags": ["2.2 Channel", "Dual Subwoofers", "Metal Grille"],
+        "imageOrder": "right"
+      },
+      {
+        "filterClass": "filter-portable",
+        "category": "PORTABLE Party Speaker",
+        "year": "2026",
+        "title": "PT9818B Dual 8\" Party Speaker",
+        "description": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, ideal choice for outdoor gatherings and performances.",
+        "image": {
+          "src": "/assets/img/products/portable/pt9818b/00.webp",
+          "alt": "PT9818B"
+        },
+        "link": "/en/products/portable/pt9818b",
+        "tags": ["Dual 8\"", "Built-in Battery", "TWS Link"],
+        "imageOrder": "left"
+      },
+      {
+        "filterClass": "filter-turntable",
+        "category": "TURNTABLE Player",
+        "year": "2026",
+        "title": "TT102 All-in-One Turntable",
+        "description": "All-in-one turntable player, 25W power output, built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, compact design saves space.",
+        "image": {
+          "src": "/assets/img/products/turntable/tt102/00.webp",
+          "alt": "TT102"
+        },
+        "link": "/en/products/turntable/tt102",
+        "tags": ["All-in-One", "Crossover System", "Bluetooth 5.4"],
+        "imageOrder": "right"
+      }
+    ],
+    "conclusion": {
+      "title": "Explore More CKY Products",
+      "description": "Let's discuss how to create your ideal sound space through CKY audio products.",
+      "primaryAction": {
+        "text": "Contact Us",
+        "href": "#contact"
+      },
+      "secondaryAction": {
+        "text": "View All Products",
+        "href": "/en/products"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": {
+      "subtitle": "Contact Us",
+      "title": "Start Your Audio Journey",
+      "description": "Looking forward to communicating with you and exploring the best audio solutions together"
+    },
+    "intro": {
+      "icon": "bi bi-chat-dots",
+      "title": "Let's Connect",
+      "description": "We're here to listen to your needs and work together to realize your audio vision."
+    },
+    "details": [
+      {
+        "icon": "bi bi-envelope-open",
+        "label": "Email",
+        "value": "info@ckychina.com"
+      },
+      {
+        "icon": "bi bi-telephone-outbound",
+        "label": "Phone",
+        "value": "+86 134 3479 2043"
+      },
+      {
+        "icon": "bi bi-geo-alt-fill",
+        "label": "Address",
+        "value": "1st Floor, Building 10, Shangnan Industrial Zone, Yuanzhou Town, Boluo County, Huizhou City, Guangdong, China"
+      }
+    ],
+    "cta": {
+      "title": "Have a project in mind?",
+      "description": "Feel free to reach out to us anytime.",
+      "button": {
+        "text": "Email Us",
+        "email": "info@ckychina.com"
+      }
+    }
+  }
+}

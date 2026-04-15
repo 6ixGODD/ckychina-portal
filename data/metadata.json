@@ -1,0 +1,12 @@
+{
+  "titleTemplate": "%s | CKY",
+  "defaultTitle": "CKY - The New Generation of Smart Audio Trend Leaders",
+  "description": "CKY brand focuses on high-quality audio and smart audio-visual system R&D, design and manufacturing, with the brand philosophy of Dare to Sound, Dare to Act",
+  "keywords": "CKY,smart speakers,audio brand,home theater,portable speakers,turntable players",
+  "siteName": "CKY",
+  "siteUrl": "https://www.ckychina.com",
+  "openGraph": {
+    "type": "website",
+    "siteName": "CKY"
+  }
+}

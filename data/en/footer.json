@@ -1,0 +1,39 @@
+{
+  "about": "With 26 years of deep cultivation in the audio field, we focus on the R&D and manufacturing of high-quality audio and smart audio-visual systems. Integrating cutting-edge technology with design aesthetics, we create professional-level audio solutions for global users.",
+  "copyright": {
+    "year": 2026,
+    "holder": "CKY",
+    "text": "All rights reserved."
+  },
+  "linksGroups": [
+    {
+      "title": "Quick Links",
+      "links": [
+        {
+          "name": "Home",
+          "href": "/en#hero"
+        },
+        {
+          "name": "Brand Story",
+          "href": "/en#about"
+        },
+        {
+          "name": "Product Series",
+          "href": "/en#services"
+        },
+        {
+          "name": "Our Advantage",
+          "href": "/en#why-us"
+        },
+        {
+          "name": "Products",
+          "href": "/en#portfolio"
+        },
+        {
+          "name": "Contact Us",
+          "href": "/en#contact"
+        }
+      ]
+    }
+  ]
+}

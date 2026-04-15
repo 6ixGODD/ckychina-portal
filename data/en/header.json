@@ -1,0 +1,28 @@
+{
+  "nav": [
+    {
+      "name": "Home",
+      "href": "/en#hero"
+    },
+    {
+      "name": "Brand Story",
+      "href": "/en#about"
+    },
+    {
+      "name": "Product Series",
+        "href": "/en#services"
+    },
+    {
+      "name": "Our Advantage",
+      "href": "/en#why-us"
+    },
+    {
+      "name": "Products",
+      "href": "/en#portfolio"
+    },
+    {
+      "name": "Contact Us",
+      "href": "/en#contact"
+    }
+  ]
+}
