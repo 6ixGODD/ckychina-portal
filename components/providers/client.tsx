@@ -1,6 +1,6 @@
 'use client';
 
-// @ts-expect-error `@srexi/purecounterjs` does not have types
+// @ts-expect-error `@srexi/purecounterjs` does not provide types :(
 import PureCounter from '@srexi/purecounterjs';
 import AOS from 'aos';
 import GLightbox from 'glightbox';
@@ -10,12 +10,18 @@ import { useEffect } from 'react';
 import Swiper from 'swiper';
 import { Autoplay, Navigation, Pagination } from 'swiper/modules';
 
+import CookieConsent from '@/components/providers/cookie-consent';
 import HashScroll from '@/components/ui/hash-scroll';
 import Preloader from '@/components/ui/preloader';
 import ScrollEffect from '@/components/ui/scroll-effect';
 import ScrollTop from '@/components/ui/scroll-top';
+import type { Language } from '@/lib/i18n';
 
-export default function ClientProviders() {
+type Props = {
+    languages: Language[];
+};
+
+export default function ClientProviders({ languages }: Props) {
     useEffect(() => {
         AOS.init({
             duration: 600,
@@ -29,6 +35,7 @@ export default function ClientProviders() {
         });
 
         new PureCounter();
+
         const isotopeLayouts = document.querySelectorAll('.isotope-layout');
         isotopeLayouts.forEach((isotopeItem) => {
             const layout = (isotopeItem.getAttribute('data-layout') ?? 'masonry') as LayoutModes;
@@ -46,7 +53,6 @@ export default function ClientProviders() {
                     sortBy: sort,
                 });
 
-                // Setup filters
                 isotopeItem.querySelectorAll('.isotope-filters li').forEach((filterBtn) => {
                     filterBtn.addEventListener('click', function () {
                         const activeFilter = isotopeItem.querySelector('.isotope-filters .filter-active');
@@ -58,7 +64,6 @@ export default function ClientProviders() {
                             filter: filterBtn.getAttribute('data-filter') ?? '*',
                         });
 
-                        // Refresh AOS
                         AOS.refresh();
                     });
                 });
@@ -87,7 +92,7 @@ export default function ClientProviders() {
             <Preloader />
             <ScrollEffect />
             <HashScroll />
-            {/*<CookieConsent/>*/}
+            <CookieConsent languages={languages} />
         </>
     );
 }

@@ -34,6 +34,7 @@ export default function PortfolioCard({ data }: Props) {
                             loading='lazy'
                             width={600}
                             height={400}
+                            unoptimized={true}
                         />
                         <div className='project-overlay'>
                             <div className='overlay-content'>

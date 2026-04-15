@@ -22,15 +22,13 @@ type Props = {
 
 export default function Nav({ data }: Props) {
     const [isMobileNavActive, setIsMobileNavActive] = useState(false);
-    const [activeSection, setActiveSection] = useState('');
+    const [activeHash, setActiveHash] = useState('');
 
-    // Mobile nav toggle
     const toggleMobileNav = () => {
         setIsMobileNavActive(!isMobileNavActive);
         document.body.classList.toggle('mobile-nav-active');
     };
 
-    // Close mobile nav when clicking on a link
     const handleNavClick = () => {
         if (isMobileNavActive) {
             setIsMobileNavActive(false);
@@ -41,31 +39,42 @@ export default function Nav({ data }: Props) {
     // Navmenu Scrollspy
     useEffect(() => {
         const handleScrollSpy = () => {
-            const navLinks = document.querySelectorAll('.navmenu a');
+            const hashLinks = data.elements
+                .filter((el) => el.href.includes('#'))
+                .map((el) => ({
+                    ...el,
+                    hash: '#' + el.href.split('#')[1], // 提取 hash 部分
+                }));
 
-            navLinks.forEach((navLink) => {
-                const link = navLink as HTMLAnchorElement;
-                if (!link.hash) return;
-
-                const section = document.querySelector(link.hash);
-                if (!section) return;
+            for (const element of hashLinks) {
+                const section = document.querySelector(element.hash);
+                if (!section) continue;
 
                 const position = window.scrollY + 200;
                 const sectionTop = (section as HTMLElement).offsetTop;
                 const sectionHeight = (section as HTMLElement).offsetHeight;
 
                 if (position >= sectionTop && position <= sectionTop + sectionHeight) {
-                    setActiveSection(link.hash);
+                    setActiveHash(element.hash);
+                    return;
                 }
-            });
+            }
+
+            setActiveHash('');
         };
 
-        handleScrollSpy();
-        window.addEventListener('scroll', handleScrollSpy);
-        return () => window.removeEventListener('scroll', handleScrollSpy);
-    }, []);
+        const timer = setTimeout(handleScrollSpy, 100);
 
-    // Cleanup mobile nav on unmount
+        document.addEventListener('scroll', handleScrollSpy);
+        window.addEventListener('load', handleScrollSpy);
+
+        return () => {
+            clearTimeout(timer);
+            document.removeEventListener('scroll', handleScrollSpy);
+            window.removeEventListener('load', handleScrollSpy);
+        };
+    }, [data.elements]);
+
     useEffect(() => {
         return () => {
             document.body.classList.remove('mobile-nav-active');
@@ -75,21 +84,22 @@ export default function Nav({ data }: Props) {
     return (
         <nav id='navmenu' className='navmenu d-flex align-items-center'>
             <ul>
-                {data.elements.map((element) => (
-                    <li key={element.name}>
-                        <Link
-                            href={element.href}
-                            className={activeSection === element.href ? 'active' : ''}
-                            onClick={handleNavClick}
-                        >
-                            {element.name}
-                        </Link>
-                    </li>
-                ))}
+                {data.elements.map((element) => {
+                    const hasHash = element.href.includes('#');
+                    const hash = hasHash ? '#' + element.href.split('#')[1] : '';
+                    const isActive = hasHash && activeHash === hash;
+
+                    return (
+                        <li key={element.name}>
+                            <Link href={element.href} className={isActive ? 'active' : ''} onClick={handleNavClick}>
+                                {element.name}
+                            </Link>
+                        </li>
+                    );
+                })}
             </ul>
 
             <LangSwitcher languages={data.languages} />
-
             <i
                 className={`mobile-nav-toggle d-xl-none bi ${isMobileNavActive ? 'bi-x' : 'bi-list'}`}
                 onClick={toggleMobileNav}

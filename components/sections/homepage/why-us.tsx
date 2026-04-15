@@ -43,6 +43,7 @@ export default function WhyUs({ data }: Props) {
                                 className='img-fluid'
                                 width={600}
                                 height={400}
+                                unoptimized={true}
                             />
                         </div>
                     </div>

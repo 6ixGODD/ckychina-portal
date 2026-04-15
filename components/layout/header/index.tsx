@@ -8,11 +8,12 @@ export type HeaderData = {
 
 type Props = {
     data: HeaderData;
+    sticky?: boolean;
 };
 
-export default function Header({ data }: Props) {
+export default function Header({ data, sticky = false }: Props) {
     return (
-        <header id='header' className='header d-flex align-items-center fixed-top'>
+        <header id='header' className={`header d-flex align-items-center ${sticky ? 'sticky-top' : 'fixed-top'}`}>
             <div
                 className='
                 container-fluid
@@ -23,8 +24,8 @@ export default function Header({ data }: Props) {
                 justify-content-between'
             >
                 <Logo data={data.logo} />
+                <Nav data={data.nav} />
             </div>
-            <Nav data={data.nav} />
         </header>
     );
 }

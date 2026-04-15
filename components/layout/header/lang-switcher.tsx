@@ -2,32 +2,30 @@
 
 import { usePathname, useRouter } from 'next/navigation';
 
-import { buildPathWithLang, extractLangFromPath, Language } from '@/lib/i18n';
+import { buildPathWithLang, getLangFromPathname, Language, setLanguage } from '@/lib/i18n';
 
 type Props = {
     languages: Language[];
-    onSwitchAction?: (lang: string) => void;
 };
 
-export default function LangSwitcher({ languages, onSwitchAction }: Props) {
+export default function LangSwitcher({ languages }: Props) {
     const pathname = usePathname();
     const router = useRouter();
 
-    const currentLang = extractLangFromPath(pathname);
+    const currentLang = getLangFromPathname(pathname, languages);
+    const currentLanguage = languages.find((lang) => lang.code === currentLang);
 
-    function handleSwitch(lang: string) {
-        const nextPath = buildPathWithLang(pathname, lang);
-        onSwitchAction?.(lang);
+    function handleSwitch(targetLang: string) {
+        const nextPath = buildPathWithLang(pathname, targetLang, languages);
+        setLanguage(targetLang);
         router.push(nextPath);
     }
-
-    const currentLanguage = languages.find((lang) => lang.code === currentLang)?.name || 'Language';
 
     return (
         <div className='lang'>
             <div className='lang-current'>
                 <i className='bi bi-globe2'></i>
-                <span>{currentLanguage}</span>
+                <span className='lang-name'>{currentLanguage?.nativeName || 'Language'}</span>
                 <i className='bi bi-chevron-down'></i>
             </div>
 
@@ -39,7 +37,7 @@ export default function LangSwitcher({ languages, onSwitchAction }: Props) {
                         className={lang.code === currentLang ? 'active' : ''}
                         onClick={() => handleSwitch(lang.code)}
                     >
-                        {lang.name}
+                        {lang.nativeName}
                     </button>
                 ))}
             </div>

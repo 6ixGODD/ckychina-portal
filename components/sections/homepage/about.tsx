@@ -44,8 +44,9 @@ export default function About({ data }: Props) {
                             src={data.logo.src}
                             alt={data.logo.alt}
                             className='cky-full-logo'
-                            width={400}
-                            height={200}
+                            width={500}
+                            height={400}
+                            unoptimized={true}
                         />
                     </div>
                 </div>
@@ -87,6 +88,7 @@ export default function About({ data }: Props) {
                                 className='img-fluid'
                                 width={600}
                                 height={400}
+                                unoptimized={true}
                             />
                         </div>
                     </div>

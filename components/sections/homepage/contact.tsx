@@ -48,13 +48,15 @@ export default function Contact({ data }: Props) {
                         </div>
                     </div>
 
-                    <div className='col-lg-7 d-flex align-items-center justify-content-center'>
-                        <div className='text-center'>
-                            <h3>{data.cta.title}</h3>
+                    <div className='col-lg-7 d-flex align-items-center justify-content-center contact-cta'>
+                        <div className='text-center cta-content'>
+                            <h4>{data.cta.title}</h4>
                             <p>{data.cta.description}</p>
-                            <a href={`mailto:${data.cta.button.email}`} className='btn btn-primary'>
-                                {data.cta.button.text}
-                            </a>
+                            <div className='cta-actions'>
+                                <a href={`mailto:${data.cta.button.email}`} className='primary-action'>
+                                    {data.cta.button.text}
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
