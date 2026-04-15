@@ -6,7 +6,7 @@ import Hero from '@/components/sections/homepage/hero';
 import Portfolio from '@/components/sections/homepage/portfolio';
 import Services from '@/components/sections/homepage/services';
 import WhyUs from '@/components/sections/homepage/why-us';
-import { loadLanguagesJson } from '@/lib/models/language';
+import { loadLanguagesJson } from '@/lib/models/languages';
 import { buildMetadata } from '@/lib/models/metadata';
 import { buildHomePageData } from '@/lib/models/pages/home';
 
