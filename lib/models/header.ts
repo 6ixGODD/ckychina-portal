@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 import type { HeaderData } from '@/components/layout/header';
-import { loadLanguagesJson } from '@/lib/models/language';
+import { loadLanguagesJson } from '@/lib/models/languages';
 import { loadLogoJson } from '@/lib/models/logo';
 
 export const HeaderJsonSchema = z.object({
