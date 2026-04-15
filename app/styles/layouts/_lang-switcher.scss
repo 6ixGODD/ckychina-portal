@@ -1,0 +1,157 @@
+/*--------------------------------------------------------------
+# Language Switcher
+--------------------------------------------------------------*/
+
+.lang {
+    position: relative;
+    margin-left: 50px;
+
+    .lang-current {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        cursor: pointer;
+        color: var(--nav-color);
+        transition: color 0.3s;
+        user-select: none;
+
+        &:hover {
+            color: var(--nav-hover-color);
+        }
+
+        .bi-globe2 {
+            font-size: 18px;
+        }
+
+        .bi-chevron-down {
+            font-size: 12px;
+            transition: transform 0.3s;
+        }
+
+        // Desktop: show language name
+        .lang-name {
+            font-size: 14px;
+            font-family: var(--nav-font), sans-serif;
+            font-weight: 400;
+        }
+    }
+
+    &:hover .lang-current .bi-chevron-down {
+        transform: rotate(180deg);
+    }
+
+    .lang-menu {
+        position: absolute;
+        top: calc(100% + 10px);
+        right: 0;
+        min-width: 180px;
+        padding: 10px 0;
+        background-color: rgba(255, 255, 255, 0.95);
+        border-radius: 10px;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.01);
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
+        z-index: 1200;
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px 20px;
+            text-align: left;
+            background: none;
+            border: none;
+            color: var(--nav-color);
+            font-size: 15px;
+            font-family: var(--nav-font), sans-serif;
+            cursor: pointer;
+            transition: all 0.3s;
+
+            &:hover {
+                color: var(--nav-dropdown-hover-color);
+                background: rgba(0, 0, 0, 0.05);
+            }
+
+            &.active {
+                color: var(--accent-color);
+                font-weight: 400;
+            }
+        }
+    }
+
+    &:hover .lang-menu {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+}
+
+/* Desktop styles */
+@media (min-width: 1200px) {
+    .lang {
+        .lang-current {
+            .lang-name {
+                display: inline;
+            }
+        }
+    }
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+    .lang {
+        margin-left: 0;
+        margin-right: auto;
+
+        .lang-current {
+            padding: 8px;
+
+            // Hide language name on mobile, only show globe icon
+            .lang-name {
+                display: none;
+            }
+
+            .bi-chevron-down {
+                display: none;
+            }
+
+            .bi-globe2 {
+                font-size: 24px;
+            }
+        }
+
+        .lang-menu {
+            left: 0;
+            right: auto;
+            background: var(--nav-mobile-background-color);
+        }
+    }
+
+    // Mobile nav active state
+    .mobile-nav-active {
+        .lang {
+            .lang-current {
+                color: var(--contrast-color);
+            }
+
+            .lang-menu {
+                background: rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(10px);
+
+                button {
+                    color: var(--contrast-color);
+
+                    &:hover {
+                        background: rgba(255, 255, 255, 0.1);
+                    }
+
+                    &.active {
+                        color: var(--accent-color);
+                    }
+                }
+            }
+        }
+    }
+}

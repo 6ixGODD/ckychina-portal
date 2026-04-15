@@ -1,11 +1,10 @@
-// main: ../main.scss
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
 body {
     color: var(--default-color);
     background-color: var(--background-color);
-    font-family: var(--default-font);
+    font-family: var(--default-font), sans-serif;
 }
 
 a {
@@ -26,7 +25,7 @@ h4,
 h5,
 h6 {
     color: var(--heading-color);
-    font-family: var(--heading-font);
+    font-family: var(--heading-font), sans-serif;
 }
 
 /* PHP Email Form Messages

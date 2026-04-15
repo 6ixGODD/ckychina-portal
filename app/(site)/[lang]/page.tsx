@@ -1,11 +1,15 @@
 import { Metadata } from 'next';
+import React from 'react';
 
+import Header from '@/components/layout/header';
 import About from '@/components/sections/homepage/about';
 import Contact from '@/components/sections/homepage/contact';
 import Hero from '@/components/sections/homepage/hero';
 import Portfolio from '@/components/sections/homepage/portfolio';
 import Services from '@/components/sections/homepage/services';
 import WhyUs from '@/components/sections/homepage/why-us';
+import { DEFAULT_LANGUAGE } from '@/lib/constants';
+import { buildHeaderData } from '@/lib/models/header';
 import { loadLanguagesJson } from '@/lib/models/languages';
 import { buildMetadata } from '@/lib/models/metadata';
 import { buildHomePageData } from '@/lib/models/pages/home';
@@ -21,15 +25,20 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function HomePage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;
     const data = await buildHomePageData(lang);
+    const languages = await loadLanguagesJson();
+    const validLang = languages.find((l) => l.code === lang)?.code || DEFAULT_LANGUAGE;
 
     return (
         <>
-            <Hero data={data.hero} />
-            <About data={data.about} />
-            <Services data={data.services} />
-            <WhyUs data={data.whyUs} />
-            <Portfolio data={data.portfolio} />
-            <Contact data={data.contact} />
+            <Header data={await buildHeaderData(validLang)} />
+            <main className='main'>
+                <Hero data={data.hero} />
+                <About data={data.about} />
+                <Services data={data.services} />
+                <WhyUs data={data.whyUs} />
+                <Portfolio data={data.portfolio} />
+                <Contact data={data.contact} />
+            </main>
         </>
     );
 }
