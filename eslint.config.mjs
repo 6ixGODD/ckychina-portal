@@ -1,12 +1,13 @@
+import css from '@eslint/css';
 import js from '@eslint/js';
-import globals from 'globals';
-import tseslint from 'typescript-eslint';
-import pluginReact from 'eslint-plugin-react';
-import pluginReactHooks from 'eslint-plugin-react-hooks';
-import pluginNext from '@next/eslint-plugin-next';
 import json from '@eslint/json';
 import markdown from '@eslint/markdown';
-import css from '@eslint/css';
+import pluginNext from '@next/eslint-plugin-next';
+import pluginReact from 'eslint-plugin-react';
+import pluginReactHooks from 'eslint-plugin-react-hooks';
+import simpleImportSort from 'eslint-plugin-simple-import-sort';
+import globals from 'globals';
+import tseslint from 'typescript-eslint';
 
 export default [
     // ========================================================================
@@ -26,6 +27,7 @@ export default [
             '**/public/**',
             'docs/reference/**',
             'deps/**',
+            'data/**',
             'venv/**',
             '.venv/**',
             '**/package-lock.json',
@@ -53,12 +55,15 @@ export default [
         },
         plugins: {
             '@typescript-eslint': tseslint.plugin,
+            'simple-import-sort': simpleImportSort,
         },
         rules: {
             ...js.configs.recommended.rules,
             // Customize rules here
             'no-console': ['warn', { allow: ['warn', 'error'] }],
             'no-unused-vars': 'off', // Handled by TypeScript
+            'simple-import-sort/imports': 'error',
+            'simple-import-sort/exports': 'error',
         },
     },
 
