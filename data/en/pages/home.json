@@ -163,101 +163,15 @@
       },
       {
         "label": "SOUNDBAR",
-        "value": ".filter-soundbar"
+        "value": "soundbar"
       },
       {
         "label": "PORTABLE",
-        "value": ".filter-portable"
+        "value": "portable"
       },
       {
         "label": "TURNTABLE",
-        "value": ".filter-turntable"
-      }
-    ],
-    "items": [
-      {
-        "filterClass": "filter-soundbar",
-        "category": "SOUNDBAR System",
-        "year": "2026",
-        "title": "SRA5088G Dolby Atmos Soundbar",
-        "description": "5.1.2 channel Dolby Atmos soundbar system, equipped with wireless satellite speakers and powerful subwoofer, 195W surging power output, creating a true home theater-level audio experience.",
-        "image": {
-          "src": "/assets/img/products/soundbar/sra5088g/00.webp",
-          "alt": "SRA5088G"
-        },
-        "link": "/en/products/soundbar/sra5088g",
-        "tags": ["5.1.2 Channel", "195W Power", "Wireless Satellites"],
-        "imageOrder": "left"
-      },
-      {
-        "filterClass": "filter-portable",
-        "category": "PORTABLE Party Speaker",
-        "year": "2026",
-        "title": "PT91219 Dual 12\" Party Speaker",
-        "description": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, the preferred equipment for large events and professional performances.",
-        "image": {
-          "src": "/assets/img/products/portable/pt91219/00.webp",
-          "alt": "PT91219"
-        },
-        "link": "/en/products/portable/pt91219",
-        "tags": ["Dual 12\"", "150W Power", "TWS Link"],
-        "imageOrder": "right"
-      },
-      {
-        "filterClass": "filter-turntable",
-        "category": "TURNTABLE Player",
-        "year": "2026",
-        "title": "TT101 Turntable Player",
-        "description": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching and more, a perfect fusion of vintage appearance and modern technology.",
-        "image": {
-          "src": "/assets/img/products/turntable/tt101/00.webp",
-          "alt": "TT101"
-        },
-        "link": "/en/products/turntable/tt101",
-        "tags": ["Bluetooth 5.4", "MDF Cabinet", "Vintage Design"],
-        "imageOrder": "left"
-      },
-      {
-        "filterClass": "filter-soundbar",
-        "category": "SOUNDBAR System",
-        "year": "2026",
-        "title": "SR322B All-in-One Soundbar",
-        "description": "2.2 channel soundbar system with built-in dual subwoofer design, 100W power output, metal dark gray with gray metal grille, combining elegant appearance with excellent sound quality.",
-        "image": {
-          "src": "/assets/img/products/soundbar/sr322b/00.webp",
-          "alt": "SR322B"
-        },
-        "link": "/en/products/soundbar/sr322b",
-        "tags": ["2.2 Channel", "Dual Subwoofers", "Metal Grille"],
-        "imageOrder": "right"
-      },
-      {
-        "filterClass": "filter-portable",
-        "category": "PORTABLE Party Speaker",
-        "year": "2026",
-        "title": "PT9818B Dual 8\" Party Speaker",
-        "description": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, ideal choice for outdoor gatherings and performances.",
-        "image": {
-          "src": "/assets/img/products/portable/pt9818b/00.webp",
-          "alt": "PT9818B"
-        },
-        "link": "/en/products/portable/pt9818b",
-        "tags": ["Dual 8\"", "Built-in Battery", "TWS Link"],
-        "imageOrder": "left"
-      },
-      {
-        "filterClass": "filter-turntable",
-        "category": "TURNTABLE Player",
-        "year": "2026",
-        "title": "TT102 All-in-One Turntable",
-        "description": "All-in-one turntable player, 25W power output, built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, compact design saves space.",
-        "image": {
-          "src": "/assets/img/products/turntable/tt102/00.webp",
-          "alt": "TT102"
-        },
-        "link": "/en/products/turntable/tt102",
-        "tags": ["All-in-One", "Crossover System", "Bluetooth 5.4"],
-        "imageOrder": "right"
+        "value": "turntable"
       }
     ],
     "conclusion": {

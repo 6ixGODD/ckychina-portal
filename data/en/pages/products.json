@@ -1,10 +1,30 @@
 {
+  "metadata": {
+    "title": "All Products - CKY Audio",
+    "description": "Explore all CKY audio products including soundbar systems, portable party speakers, and vinyl turntables",
+    "keywords": "CKY products,soundbar,portable speakers,turntables,audio equipment"
+  },
+  "pageTitle": {
+    "breadcrumbs": [
+      {"label": "Home", "href": "/en"},
+      {"label": "All Products"}
+    ],
+    "title": "All Products",
+    "details": {
+      "breadcrumbs": [
+        {"label": "Home", "href": "/en"},
+        {"label": "All Products", "href": "/en/products"}
+      ],
+      "title": "Product Details"
+    },
+    "description": "Explore CKY's complete range of innovative audio products"
+  },
   "products": [
     {
       "id": "sra5088g",
       "name": "SRA5088G Dolby Atmos Soundbar",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "5.1.2 channel Dolby Atmos soundbar system, equipped with wireless satellite speakers and powerful subwoofer, 195W surging power output, creating a true home theater-level audio experience.",
       "detailDescription": "5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and powerful subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 195W powerful output, creating true home theater-grade audio experience.",
@@ -159,7 +179,7 @@
       "id": "bt408",
       "name": "BT408 Portable Bluetooth Speaker",
       "category": "portable",
-      "categoryName": "PORTABLE Party Speaker",
+      "categoryName": "PORTABLE",
       "year": "2026",
       "description": "BT408 portable Bluetooth speaker featuring Bluetooth 5.4 technology with 40W powerful output. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and more.",
       "detailDescription": "BT408 portable Bluetooth speaker featuring Bluetooth 5.4 technology with 40W powerful output. Built-in 7.4V/3000mAh high-capacity battery supports USB-C fast charging. IPX4 waterproof rating, supports TWS pairing, ideal choice for outdoor activities and daily listening.",
@@ -291,7 +311,7 @@
       "id": "tt101",
       "name": "TT101 Turntable Player",
       "category": "turntable",
-      "categoryName": "TURNTABLE Player",
+      "categoryName": "TURNTABLE",
       "year": "2026",
       "description": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching and more, a perfect fusion of vintage appearance and modern technology.",
       "detailDescription": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, perfect fusion of vintage and modern.",
@@ -423,7 +443,7 @@
       "id": "pt91219",
       "name": "PT91219 Dual 12\" Party Speaker",
       "category": "portable",
-      "categoryName": "PORTABLE Party Speaker",
+      "categoryName": "PORTABLE",
       "year": "2026",
       "description": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, the preferred equipment for large events and professional performances.",
       "detailDescription": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection, guitar/microphone interfaces, ideal for large events and professional performances.",
@@ -558,7 +578,7 @@
       "id": "tt102",
       "name": "TT102 All-in-One Turntable",
       "category": "turntable",
-      "categoryName": "TURNTABLE Player",
+      "categoryName": "TURNTABLE",
       "year": "2026",
       "description": "All-in-one turntable player, 25W power output, built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, compact design saves space.",
       "detailDescription": "Integrated vinyl turntable with 25W power output and built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and other versatile functions. MDF wooden cabinet design with compact integrated structure, perfect fusion of vintage aesthetics and modern technology.",
@@ -684,10 +704,152 @@
       }
     },
     {
+      "id": "pt91019",
+      "name": "PT91019 Dual 10\" Party Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection, guitar/mic input, ideal for large gatherings and professional performances.",
+      "detailDescription": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more. Features USB 2.0A charging port, guitar input, and microphone input. Supports AC110V/220V power supply, suitable for various large gatherings and performance scenarios.",
+      "features": [
+        "Dual 10\"",
+        "150W Power",
+        "USB Charging"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91019/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - PT91019 Portable Party Speaker",
+        "description": "PT91019 Dual 10-inch Portable Party Speaker, 150W power output, supports Bluetooth/USB/FM radio, features USB charging port",
+        "keywords": "portable speaker,party speaker,bluetooth speaker,outdoor speaker,dual 10 inch"
+      },
+      "projectMeta": {
+        "type": "Professional Party Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91019/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The PT91019 is a professional party speaker designed for large gatherings and professional performances. Dual 10-inch large-diameter speaker configuration with 150W powerful output provides more impressive audio performance and greater sound pressure level than the 8-inch version, suitable for outdoor large parties, commercial events, small concerts, and other scenarios.",
+          "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Supports Bluetooth wireless connection, USB playback (up to 32GB), FM radio, and other audio input methods. TWS True Wireless Stereo technology can interconnect two speakers to create a more powerful stereo system. Equipped with USB 2.0A charging port for charging mobile devices. Guitar input and microphone input (supports wired/wireless microphones) make this speaker a multi-functional entertainment center. LED display and remote control make operation more convenient."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "PT91019"
+        },
+        {
+          "label": "Speaker Size",
+          "value": "Dual 10\""
+        },
+        {
+          "label": "Power Output",
+          "value": "150W"
+        },
+        {
+          "label": "Power Supply",
+          "value": "AC110V/220V"
+        },
+        {
+          "label": "Application",
+          "value": "Large Gatherings / Professional Performance"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The PT91019 focuses on professional audio quality and powerful performance, making it the perfect choice for large events and professional performances.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Professional-Grade Audio",
+            "description": "Dual 10-inch large-diameter speaker configuration with 150W powerful output provides greater sound pressure level and more impressive audio performance than the 8-inch version. Whether outdoor large parties or commercial events, it can easily cover the entire venue, delivering professional-grade audio quality."
+          },
+          {
+            "number": "02",
+            "title": "Stable Power System",
+            "description": "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Equipped with USB 2.0A charging port for charging mobile devices, maintaining sufficient device power even during outdoor use."
+          },
+          {
+            "number": "03",
+            "title": "All-in-One Entertainment Center",
+            "description": "Supports Bluetooth, USB, FM radio, TWS interconnection, and more. Features guitar input and microphone input, supports wired/wireless microphones (optional), suitable for karaoke, performances, DJ shows, and various entertainment scenarios. LED display and remote control make operation more convenient."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt91019/02.webp",
+          "alt": "PT91019",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt91019/03.webp",
+          "alt": "PT91019",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The PT91019 uses professional-grade audio components and stable power supply system to ensure long-term high-quality operation and excellent sound performance.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "Dual 10\" Speakers",
+              "150W Output"
+            ]
+          },
+          {
+            "title": "Power System",
+            "tags": [
+              "AC110V/220V",
+              "USB 2.0A Charging"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "Bluetooth",
+              "USB (32GB)",
+              "FM Radio",
+              "TWS Link",
+              "Guitar/Mic Input"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "Professional Power"
+          },
+          {
+            "stat": "Dual 10\"",
+            "label": "Large Drivers"
+          },
+          {
+            "stat": "USB",
+            "label": "2.0A Charging"
+          },
+          {
+            "stat": "TWS",
+            "label": "Wireless Link"
+          }
+        ]
+      }
+    },
+    {
       "id": "sr200g-37-160",
       "name": "SR200G-37-160 Soundbar System",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "2.1 channel soundbar system with wireless subwoofer, 120W power output, metal grille with glossy finish, delivering elegant appearance and excellent sound quality.",
       "detailDescription": "2.1 channel soundbar system with wireless subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 120W powerful output, metal grille with glossy finish, delivering elegant appearance and excellent sound quality.",
@@ -698,7 +860,7 @@
       ],
       "mainImage": "/assets/img/products/soundbar/sr200g-37-160/00.webp",
       "imagePosition": "left",
-      "featured": true,
+      "featured": false,
       "metadata": {
         "title": "Product Details - SR200G-37-160 Soundbar System",
         "description": "SR200G-37-160 2.1 Channel Soundbar System with wireless subwoofer, 120W power output, metal grille design",
@@ -832,7 +994,7 @@
       "id": "sr322",
       "name": "SR322 Bluetooth Soundbar",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "2.2 channel Bluetooth soundbar system with built-in dual subwoofers, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
       "detailDescription": "2.2 channel Bluetooth soundbar system with built-in dual subwoofers, supports HDMI ARC, optical, Bluetooth and other connection methods, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
@@ -984,7 +1146,7 @@
       "id": "sr322b",
       "name": "SR322B All-in-One Soundbar",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "2.2 channel soundbar system with built-in dual subwoofer design, 100W power output, metal dark gray with gray metal grille, combining elegant appearance with excellent sound quality.",
       "detailDescription": "2.2 channel soundbar system with built-in dual subwoofers, supports HDMI ARC, optical, Bluetooth and other connection methods, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
@@ -1126,7 +1288,7 @@
       "id": "sra283g-32-80",
       "name": "SRA283G-32-80 Dolby Atmos Soundbar",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "2.1 channel Dolby Atmos soundbar system with wireless subwoofer, 80W power output, compact design perfect for small apartments and bedrooms.",
       "detailDescription": "2.1 channel Dolby Atmos soundbar system with wireless subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 80W power output, delivering clear and pleasant sound quality.",
@@ -1137,7 +1299,7 @@
       ],
       "mainImage": "/assets/img/products/soundbar/sra283g-32-80/00.webp",
       "imagePosition": "right",
-      "featured": true,
+      "featured": false,
       "metadata": {
         "title": "Product Details - SRA283G-32-80 Dolby Atmos Soundbar System",
         "description": "SRA283G-32-80 2.1 channel Dolby Atmos soundbar system with wireless subwoofer, 80W output, compact design for various home spaces",
@@ -1279,7 +1441,7 @@
       "id": "sra5078g",
       "name": "SRA5078G Dolby Atmos Soundbar",
       "category": "soundbar",
-      "categoryName": "SOUNDBAR System",
+      "categoryName": "SOUNDBAR",
       "year": "2026",
       "description": "5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and powerful subwoofer, 180W total power output, creating true home theater-level audio experience.",
       "detailDescription": "The SRA5078G features 5.1.2 channel configuration with Dolby Atmos technology. Includes wireless satellite speakers and powerful subwoofer, multiple connectivity options including HDMI ARC, optical, and Bluetooth, total power up to 180W for stunning audio performance.",
@@ -1290,7 +1452,7 @@
       ],
       "mainImage": "/assets/img/products/soundbar/sra5078g/00.webp",
       "imagePosition": "left",
-      "featured": true,
+      "featured": false,
       "metadata": {
         "title": "Product Details - SRA5078G Dolby Atmos Soundbar System",
         "description": "SRA5078G 5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and subwoofer for cinema-grade immersive audio experience",
@@ -1424,7 +1586,7 @@
       "id": "bt508",
       "name": "BT508 Portable Bluetooth Speaker",
       "category": "portable",
-      "categoryName": "PORTABLE Party Speaker",
+      "categoryName": "PORTABLE",
       "year": "2026",
       "description": "BT508 professional portable Bluetooth speaker featuring Bluetooth 5.4 technology with 80W powerful output. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and more, ideal choice for large outdoor activities.",
       "detailDescription": "BT508 professional portable Bluetooth speaker featuring Bluetooth 5.4 technology with 80W powerful output. Built-in 11.1V/2200mAh high-performance battery supports USB-C fast charging. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and multiple functions, ideal choice for large outdoor activities and professional use.",
@@ -1568,7 +1730,7 @@
       "id": "pt9818b",
       "name": "PT9818B Dual 8\" Party Speaker",
       "category": "portable",
-      "categoryName": "PORTABLE Party Speaker",
+      "categoryName": "PORTABLE",
       "year": "2026",
       "description": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, ideal choice for outdoor gatherings and performances.",
       "detailDescription": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more. Features guitar input and microphone input, ideal choice for outdoor gatherings and performances.",
@@ -1705,148 +1867,24 @@
           }
         ]
       }
+    }
+  ],
+  "categories": [
+    {
+      "value": "*",
+      "label": "All Products"
     },
     {
-      "id": "pt91019",
-      "name": "PT91019 Dual 10\" Party Speaker",
-      "category": "portable",
-      "categoryName": "PORTABLE Party Speaker",
-      "year": "2026",
-      "description": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection, guitar/mic input, ideal for large gatherings and professional performances.",
-      "detailDescription": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more. Features USB 2.0A charging port, guitar input, and microphone input. Supports AC110V/220V power supply, suitable for various large gatherings and performance scenarios.",
-      "features": [
-        "Dual 10\"",
-        "150W Power",
-        "USB Charging"
-      ],
-      "mainImage": "/assets/img/products/portable/pt91019/00.webp",
-      "imagePosition": "left",
-      "featured": true,
-      "metadata": {
-        "title": "Product Details - PT91019 Portable Party Speaker",
-        "description": "PT91019 Dual 10-inch Portable Party Speaker, 150W power output, supports Bluetooth/USB/FM radio, features USB charging port",
-        "keywords": "portable speaker,party speaker,bluetooth speaker,outdoor speaker,dual 10 inch"
-      },
-      "projectMeta": {
-        "type": "Professional Party Speaker",
-        "year": "2026"
-      },
-      "showcaseImages": [
-        "/assets/img/products/portable/pt91019/01.webp"
-      ],
-      "introduction": {
-        "title": "Product Introduction",
-        "paragraphs": [
-          "The PT91019 is a professional party speaker designed for large gatherings and professional performances. Dual 10-inch large-diameter speaker configuration with 150W powerful output provides more impressive audio performance and greater sound pressure level than the 8-inch version, suitable for outdoor large parties, commercial events, small concerts, and other scenarios.",
-          "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Supports Bluetooth wireless connection, USB playback (up to 32GB), FM radio, and other audio input methods. TWS True Wireless Stereo technology can interconnect two speakers to create a more powerful stereo system. Equipped with USB 2.0A charging port for charging mobile devices. Guitar input and microphone input (supports wired/wireless microphones) make this speaker a multi-functional entertainment center. LED display and remote control make operation more convenient."
-        ]
-      },
-      "specifications": [
-        {
-          "label": "Model",
-          "value": "PT91019"
-        },
-        {
-          "label": "Speaker Size",
-          "value": "Dual 10\""
-        },
-        {
-          "label": "Power Output",
-          "value": "150W"
-        },
-        {
-          "label": "Power Supply",
-          "value": "AC110V/220V"
-        },
-        {
-          "label": "Application",
-          "value": "Large Gatherings / Professional Performance"
-        }
-      ],
-      "coreAdvantages": {
-        "title": "Core Advantages",
-        "description": "The PT91019 focuses on professional audio quality and powerful performance, making it the perfect choice for large events and professional performances.",
-        "items": [
-          {
-            "number": "01",
-            "title": "Professional-Grade Audio",
-            "description": "Dual 10-inch large-diameter speaker configuration with 150W powerful output provides greater sound pressure level and more impressive audio performance than the 8-inch version. Whether outdoor large parties or commercial events, it can easily cover the entire venue, delivering professional-grade audio quality."
-          },
-          {
-            "number": "02",
-            "title": "Stable Power System",
-            "description": "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Equipped with USB 2.0A charging port for charging mobile devices, maintaining sufficient device power even during outdoor use."
-          },
-          {
-            "number": "03",
-            "title": "All-in-One Entertainment Center",
-            "description": "Supports Bluetooth, USB, FM radio, TWS interconnection, and more. Features guitar input and microphone input, supports wired/wireless microphones (optional), suitable for karaoke, performances, DJ shows, and various entertainment scenarios. LED display and remote control make operation more convenient."
-          }
-        ]
-      },
-      "gallery": [
-        {
-          "src": "/assets/img/products/portable/pt91019/02.webp",
-          "alt": "PT91019",
-          "featured": true
-        },
-        {
-          "src": "/assets/img/products/portable/pt91019/03.webp",
-          "alt": "PT91019",
-          "featured": true
-        }
-      ],
-      "technicalSpecs": {
-        "title": "Technical Specifications",
-        "description": "The PT91019 uses professional-grade audio components and stable power supply system to ensure long-term high-quality operation and excellent sound performance.",
-        "groups": [
-          {
-            "title": "Audio Performance",
-            "tags": [
-              "Dual 10\" Speakers",
-              "150W Output"
-            ]
-          },
-          {
-            "title": "Power System",
-            "tags": [
-              "AC110V/220V",
-              "USB 2.0A Charging"
-            ]
-          },
-          {
-            "title": "Features",
-            "tags": [
-              "Bluetooth",
-              "USB (32GB)",
-              "FM Radio",
-              "TWS Link",
-              "Guitar/Mic Input"
-            ]
-          }
-        ]
-      },
-      "highlights": {
-        "title": "Product Highlights",
-        "items": [
-          {
-            "stat": "150W",
-            "label": "Professional Power"
-          },
-          {
-            "stat": "Dual 10\"",
-            "label": "Large Drivers"
-          },
-          {
-            "stat": "USB",
-            "label": "2.0A Charging"
-          },
-          {
-            "stat": "TWS",
-            "label": "Wireless Link"
-          }
-        ]
-      }
+      "value": "soundbar",
+      "label": "SOUNDBAR"
+    },
+    {
+      "value": "portable",
+      "label": "PORTABLE"
+    },
+    {
+      "value": "turntable",
+      "label": "TURNTABLE"
     }
   ]
 }

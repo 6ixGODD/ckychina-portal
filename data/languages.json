@@ -4,11 +4,5 @@
     "name": "English",
     "nativeName": "English",
     "bcp47": "en-US"
-  },
-  {
-    "code": "zh",
-    "name": "Chinese",
-    "nativeName": "中文",
-    "bcp47": "zh-CN"
   }
 ]

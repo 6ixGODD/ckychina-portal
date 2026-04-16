@@ -1,12 +1,13 @@
 import { z } from 'zod';
 
 import type { AboutData } from '@/components/sections/homepage/about';
-import type { ContactData } from '@/components/sections/homepage/contact';
+import type { ContactData } from '@/components/sections/homepage/contact-us';
 import type { HeroData } from '@/components/sections/homepage/hero';
 import type { PortfolioData } from '@/components/sections/homepage/portfolio';
 import type { ServicesData } from '@/components/sections/homepage/services';
 import type { WhyUsData } from '@/components/sections/homepage/why-us';
 import { PageMetadataJsonSchema } from '@/lib/models/metadata';
+import { getFeaturedProducts } from '@/lib/models/pages/products';
 
 /**
  * Schema for Section Title (reusable)
@@ -118,22 +119,6 @@ export const PortfolioJsonSchema = z.object({
             value: z.string(),
         }),
     ),
-    items: z.array(
-        z.object({
-            filterClass: z.string(),
-            category: z.string(),
-            year: z.string(),
-            title: z.string(),
-            description: z.string(),
-            image: z.object({
-                src: z.string(),
-                alt: z.string(),
-            }),
-            link: z.string(),
-            tags: z.array(z.string()),
-            imageOrder: z.enum(['left', 'right']),
-        }),
-    ),
     conclusion: z.object({
         title: z.string(),
         description: z.string(),
@@ -202,58 +187,58 @@ export async function loadHomePageJson(lang: string): Promise<HomePageJsonData> 
  * Build typed data for all homepage sections
  */
 export async function buildHomePageData(lang: string) {
-    const json = await loadHomePageJson(lang);
-
+    const homePageJsonData = await loadHomePageJson(lang);
+    const featuredProducts = await getFeaturedProducts(lang);
     const heroData: HeroData = {
-        title: json.hero.title,
-        content: json.hero.content,
-        cta: json.hero.cta,
-        statistics: json.hero.statistics.map((stat) => ({
+        title: homePageJsonData.hero.title,
+        content: homePageJsonData.hero.content,
+        cta: homePageJsonData.hero.cta,
+        statistics: homePageJsonData.hero.statistics.map((stat) => ({
             number: stat.number,
             label: stat.label,
         })),
         img: {
-            src: json.hero.image.src,
-            alt: json.hero.image.alt,
+            src: homePageJsonData.hero.image.src,
+            alt: homePageJsonData.hero.image.alt,
         },
     };
 
     const aboutData: AboutData = {
         sectionTitle: {
-            subtitle: json.about.sectionTitle.subtitle,
-            title: json.about.sectionTitle.title,
-            description: json.about.sectionTitle.description,
+            subtitle: homePageJsonData.about.sectionTitle.subtitle,
+            title: homePageJsonData.about.sectionTitle.title,
+            description: homePageJsonData.about.sectionTitle.description,
         },
         logo: {
-            src: json.about.logo.src,
-            alt: json.about.logo.alt,
+            src: homePageJsonData.about.logo.src,
+            alt: homePageJsonData.about.logo.alt,
         },
         mainContent: {
-            title: json.about.mainContent.title,
-            lead: json.about.mainContent.lead,
-            paragraphs: json.about.mainContent.paragraphs,
-            stats: json.about.mainContent.stats.map((stat) => ({
+            title: homePageJsonData.about.mainContent.title,
+            lead: homePageJsonData.about.mainContent.lead,
+            paragraphs: homePageJsonData.about.mainContent.paragraphs,
+            stats: homePageJsonData.about.mainContent.stats.map((stat) => ({
                 number: stat.number,
                 label: stat.label,
             })),
         },
         image: {
-            src: json.about.image.src,
-            alt: json.about.image.alt,
+            src: homePageJsonData.about.image.src,
+            alt: homePageJsonData.about.image.alt,
         },
         additionalContent: {
-            title: json.about.additionalContent.title,
-            paragraphs: json.about.additionalContent.paragraphs,
+            title: homePageJsonData.about.additionalContent.title,
+            paragraphs: homePageJsonData.about.additionalContent.paragraphs,
         },
     };
 
     const servicesData: ServicesData = {
         sectionTitle: {
-            subtitle: json.services.sectionTitle.subtitle,
-            title: json.services.sectionTitle.title,
-            description: json.services.sectionTitle.description,
+            subtitle: homePageJsonData.services.sectionTitle.subtitle,
+            title: homePageJsonData.services.sectionTitle.title,
+            description: homePageJsonData.services.sectionTitle.description,
         },
-        services: json.services.items.map((item) => ({
+        services: homePageJsonData.services.items.map((item) => ({
             icon: item.icon,
             title: item.title,
             description: item.description,
@@ -267,19 +252,19 @@ export async function buildHomePageData(lang: string) {
 
     const whyUsData: WhyUsData = {
         sectionTitle: {
-            subtitle: json.whyUs.sectionTitle.subtitle,
-            title: json.whyUs.sectionTitle.title,
-            description: json.whyUs.sectionTitle.description,
+            subtitle: homePageJsonData.whyUs.sectionTitle.subtitle,
+            title: homePageJsonData.whyUs.sectionTitle.title,
+            description: homePageJsonData.whyUs.sectionTitle.description,
         },
         mainContent: {
-            title: json.whyUs.mainContent.title,
-            paragraphs: json.whyUs.mainContent.paragraphs,
+            title: homePageJsonData.whyUs.mainContent.title,
+            paragraphs: homePageJsonData.whyUs.mainContent.paragraphs,
         },
         image: {
-            src: json.whyUs.image.src,
-            alt: json.whyUs.image.alt,
+            src: homePageJsonData.whyUs.image.src,
+            alt: homePageJsonData.whyUs.image.alt,
         },
-        features: json.whyUs.features.map((feature) => ({
+        features: homePageJsonData.whyUs.features.map((feature) => ({
             icon: feature.icon,
             title: feature.title,
             description: feature.description,
@@ -288,70 +273,70 @@ export async function buildHomePageData(lang: string) {
 
     const portfolioData: PortfolioData = {
         sectionTitle: {
-            subtitle: json.portfolio.sectionTitle.subtitle,
-            title: json.portfolio.sectionTitle.title,
-            description: json.portfolio.sectionTitle.description,
+            subtitle: homePageJsonData.portfolio.sectionTitle.subtitle,
+            title: homePageJsonData.portfolio.sectionTitle.title,
+            description: homePageJsonData.portfolio.sectionTitle.description,
         },
-        filters: json.portfolio.filters.map((filter) => ({
+        filters: homePageJsonData.portfolio.filters.map((filter) => ({
             label: filter.label,
-            value: filter.value,
+            value: filter.value === '*' ? '*' : `.filter-${filter.value}`,
         })),
-        items: json.portfolio.items.map((item) => ({
-            category: item.category,
-            year: item.year,
-            title: item.title,
-            description: item.description,
+        items: featuredProducts.map((product) => ({
+            category: product.categoryName,
+            year: product.year,
+            title: product.name,
+            description: product.description,
             image: {
-                src: item.image.src,
-                alt: item.image.alt,
+                src: product.mainImage,
+                alt: product.name,
             },
-            link: item.link,
-            tags: item.tags,
-            imageOrder: item.imageOrder,
-            filterClass: item.filterClass,
+            link: `/${lang}/products/${product.category}/${product.id}`,
+            tags: product.features,
+            imageOrder: product.imagePosition,
+            filterClass: `filter-${product.category}`,
         })),
         conclusion: {
-            title: json.portfolio.conclusion.title,
-            description: json.portfolio.conclusion.description,
+            title: homePageJsonData.portfolio.conclusion.title,
+            description: homePageJsonData.portfolio.conclusion.description,
             primaryAction: {
-                text: json.portfolio.conclusion.primaryAction.text,
-                href: json.portfolio.conclusion.primaryAction.href,
+                text: homePageJsonData.portfolio.conclusion.primaryAction.text,
+                href: homePageJsonData.portfolio.conclusion.primaryAction.href,
             },
             secondaryAction: {
-                text: json.portfolio.conclusion.secondaryAction.text,
-                href: json.portfolio.conclusion.secondaryAction.href,
+                text: homePageJsonData.portfolio.conclusion.secondaryAction.text,
+                href: homePageJsonData.portfolio.conclusion.secondaryAction.href,
             },
         },
     };
 
     const contactData: ContactData = {
         sectionTitle: {
-            subtitle: json.contact.sectionTitle.subtitle,
-            title: json.contact.sectionTitle.title,
-            description: json.contact.sectionTitle.description,
+            subtitle: homePageJsonData.contact.sectionTitle.subtitle,
+            title: homePageJsonData.contact.sectionTitle.title,
+            description: homePageJsonData.contact.sectionTitle.description,
         },
         intro: {
-            icon: json.contact.intro.icon,
-            title: json.contact.intro.title,
-            description: json.contact.intro.description,
+            icon: homePageJsonData.contact.intro.icon,
+            title: homePageJsonData.contact.intro.title,
+            description: homePageJsonData.contact.intro.description,
         },
-        details: json.contact.details.map((detail) => ({
+        details: homePageJsonData.contact.details.map((detail) => ({
             icon: detail.icon,
             label: detail.label,
             value: detail.value,
         })),
         cta: {
-            title: json.contact.cta.title,
-            description: json.contact.cta.description,
+            title: homePageJsonData.contact.cta.title,
+            description: homePageJsonData.contact.cta.description,
             button: {
-                text: json.contact.cta.button.text,
-                email: json.contact.cta.button.email,
+                text: homePageJsonData.contact.cta.button.text,
+                email: homePageJsonData.contact.cta.button.email,
             },
         },
     };
 
     return {
-        metadata: json.metadata,
+        metadata: homePageJsonData.metadata,
         hero: heroData,
         about: aboutData,
         services: servicesData,
