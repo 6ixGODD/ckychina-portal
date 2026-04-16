@@ -1,0 +1,1852 @@
+{
+  "products": [
+    {
+      "id": "sra5088g",
+      "name": "SRA5088G Dolby Atmos Soundbar",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "5.1.2 channel Dolby Atmos soundbar system, equipped with wireless satellite speakers and powerful subwoofer, 195W surging power output, creating a true home theater-level audio experience.",
+      "detailDescription": "5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and powerful subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 195W powerful output, creating true home theater-grade audio experience.",
+      "features": [
+        "5.1.2 Channel",
+        "195W Power",
+        "Wireless Satellites"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5088g/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "SRA5088G Dolby Atmos Soundbar System - CKY Audio",
+        "description": "SRA5088G 5.1.2 Channel Dolby Atmos Soundbar System with wireless satellite speakers and subwoofer for cinema-grade immersive audio",
+        "keywords": "Dolby Atmos,soundbar,5.1.2 channel,wireless speakers,home theater"
+      },
+      "projectMeta": {
+        "type": "Premium Audio System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5088g/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SRA5088G is a premium home theater audio system crafted for users pursuing ultimate sound quality. Featuring advanced 5.1.2 channel configuration with perfect Dolby Atmos technology support, it delivers true three-dimensional stereo sound, surrounding you with sound from all directions, creating an immersive listening experience.",
+          "This system consists of a main soundbar, wireless satellite speakers, and a high-power subwoofer. The main soundbar integrates three high-performance speaker units and a digital amplification system, combined with DSP digital signal processing technology, ensuring every sound detail is clearly presented."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SRA5088G"
+        },
+        {
+          "label": "Channel",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "Audio Tech",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Total Power",
+          "value": "195W"
+        },
+        {
+          "label": "Application",
+          "value": "Home Theater / Music"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SRA5088G integrates industry-leading audio technology and user-friendly design, with every aspect meticulously refined from hardware to software optimization.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Dolby Atmos Technology",
+            "description": "Supports Dolby Atmos audio format with 5.1.2 channel configuration for true three-dimensional sound field. Height channel design allows sound from overhead, creating a more realistic sound environment."
+          },
+          {
+            "number": "02",
+            "title": "Wireless Satellite Speakers",
+            "description": "Innovative wireless satellite speaker design with built-in high-capacity 7.4V/2600mAh lithium batteries, providing hours of continuous use on a single charge. Stable wireless transmission technology ensures zero-latency, zero-distortion audio signals."
+          },
+          {
+            "number": "03",
+            "title": "Multiple Connectivity Options",
+            "description": "Features HDMI ARC, optical, USB, Bluetooth 5.0, 3.5mm AUX interfaces, compatible with various audio sources. Supports USB storage devices up to 32GB for direct local music playback."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/02.webp",
+          "alt": "SRA5088G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/satellite.webp",
+          "alt": "SRA5088G Satellite",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/subwroofer.webp",
+          "alt": "SRA5088G Subwoofer",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/soundbar.webp",
+          "alt": "SRA5088G Soundbar",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SRA5088G uses high-quality audio components and advanced digital processing technology, ensuring every technical parameter meets professional standards for high-fidelity sound.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Subwoofer 60W",
+              "Soundbar 105W",
+              "Satellites 30W",
+              "Total 195W"
+            ]
+          },
+          {
+            "title": "Speakers",
+            "tags": [
+              "Subwoofer 8\"×1",
+              "Soundbar (4×13cm)×3",
+              "Satellite (4.4×8cm)×2"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI ARC",
+              "Optical",
+              "Bluetooth 5.0",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "195W",
+            "label": "Powerful Output"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "Surround Channels"
+          },
+          {
+            "stat": "8 Inch",
+            "label": "Subwoofer Unit"
+          },
+          {
+            "stat": "Wireless",
+            "label": "Satellite Speakers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt408",
+      "name": "BT408 Portable Bluetooth Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE Party Speaker",
+      "year": "2026",
+      "description": "BT408 portable Bluetooth speaker featuring Bluetooth 5.4 technology with 40W powerful output. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and more.",
+      "detailDescription": "BT408 portable Bluetooth speaker featuring Bluetooth 5.4 technology with 40W powerful output. Built-in 7.4V/3000mAh high-capacity battery supports USB-C fast charging. IPX4 waterproof rating, supports TWS pairing, ideal choice for outdoor activities and daily listening.",
+      "features": [
+        "Bluetooth 5.4",
+        "IPX4 Waterproof",
+        "TWS Link"
+      ],
+      "mainImage": "/assets/img/products/portable/bt408/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "BT408 Portable Bluetooth Speaker - CKY Audio",
+        "description": "BT408 portable Bluetooth speaker, 40W powerful output, Bluetooth 5.4, IPX4 waterproof, supports TWS pairing",
+        "keywords": "portable speaker,Bluetooth speaker,outdoor speaker,waterproof speaker,TWS"
+      },
+      "projectMeta": {
+        "type": "Portable Bluetooth Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt408/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The BT408 is a Bluetooth speaker designed for users pursuing portability and sound quality. Featuring the latest Bluetooth 5.4 technology for more stable connection, longer transmission distance, and lower power consumption. Dual 20W stereo speaker configuration with total power reaching 40W delivers full and pleasant sound quality performance.",
+          "Built-in 7.4V/3000mAh high-capacity rechargeable battery combined with USB-C fast charging port for more convenient charging and longer battery life. IPX4 waterproof design resists rain and sweat, suitable for outdoor use."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "BT408"
+        },
+        {
+          "label": "Output Power",
+          "value": "20W × 2"
+        },
+        {
+          "label": "Bluetooth Version",
+          "value": "5.4"
+        },
+        {
+          "label": "Waterproof Rating",
+          "value": "IPX4"
+        },
+        {
+          "label": "Battery Capacity",
+          "value": "7.4V/3000mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The BT408 perfectly combines advanced technology with portable design, bringing you high-quality music experience anytime, anywhere.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Bluetooth 5.4 Technology",
+            "description": "Featuring the latest Bluetooth 5.4 technology, compared to previous versions, faster connection speed, stronger stability, and longer transmission distance. Low power design extends battery life while ensuring high-quality audio transmission."
+          },
+          {
+            "number": "02",
+            "title": "IPX4 Waterproof Design",
+            "description": "Certified with IPX4 waterproof rating, effectively protects against water splashes from all directions. Whether outdoor picnics, beach parties or bathroom use, no need to worry about water droplets and sweat erosion."
+          },
+          {
+            "number": "03",
+            "title": "Multi-Function Entertainment",
+            "description": "Supports Bluetooth, USB/TF card, AUX and other audio input methods. TWS True Wireless Stereo technology can pair two BT408 units for more stunning stereo effect. Built-in hands-free calling function."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The BT408 uses high-quality audio components and high-efficiency battery system, ensuring excellent sound quality performance and long-lasting battery life.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "Dual 20W Speakers",
+              "40W Total Power",
+              "EQ Sound Adjustment"
+            ]
+          },
+          {
+            "title": "Power System",
+            "tags": [
+              "7.4V/3000mAh Battery",
+              "USB-C Charging"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "Bluetooth 5.4",
+              "USB/TF Playback",
+              "TWS Pairing",
+              "Hands-free Calling",
+              "IPX4 Waterproof",
+              "AUX Input"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "40W",
+            "label": "Powerful Output"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "Bluetooth Tech"
+          },
+          {
+            "stat": "IPX4",
+            "label": "Waterproof Rating"
+          },
+          {
+            "stat": "TWS",
+            "label": "Wireless Pairing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt101",
+      "name": "TT101 Turntable Player",
+      "category": "turntable",
+      "categoryName": "TURNTABLE Player",
+      "year": "2026",
+      "description": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching and more, a perfect fusion of vintage appearance and modern technology.",
+      "detailDescription": "Classic turntable player equipped with external speaker system, 50W power output. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, perfect fusion of vintage and modern.",
+      "features": [
+        "Bluetooth 5.4",
+        "MDF Cabinet",
+        "Vintage Design"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt101/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "TT101 Turntable Player - CKY Audio",
+        "description": "TT101 classic turntable player with external speakers, Bluetooth 5.4, vintage design meets modern technology",
+        "keywords": "turntable,vinyl player,Bluetooth turntable,vintage audio,record player"
+      },
+      "projectMeta": {
+        "type": "Vintage Turntable System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt101/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The TT101 is a turntable player that perfectly combines vintage aesthetics with modern technology. Featuring classic belt-drive mechanism and high-quality stylus for accurate vinyl record playback. Equipped with external passive speaker system with 50W total power output, delivers warm and pleasant sound quality.",
+          "Built with premium MDF wooden cabinet design, not only provides stable platform but also adds vintage charm. Supports Bluetooth 5.4 wireless connection for easy pairing with modern devices. RCA output and Phono/Line switching accommodate various usage scenarios."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "TT101"
+        },
+        {
+          "label": "Drive Type",
+          "value": "Belt Drive"
+        },
+        {
+          "label": "Speaker Power",
+          "value": "50W"
+        },
+        {
+          "label": "Bluetooth",
+          "value": "5.4"
+        },
+        {
+          "label": "Cabinet",
+          "value": "MDF Wood"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The TT101 brings together classic turntable craftsmanship with modern convenience features, offering authentic vinyl experience for audiophiles.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Authentic Vinyl Experience",
+            "description": "Belt-drive mechanism with precision-balanced platter ensures stable playback speed. High-quality diamond stylus accurately tracks record grooves, reproducing warm analog sound that digital cannot match."
+          },
+          {
+            "number": "02",
+            "title": "Premium Build Quality",
+            "description": "MDF wooden cabinet provides solid foundation reducing vibration and resonance. External passive speakers with dedicated amplification deliver 50W clear, warm sound with excellent frequency response."
+          },
+          {
+            "number": "03",
+            "title": "Modern Connectivity",
+            "description": "Bluetooth 5.4 enables wireless streaming from smartphones and tablets. RCA output connects to external amplifiers. Phono/Line switch accommodates different input requirements. 3.5mm AUX input adds versatility."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The TT101 combines traditional turntable components with modern features, ensuring both authentic vinyl playback and contemporary convenience.",
+        "groups": [
+          {
+            "title": "Turntable",
+            "tags": [
+              "Belt Drive",
+              "33/45 RPM",
+              "Diamond Stylus",
+              "Manual Operation"
+            ]
+          },
+          {
+            "title": "Audio Output",
+            "tags": [
+              "50W Speakers",
+              "RCA Output",
+              "Phono/Line Switch",
+              "3.5mm AUX"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "Bluetooth 5.4",
+              "RCA Cable",
+              "Power Adapter"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "50W",
+            "label": "Speaker Output"
+          },
+          {
+            "stat": "BT 5.4",
+            "label": "Wireless"
+          },
+          {
+            "stat": "MDF",
+            "label": "Wood Cabinet"
+          },
+          {
+            "stat": "Vintage",
+            "label": "Design"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91219",
+      "name": "PT91219 Dual 12\" Party Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE Party Speaker",
+      "year": "2026",
+      "description": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, the preferred equipment for large events and professional performances.",
+      "detailDescription": "Professional-grade party speaker with dual 12-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection, guitar/microphone interfaces, ideal for large events and professional performances.",
+      "features": [
+        "Dual 12\"",
+        "150W Power",
+        "TWS Link"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91219/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "PT91219 Dual 12\" Party Speaker - CKY Audio",
+        "description": "Professional party speaker with dual 12-inch drivers, 150W output, TWS pairing, perfect for large events",
+        "keywords": "party speaker,professional speaker,portable PA,12 inch speaker,event audio"
+      },
+      "projectMeta": {
+        "type": "Professional Party Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91219/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The PT91219 is a professional-grade portable party speaker designed for large gatherings, outdoor events, and professional performances. Featuring dual 12-inch high-power woofers combined with compression horn tweeters, total output power reaches 150W, delivering powerful bass and clear treble.",
+          "Supports multiple audio input methods including Bluetooth wireless connection, USB/TF card playback, FM radio, and 3.5mm AUX input. Equipped with guitar and microphone inputs with independent volume control, suitable for live performances and karaoke. TWS interconnection allows two units to create a more powerful stereo system."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "PT91219"
+        },
+        {
+          "label": "Drivers",
+          "value": "Dual 12\" Woofers"
+        },
+        {
+          "label": "Power Output",
+          "value": "150W"
+        },
+        {
+          "label": "Power Supply",
+          "value": "AC 110-240V"
+        },
+        {
+          "label": "Features",
+          "value": "TWS / Mic / Guitar"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The PT91219 combines professional-grade power with versatile features, making it the ideal choice for events requiring high-volume, high-quality sound.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Powerful Audio Performance",
+            "description": "Dual 12-inch woofers deliver deep, powerful bass that can fill large spaces. Compression horn tweeters ensure clear high-frequency reproduction. 150W total power output provides sufficient volume for outdoor events and large venues."
+          },
+          {
+            "number": "02",
+            "title": "Professional Connectivity",
+            "description": "Equipped with guitar and microphone inputs with independent volume and echo control. Perfect for live performances, speeches, and karaoke. Supports simultaneous use of multiple input sources for maximum flexibility."
+          },
+          {
+            "number": "03",
+            "title": "Versatile Entertainment",
+            "description": "Multiple playback options including Bluetooth, USB/TF card, FM radio, and AUX input. TWS technology allows pairing two speakers for true stereo sound. LED lighting effects add atmosphere to parties and events."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The PT91219 is built with professional-grade components designed for reliable performance in demanding event environments.",
+        "groups": [
+          {
+            "title": "Speakers",
+            "tags": [
+              "Dual 12\" Woofers",
+              "Compression Horn Tweeter",
+              "150W Output"
+            ]
+          },
+          {
+            "title": "Inputs",
+            "tags": [
+              "Bluetooth",
+              "USB/TF Card",
+              "FM Radio",
+              "Guitar Input",
+              "Mic Input",
+              "AUX 3.5mm"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "TWS Pairing",
+              "LED Lights",
+              "Echo Control",
+              "EQ Adjustment",
+              "Remote Control"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "Power Output"
+          },
+          {
+            "stat": "12\"",
+            "label": "Dual Woofers"
+          },
+          {
+            "stat": "TWS",
+            "label": "Stereo Link"
+          },
+          {
+            "stat": "Multi",
+            "label": "Input Options"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt102",
+      "name": "TT102 All-in-One Turntable",
+      "category": "turntable",
+      "categoryName": "TURNTABLE Player",
+      "year": "2026",
+      "description": "All-in-one turntable player, 25W power output, built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and more, compact design saves space.",
+      "detailDescription": "Integrated vinyl turntable with 25W power output and built-in tweeter and woofer units. Supports Bluetooth 5.4 wireless connection, RCA output, Phono/Line switching, 3.5mm AUX input and other versatile functions. MDF wooden cabinet design with compact integrated structure, perfect fusion of vintage aesthetics and modern technology.",
+      "features": [
+        "All-in-One",
+        "Crossover System",
+        "Bluetooth 5.4"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt102/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - TT102 Vinyl Turntable",
+        "description": "TT102 integrated vinyl turntable, 25W power output, Bluetooth 5.4 support, compact design, perfect blend of vintage and modern",
+        "keywords": "vinyl turntable,Bluetooth turntable,vintage audio,record player,TURNTABLE"
+      },
+      "projectMeta": {
+        "type": "Integrated Turntable",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt102/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The TT102 is an integrated vinyl turntable that perfectly blends vintage aesthetics with modern technology. Featuring classic turntable design with high-quality stylus and tonearm system, ensuring perfect reproduction of vinyl record sound quality. The MDF wooden cabinet not only enhances product texture but also effectively reduces resonance, delivering purer sound quality.",
+          "The integrated design incorporates speakers within the turntable cabinet, equipped with 3.81cm tweeter units×2 and 5.71cm woofer units×2. The crossover design ensures clear presentation of high and low frequencies, with 25W power output providing full-bodied sound performance. Supports Bluetooth 5.4 wireless connection for playing music from smartphones, tablets and other devices through the turntable. Features L&R(RCA) output interface, Phono/Line switching function, 3.5mm AUX input and other versatile interfaces for connecting external audio systems or inputting other audio sources. LED indicators intuitively display operating status, and 12V/2A DC adapter power supply ensures stable operation. Compact integrated design saves space and suits various home environments."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "TT102"
+        },
+        {
+          "label": "Bluetooth Version",
+          "value": "5.4"
+        },
+        {
+          "label": "Total Power",
+          "value": "25W"
+        },
+        {
+          "label": "Speaker Units",
+          "value": "Tweeter 3.81cm×2 / Woofer 5.71cm×2"
+        },
+        {
+          "label": "Cabinet Material",
+          "value": "MDF Wooden Cabinet"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The TT102 perfectly combines vintage sentiment with modern technology. The integrated design saves space while enjoying the warm sound quality of vinyl records and convenient features of modern audio.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Integrated Compact Design",
+            "description": "The speaker system is built into the turntable cabinet. The integrated design saves space and suits various home environments. The MDF wooden cabinet paired with exquisite turntable design interprets vintage aesthetics perfectly. Not just an audio device, but also an exquisite work of art."
+          },
+          {
+            "number": "02",
+            "title": "Crossover Speaker System",
+            "description": "Built-in 3.81cm tweeter units×2 and 5.71cm woofer units×2 with crossover design ensuring clear presentation of high and low frequencies. 25W power output delivers full-bodied sound performance, enjoying both the warm sound quality of vinyl records and clear details of modern music."
+          },
+          {
+            "number": "03",
+            "title": "Multi-Function Connectivity",
+            "description": "Supports Bluetooth 5.4 wireless connection for playing music from smartphones, tablets and other devices. Features Phono/Line switching, RCA output, 3.5mm AUX input and other versatile interfaces for connecting external audio systems to achieve more professional sound quality, or inputting other audio sources for playback. LED indicators intuitively display operating status."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The TT102 uses high-quality audio components and stable turntable system. The integrated design saves space while ensuring perfect reproduction of vinyl record sound quality.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "25W Total Power",
+              "Tweeter 3.81cm × 2",
+              "Woofer 5.71cm × 2"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "Bluetooth 5.4",
+              "L&R (RCA)",
+              "Phono/Line Output",
+              "3.5mm AUX Input"
+            ]
+          },
+          {
+            "title": "Product Dimensions",
+            "tags": [
+              "Integrated 436×346×180.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "25W",
+            "label": "Power Output"
+          },
+          {
+            "stat": "5.4",
+            "label": "Bluetooth Version"
+          },
+          {
+            "stat": "Integrated",
+            "label": "Compact Design"
+          },
+          {
+            "stat": "Crossover",
+            "label": "Speaker System"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr200g-37-160",
+      "name": "SR200G-37-160 Soundbar System",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "2.1 channel soundbar system with wireless subwoofer, 120W power output, metal grille with glossy finish, delivering elegant appearance and excellent sound quality.",
+      "detailDescription": "2.1 channel soundbar system with wireless subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 120W powerful output, metal grille with glossy finish, delivering elegant appearance and excellent sound quality.",
+      "features": [
+        "2.1 Channel",
+        "120W Power",
+        "Metal Grille"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr200g-37-160/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - SR200G-37-160 Soundbar System",
+        "description": "SR200G-37-160 2.1 Channel Soundbar System with wireless subwoofer, 120W power output, metal grille design",
+        "keywords": "soundbar,2.1 channel,wireless subwoofer,home theater,metal grille"
+      },
+      "projectMeta": {
+        "type": "Home Theater Audio",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr200g-37-160/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SR200G-37-160 features exquisite metal grille with glossy finish, not only enhancing sound quality but also adding premium texture to home environments. 2.1 channel configuration with 16.51cm large subwoofer unit delivers rich low-frequency performance and clear mid-high frequency details.",
+          "This system features a 60W subwoofer and 60W soundbar, with total power of 120W, sufficient for most home theater and music appreciation needs. Wireless subwoofer design allows flexible layout without complex cable connections. Supports HDMI ARC, optical, Bluetooth, USB, and 3.5mm AUX connection methods, LED indicator intuitively shows working status, equipped with remote control for convenient operation."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SR200G-37-160"
+        },
+        {
+          "label": "Channel",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "Total Power",
+          "value": "120W"
+        },
+        {
+          "label": "Design Features",
+          "value": "Metal Grille & Glossy Finish"
+        },
+        {
+          "label": "Speaker Units",
+          "value": "Subwoofer 16.51cm×1 / Soundbar 5.89cm×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SR200G-37-160 integrates premium audio technology with fashionable design, providing you with superior sound performance and user experience.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Premium Design Aesthetics",
+            "description": "Metal grille with glossy finish not only enhances product texture but also improves sound propagation. Elegant design perfectly integrates into modern home environments, serving as both audio equipment and art piece."
+          },
+          {
+            "number": "02",
+            "title": "Powerful Audio Performance",
+            "description": "16.51cm large subwoofer unit delivers deep and powerful low-frequency performance, while two 5.89cm soundbar units ensure clear mid-high frequency details. 120W total power configuration handles both explosive movie scenes and deep bass in music impressively."
+          },
+          {
+            "number": "03",
+            "title": "Comprehensive Connectivity",
+            "description": "Features DC JACK, USB, LINE IN, optical, HDMI IN interfaces, compatible with various audio source devices. Wireless Bluetooth connection is simple and fast, easily pairing with smartphones, tablets, and computers. LED indicator intuitively shows working status, remote control for convenient operation."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/02.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/03.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SR200G-37-160 uses high-quality audio components to ensure every technical parameter meets professional standards.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Subwoofer 60W",
+              "Soundbar 60W",
+              "Total 120W"
+            ]
+          },
+          {
+            "title": "Speakers",
+            "tags": [
+              "Subwoofer 16.51cm×1",
+              "Soundbar 5.89cm×2",
+              "Impedance 4Ω"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI IN",
+              "Optical",
+              "Bluetooth",
+              "USB",
+              "LINE IN",
+              "DC JACK"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "120W",
+            "label": "Total Power"
+          },
+          {
+            "stat": "2.1",
+            "label": "Channel Config"
+          },
+          {
+            "stat": "16.51cm",
+            "label": "Subwoofer Unit"
+          },
+          {
+            "stat": "Metal",
+            "label": "Grille Design"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322",
+      "name": "SR322 Bluetooth Soundbar",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "2.2 channel Bluetooth soundbar system with built-in dual subwoofers, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
+      "detailDescription": "2.2 channel Bluetooth soundbar system with built-in dual subwoofers, supports HDMI ARC, optical, Bluetooth and other connection methods, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
+      "features": [
+        "2.2 Channel",
+        "Built-in Dual Subs",
+        "Bluetooth"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - SR322 Bluetooth Soundbar System",
+        "description": "SR322 2.2 Channel Bluetooth Soundbar System with built-in dual subwoofers, 100W power output, metal grille design",
+        "keywords": "soundbar,2.2 channel,built-in subwoofer,bluetooth speaker,home theater"
+      },
+      "projectMeta": {
+        "type": "All-in-One Audio System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SR322 features an innovative 2.2 channel design with dual subwoofers integrated into the soundbar body, providing impressive low-frequency performance without the need for an external subwoofer. Two 8.89cm subwoofer units paired with two 5.2×7.5cm full-range units deliver balanced and layered sound quality.",
+          "Metal dark gray housing with gray metal grille design is both beautiful and durable, perfectly blending into various home environments. 100W power output ensures that both movie dialogue and music details are clearly presented. Supports HDMI ARC, optical, Bluetooth, USB, and 3.5mm AUX connection methods, LED display intuitively shows working status, equipped with remote control for convenient operation. Product dimensions: 960×137×74.5mm, suitable for various TV stands or wall mounting."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SR322"
+        },
+        {
+          "label": "Channel",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "Total Power",
+          "value": "100W"
+        },
+        {
+          "label": "Design Features",
+          "value": "Built-in Dual Subwoofers / Metal Grille"
+        },
+        {
+          "label": "Speaker Units",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SR322 focuses on all-in-one design and professional sound quality, providing you with a simple and efficient home theater solution.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Built-in Dual Subwoofers",
+            "description": "Innovative built-in dual subwoofer design integrates two 8.89cm subwoofer units into the soundbar body, providing powerful low-frequency performance without an external subwoofer. Simplifies installation and wiring, saves space, while ensuring excellent bass effects."
+          },
+          {
+            "number": "02",
+            "title": "Bluetooth Wireless Connection",
+            "description": "Built-in Bluetooth functionality supports wireless connection to smartphones, tablets, computers, and other devices, allowing you to enjoy wireless music anytime, anywhere. Stable Bluetooth transmission ensures zero latency and zero distortion of audio signals, delivering a smooth listening experience."
+          },
+          {
+            "number": "03",
+            "title": "Premium Design Aesthetics",
+            "description": "Metal dark gray housing with gray metal grille not only enhances product texture but also improves sound propagation. Elegant design perfectly integrates into modern home environments, serving as both audio equipment and art piece."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322/right.webp",
+          "alt": "SR322 Right View",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/button.webp",
+          "alt": "SR322 Button",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/interface.webp",
+          "alt": "SR322 Interface",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/exploded.webp",
+          "alt": "SR322 Exploded View",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SR322 uses high-quality audio components to ensure every technical parameter meets professional standards, delivering high-fidelity sound quality.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Total 100W",
+              "Built-in Dual Subs"
+            ]
+          },
+          {
+            "title": "Speakers",
+            "tags": [
+              "Subwoofers 8.89cm×2 (8Ω)",
+              "Full-range (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI ARC",
+              "Optical",
+              "Bluetooth",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Power Output"
+          },
+          {
+            "stat": "2.2",
+            "label": "Channel Config"
+          },
+          {
+            "stat": "Dual",
+            "label": "Built-in Subs"
+          },
+          {
+            "stat": "Bluetooth",
+            "label": "Wireless Connection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322b",
+      "name": "SR322B All-in-One Soundbar",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "2.2 channel soundbar system with built-in dual subwoofer design, 100W power output, metal dark gray with gray metal grille, combining elegant appearance with excellent sound quality.",
+      "detailDescription": "2.2 channel soundbar system with built-in dual subwoofers, supports HDMI ARC, optical, Bluetooth and other connection methods, 100W power output, metal dark gray with gray metal grille, delivering elegant appearance and excellent sound quality.",
+      "features": [
+        "2.2 Channel",
+        "Dual Subwoofers",
+        "Metal Grille"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322b/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "Product Details - SR322B Soundbar System",
+        "description": "SR322B 2.2 Channel Soundbar System with built-in dual subwoofers, 100W power output, metal grille design, high-quality audio experience",
+        "keywords": "soundbar,2.2 channel,built-in subwoofer,home theater,metal grille"
+      },
+      "projectMeta": {
+        "type": "All-in-One Audio System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322b/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SR322B features an innovative 2.2 channel design with dual subwoofers integrated into the soundbar body, providing impressive low-frequency performance without the need for an external subwoofer. Two 8.89cm subwoofer units paired with two 5.2×7.5cm full-range units deliver balanced and layered sound quality.",
+          "Metal dark gray housing with gray metal grille design is both beautiful and durable, perfectly blending into various home environments. 100W power output ensures that both movie dialogue and music details are clearly presented. Supports HDMI ARC, optical, Bluetooth, USB, and 3.5mm AUX connection methods, LED display intuitively shows working status, equipped with remote control for convenient operation."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SR322B"
+        },
+        {
+          "label": "Channel",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "Total Power",
+          "value": "100W"
+        },
+        {
+          "label": "Design Features",
+          "value": "Built-in Dual Subwoofers / Metal Grille"
+        },
+        {
+          "label": "Speaker Units",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SR322B focuses on all-in-one design and professional sound quality, providing you with a simple and efficient home theater solution.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Built-in Dual Subwoofers",
+            "description": "Innovative built-in dual subwoofer design integrates two 8.89cm subwoofer units into the soundbar body, providing powerful low-frequency performance without an external subwoofer. Simplifies installation and wiring, saves space, while ensuring excellent bass effects."
+          },
+          {
+            "number": "02",
+            "title": "Premium Design Aesthetics",
+            "description": "Metal dark gray housing with gray metal grille not only enhances product texture but also improves sound propagation. Elegant design perfectly integrates into modern home environments, serving as both audio equipment and art piece."
+          },
+          {
+            "number": "03",
+            "title": "Comprehensive Connectivity",
+            "description": "Features HDMI ARC, optical, USB, Bluetooth, 3.5mm AUX interfaces, compatible with various audio source devices. Supports up to 32GB USB storage devices for direct local music playback. LED display intuitively shows working status, remote control for convenient operation."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322b/02.webp",
+          "alt": "SR322B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322b/with-5088-subwoofer.webp",
+          "alt": "SR322B with 5088 Subwoofer",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SR322B uses high-quality audio components to ensure every technical parameter meets professional standards, delivering high-fidelity sound quality.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Total 100W",
+              "Built-in Dual Subs"
+            ]
+          },
+          {
+            "title": "Speakers",
+            "tags": [
+              "Subwoofers 8.89cm×2 (8Ω)",
+              "Full-range (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI ARC",
+              "Optical",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Power Output"
+          },
+          {
+            "stat": "2.2",
+            "label": "Channel Config"
+          },
+          {
+            "stat": "Dual",
+            "label": "Built-in Subs"
+          },
+          {
+            "stat": "Metal",
+            "label": "Grille Design"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra283g-32-80",
+      "name": "SRA283G-32-80 Dolby Atmos Soundbar",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "2.1 channel Dolby Atmos soundbar system with wireless subwoofer, 80W power output, compact design perfect for small apartments and bedrooms.",
+      "detailDescription": "2.1 channel Dolby Atmos soundbar system with wireless subwoofer, supports HDMI ARC, optical, Bluetooth and other connection methods, 80W power output, delivering clear and pleasant sound quality.",
+      "features": [
+        "2.1 Channel",
+        "Dolby Atmos",
+        "Compact Design"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra283g-32-80/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - SRA283G-32-80 Dolby Atmos Soundbar System",
+        "description": "SRA283G-32-80 2.1 channel Dolby Atmos soundbar system with wireless subwoofer, 80W output, compact design for various home spaces",
+        "keywords": "Dolby Atmos,soundbar,2.1 channel,wireless subwoofer,home theater"
+      },
+      "projectMeta": {
+        "type": "Compact Audio System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra283g-32-80/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SRA283G-32-80 features compact design, a 2.1 channel Dolby Atmos system specifically crafted for small apartments and bedrooms. Built-in digital amplifier and DSP digital signal processing technology deliver excellent sound quality even in limited spaces. Wireless subwoofer design allows for more flexible layout, with 40W+40W power configuration meeting daily movie watching and music appreciation needs.",
+          "Supports HDMI ARC, optical, Bluetooth, USB, and 3.5mm AUX connection methods, compatible with various audio source devices. LED display intuitively shows working status, equipped with remote control for convenient operation. Plastic housing with elegant design perfectly integrates into modern home environments."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SRA283G-32-80"
+        },
+        {
+          "label": "Channel",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "Audio Tech",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Total Power",
+          "value": "80W"
+        },
+        {
+          "label": "Application",
+          "value": "Bedroom Theater / Small Living Room"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SRA283G-32-80 focuses on compact design and practical features, providing professional-grade audio experience for small space users.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Compact Design",
+            "description": "Ultra-slim soundbar design, 810mm width, only 41mm height, easily fits on TV cabinet or wall-mounted installation. Compact subwoofer size allows flexible placement without taking up excessive space, particularly suitable for bedrooms and small living rooms."
+          },
+          {
+            "number": "02",
+            "title": "Dolby Atmos Technology",
+            "description": "Although 2.1 channel configuration, optimized through Dolby Atmos technology to create immersive sound effects beyond traditional stereo. DSP digital signal processing further enhances sound quality, presenting clear dialogue and rich sound effects details."
+          },
+          {
+            "number": "03",
+            "title": "Multiple Connectivity Options",
+            "description": "Features HDMI ARC, optical, USB, Bluetooth, 3.5mm AUX interfaces, compatible with TVs, gaming consoles, computers, smartphones, and other devices. Supports USB storage devices up to 32GB for direct local music file playback. Simple and quick Bluetooth connection for wireless music anytime."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar.webp",
+          "alt": "SRA283G-32-80 Soundbar",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar-explode.webp",
+          "alt": "SRA283G-32-80 Soundbar Exploded View",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer.webp",
+          "alt": "SRA283G-32-80 Subwoofer",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer-explode.webp",
+          "alt": "SRA283G-32-80 Subwoofer Exploded View",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SRA283G-32-80 uses quality audio components and advanced digital processing technology, ensuring excellent sound quality even in compact size.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Subwoofer 40W",
+              "Soundbar 40W",
+              "Total 80W"
+            ]
+          },
+          {
+            "title": "Dimensions",
+            "tags": [
+              "Soundbar 810×81×41mm",
+              "Subwoofer 120×220×397mm"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI ARC",
+              "Optical",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "Total Power"
+          },
+          {
+            "stat": "2.1",
+            "label": "Channel Config"
+          },
+          {
+            "stat": "41mm",
+            "label": "Ultra-slim Design"
+          },
+          {
+            "stat": "Wireless",
+            "label": "Subwoofer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra5078g",
+      "name": "SRA5078G Dolby Atmos Soundbar",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR System",
+      "year": "2026",
+      "description": "5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and powerful subwoofer, 180W total power output, creating true home theater-level audio experience.",
+      "detailDescription": "The SRA5078G features 5.1.2 channel configuration with Dolby Atmos technology. Includes wireless satellite speakers and powerful subwoofer, multiple connectivity options including HDMI ARC, optical, and Bluetooth, total power up to 180W for stunning audio performance.",
+      "features": [
+        "5.1.2 Channel",
+        "180W Power",
+        "Wireless Satellites"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5078g/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - SRA5078G Dolby Atmos Soundbar System",
+        "description": "SRA5078G 5.1.2 channel Dolby Atmos soundbar system with wireless satellite speakers and subwoofer for cinema-grade immersive audio experience",
+        "keywords": "Dolby Atmos,soundbar,5.1.2 channel,wireless speakers,home theater"
+      },
+      "projectMeta": {
+        "type": "Premium Audio System",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5078g/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The SRA5078G fully utilizes Dolby Atmos technology to create a three-dimensional surround sound field. Equipped with 180W total power speakers, especially the 90W subwoofer, enhances low-frequency performance, suitable for cinema, music, and various scenarios.",
+          "This system consists of a main soundbar, wireless satellite speakers, and a powerful subwoofer. The main soundbar combined with DSP digital signal processing technology ensures every sound detail is clearly presented. Wireless satellite speakers use stable wireless transmission technology, freeing you from cable constraints and allowing flexible speaker placement. The powerful subwoofer delivers deep and forceful low-frequency performance, impressively presenting both movie explosion scenes and music bass sections."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "SRA5078G"
+        },
+        {
+          "label": "Channel",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "Audio Tech",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Total Power",
+          "value": "180W"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Bluetooth / HDMI / Optical / USB / AUX"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The SRA5078G integrates industry-leading audio technology and user-friendly design, tailored for users pursuing quality and design, perfectly suited for home theater or music appreciation.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Dolby Atmos Technology",
+            "description": "Supports Dolby Atmos audio format with 5.1.2 channel configuration achieving true three-dimensional sound field. Height channel design allows sound to come from overhead, creating a more realistic sound environment. Whether aircraft passing overhead, raindrops falling, or movie soundtracks, precise positioning delivers unprecedented immersion."
+          },
+          {
+            "number": "02",
+            "title": "Wireless Satellite Speakers",
+            "description": "Innovative wireless satellite speaker design uses stable wireless transmission technology ensuring zero latency and zero distortion audio signals. Free from cable constraints, allowing flexible placement according to room layout for optimal listening position."
+          },
+          {
+            "number": "03",
+            "title": "Multiple Connectivity Options",
+            "description": "Features HDMI ARC, optical, USB, Bluetooth, 3.5mm AUX interfaces, compatible with various audio source devices. Supports USB storage devices up to 32GB for direct local music file playback. Simple and quick Bluetooth connection allows smartphones, tablets, and computers to easily pair for wireless music anytime."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/02.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/03.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The SRA5078G uses high-quality audio components and advanced digital processing technology, ensuring every technical parameter meets professional standards for high-fidelity sound.",
+        "groups": [
+          {
+            "title": "Power",
+            "tags": [
+              "Subwoofer 90W",
+              "Soundbar 60W",
+              "Satellite 30W",
+              "Total 180W"
+            ]
+          },
+          {
+            "title": "Dimensions",
+            "tags": [
+              "Soundbar 882×112×65mm",
+              "Subwoofer 120×300×400mm",
+              "Satellite 205×112×62mm"
+            ]
+          },
+          {
+            "title": "Connectivity",
+            "tags": [
+              "HDMI ARC",
+              "Optical",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "180W",
+            "label": "Total Power"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "Surround Channels"
+          },
+          {
+            "stat": "90W",
+            "label": "Powerful Subwoofer"
+          },
+          {
+            "stat": "Wireless",
+            "label": "Satellite Speakers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt508",
+      "name": "BT508 Portable Bluetooth Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE Party Speaker",
+      "year": "2026",
+      "description": "BT508 professional portable Bluetooth speaker featuring Bluetooth 5.4 technology with 80W powerful output. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and more, ideal choice for large outdoor activities.",
+      "detailDescription": "BT508 professional portable Bluetooth speaker featuring Bluetooth 5.4 technology with 80W powerful output. Built-in 11.1V/2200mAh high-performance battery supports USB-C fast charging. IPX4 waterproof rating, supports TWS pairing, USB/TF card playback, hands-free calling and multiple functions, ideal choice for large outdoor activities and professional use.",
+      "features": [
+        "Bluetooth 5.4",
+        "80W Power",
+        "IPX4 Waterproof"
+      ],
+      "mainImage": "/assets/img/products/portable/bt508/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - BT508 Portable Bluetooth Speaker",
+        "description": "BT508 portable Bluetooth speaker, 80W powerful output, Bluetooth 5.4, IPX4 waterproof, supports TWS pairing",
+        "keywords": "portable speaker,Bluetooth speaker,outdoor speaker,waterproof speaker,TWS"
+      },
+      "projectMeta": {
+        "type": "Professional Portable Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt508/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The BT508 is the flagship portable Bluetooth speaker in the BT series, designed for users pursuing ultimate sound quality and powerful output. Featuring the latest Bluetooth 5.4 technology ensuring stable connection and efficient transmission. Dual 40W high-power stereo speaker configuration with total power reaching 80W, double the power of BT408, delivers more stunning audio performance, suitable for large outdoor gatherings, commercial events and other scenarios.",
+          "Built-in 11.1V/2200mAh high-performance lithium battery combined with high-efficiency amplifier system and USB-C fast charging port ensures long-term stable operation. IPX4 waterproof design resists rain and sweat erosion, suitable for various outdoor environments. Supports TWS True Wireless Stereo pairing, two BT508 units can form a more powerful 160W stereo system. Supports USB/TF card playback, AUX wired input, hands-free calling and multiple functions, built-in EQ sound adjustment to meet different music styles and usage scenarios. Larger body size (482×200×257mm) accommodates larger speaker units for more excellent low-frequency performance and sound field width."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "BT508"
+        },
+        {
+          "label": "Output Power",
+          "value": "40W × 2"
+        },
+        {
+          "label": "Bluetooth Version",
+          "value": "5.4"
+        },
+        {
+          "label": "Waterproof Rating",
+          "value": "IPX4"
+        },
+        {
+          "label": "Battery Capacity",
+          "value": "11.1V/2200mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The BT508 focuses on professional sound quality and powerful performance as its core, providing perfect audio solution for large outdoor activities and professional use.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Powerful Output",
+            "description": "Dual 40W high-power speaker configuration with total power reaching 80W, double the power increase compared to BT408. Larger speaker units and stronger driving power deliver more stunning audio performance, deeper bass, and wider sound field. Whether large outdoor parties, commercial events or professional performances, easily covers larger spaces, filling every corner with beautiful music."
+          },
+          {
+            "number": "02",
+            "title": "High-Performance Battery System",
+            "description": "Features 11.1V/2200mAh high-performance lithium battery, although capacity is slightly smaller than BT408, higher voltage combined with high-efficiency amplifier system still provides sufficient battery life. USB-C fast charging port supports higher charging current for faster charging speed. Intelligent power management system optimizes energy consumption and extends playback time."
+          },
+          {
+            "number": "03",
+            "title": "Professional-Grade Features",
+            "description": "Bluetooth 5.4 technology ensures stable connection and high-quality audio transmission. TWS True Wireless Stereo technology supports dual-unit pairing for 160W super powerful stereo system. Supports USB/TF card, AUX and other audio inputs, built-in hands-free calling function. EQ sound adjustment provides multiple preset sound modes for different music types and usage scenarios. IPX4 waterproof design adapts to various outdoor environments."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/bt508/02.webp",
+          "alt": "BT508",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/bt508/03.webp",
+          "alt": "BT508",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The BT508 uses professional-grade audio components and high-performance battery system, ensuring long-term high-quality operation and excellent sound quality performance.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "Dual 40W Speakers",
+              "80W Total Power",
+              "EQ Sound Adjustment"
+            ]
+          },
+          {
+            "title": "Power System",
+            "tags": [
+              "11.1V/2200mAh Battery",
+              "USB-C Fast Charging"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "Bluetooth 5.4",
+              "USB/TF Playback",
+              "TWS Pairing",
+              "Hands-free Calling",
+              "IPX4 Waterproof",
+              "AUX Input"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "Powerful Output"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "Bluetooth Tech"
+          },
+          {
+            "stat": "IPX4",
+            "label": "Waterproof Rating"
+          },
+          {
+            "stat": "TWS",
+            "label": "Wireless Pairing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt9818b",
+      "name": "PT9818B Dual 8\" Party Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE Party Speaker",
+      "year": "2026",
+      "description": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more, ideal choice for outdoor gatherings and performances.",
+      "detailDescription": "Portable party speaker with dual 8-inch drivers, built-in 12V/5A rechargeable battery, 100W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more. Features guitar input and microphone input, ideal choice for outdoor gatherings and performances.",
+      "features": [
+        "Dual 8\"",
+        "Built-in Battery",
+        "TWS Link"
+      ],
+      "mainImage": "/assets/img/products/portable/pt9818b/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - PT9818B Portable Party Speaker",
+        "description": "PT9818B Dual 8-inch Portable Party Speaker with built-in rechargeable battery, 100W power output, supports Bluetooth/USB/FM radio",
+        "keywords": "portable speaker,party speaker,bluetooth speaker,outdoor speaker,dual 8 inch"
+      },
+      "projectMeta": {
+        "type": "Portable Party Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt9818b/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The PT9818B is a portable party speaker designed specifically for outdoor gatherings and mobile performances. The dual 8-inch speaker configuration provides 100W powerful output, delivering impressive audio performance whether for outdoor parties or small performances.",
+          "Built-in 12V/5A rechargeable battery frees you from power cord constraints, allowing you to enjoy music anytime, anywhere. Supports Bluetooth wireless connection, USB playback, FM radio, and other audio input methods. TWS True Wireless Stereo technology can interconnect two speakers to create a more powerful stereo system. Features guitar input and microphone input (supports wired/wireless microphones), suitable for various performance and karaoke scenarios. LED display intuitively shows working status, and remote control operation is more convenient."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "PT9818B"
+        },
+        {
+          "label": "Speaker Size",
+          "value": "Dual 8\""
+        },
+        {
+          "label": "Power Output",
+          "value": "100W"
+        },
+        {
+          "label": "Battery",
+          "value": "12V/5A Rechargeable"
+        },
+        {
+          "label": "Application",
+          "value": "Outdoor Parties / Performances"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The PT9818B integrates portable design with powerful performance, making it the perfect companion for outdoor entertainment and mobile performances.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Portable Design",
+            "description": "Built-in 12V/5A large-capacity rechargeable battery frees you from power cord constraints, allowing you to enjoy music anytime, anywhere. Compact body design is convenient for carrying and moving, suitable for outdoor gatherings, picnics, camping, and various other scenarios."
+          },
+          {
+            "number": "02",
+            "title": "Powerful Audio Performance",
+            "description": "Dual 8-inch large-diameter speaker configuration with 100W powerful output delivers impressive audio performance. Whether low frequencies or mid-high frequencies, they can be clearly presented to meet the playback needs of various music styles."
+          },
+          {
+            "number": "03",
+            "title": "Multi-functional Entertainment",
+            "description": "Supports Bluetooth, USB, FM radio, TWS interconnection, and more. Features guitar input and microphone input, supports wired/wireless microphones (optional), suitable for karaoke, performances, and various entertainment scenarios. LED display and remote control make operation more convenient."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt9818b/02.webp",
+          "alt": "PT9818B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt9818b/03.webp",
+          "alt": "PT9818B",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The PT9818B uses high-quality audio components and a stable battery system to ensure long-term stable operation and excellent sound performance.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "Dual 8\" Speakers",
+              "100W Output"
+            ]
+          },
+          {
+            "title": "Power System",
+            "tags": [
+              "12V/5A Battery",
+              "Portable Design"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "Bluetooth",
+              "USB (32GB)",
+              "FM Radio",
+              "TWS Link",
+              "Guitar/Mic Input"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Powerful Output"
+          },
+          {
+            "stat": "Dual 8\"",
+            "label": "Large Drivers"
+          },
+          {
+            "stat": "Battery",
+            "label": "Built-in Power"
+          },
+          {
+            "stat": "TWS",
+            "label": "Wireless Link"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91019",
+      "name": "PT91019 Dual 10\" Party Speaker",
+      "category": "portable",
+      "categoryName": "PORTABLE Party Speaker",
+      "year": "2026",
+      "description": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection, guitar/mic input, ideal for large gatherings and professional performances.",
+      "detailDescription": "Professional party speaker with dual 10-inch drivers, 150W powerful output. Supports Bluetooth, USB, FM radio, TWS interconnection and more. Features USB 2.0A charging port, guitar input, and microphone input. Supports AC110V/220V power supply, suitable for various large gatherings and performance scenarios.",
+      "features": [
+        "Dual 10\"",
+        "150W Power",
+        "USB Charging"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91019/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Product Details - PT91019 Portable Party Speaker",
+        "description": "PT91019 Dual 10-inch Portable Party Speaker, 150W power output, supports Bluetooth/USB/FM radio, features USB charging port",
+        "keywords": "portable speaker,party speaker,bluetooth speaker,outdoor speaker,dual 10 inch"
+      },
+      "projectMeta": {
+        "type": "Professional Party Speaker",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91019/01.webp"
+      ],
+      "introduction": {
+        "title": "Product Introduction",
+        "paragraphs": [
+          "The PT91019 is a professional party speaker designed for large gatherings and professional performances. Dual 10-inch large-diameter speaker configuration with 150W powerful output provides more impressive audio performance and greater sound pressure level than the 8-inch version, suitable for outdoor large parties, commercial events, small concerts, and other scenarios.",
+          "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Supports Bluetooth wireless connection, USB playback (up to 32GB), FM radio, and other audio input methods. TWS True Wireless Stereo technology can interconnect two speakers to create a more powerful stereo system. Equipped with USB 2.0A charging port for charging mobile devices. Guitar input and microphone input (supports wired/wireless microphones) make this speaker a multi-functional entertainment center. LED display and remote control make operation more convenient."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Model",
+          "value": "PT91019"
+        },
+        {
+          "label": "Speaker Size",
+          "value": "Dual 10\""
+        },
+        {
+          "label": "Power Output",
+          "value": "150W"
+        },
+        {
+          "label": "Power Supply",
+          "value": "AC110V/220V"
+        },
+        {
+          "label": "Application",
+          "value": "Large Gatherings / Professional Performance"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Core Advantages",
+        "description": "The PT91019 focuses on professional audio quality and powerful performance, making it the perfect choice for large events and professional performances.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Professional-Grade Audio",
+            "description": "Dual 10-inch large-diameter speaker configuration with 150W powerful output provides greater sound pressure level and more impressive audio performance than the 8-inch version. Whether outdoor large parties or commercial events, it can easily cover the entire venue, delivering professional-grade audio quality."
+          },
+          {
+            "number": "02",
+            "title": "Stable Power System",
+            "description": "Supports AC110V/220V (50/60Hz) power supply, ensuring long-term stable operation. Equipped with USB 2.0A charging port for charging mobile devices, maintaining sufficient device power even during outdoor use."
+          },
+          {
+            "number": "03",
+            "title": "All-in-One Entertainment Center",
+            "description": "Supports Bluetooth, USB, FM radio, TWS interconnection, and more. Features guitar input and microphone input, supports wired/wireless microphones (optional), suitable for karaoke, performances, DJ shows, and various entertainment scenarios. LED display and remote control make operation more convenient."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt91019/02.webp",
+          "alt": "PT91019",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt91019/03.webp",
+          "alt": "PT91019",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "description": "The PT91019 uses professional-grade audio components and stable power supply system to ensure long-term high-quality operation and excellent sound performance.",
+        "groups": [
+          {
+            "title": "Audio Performance",
+            "tags": [
+              "Dual 10\" Speakers",
+              "150W Output"
+            ]
+          },
+          {
+            "title": "Power System",
+            "tags": [
+              "AC110V/220V",
+              "USB 2.0A Charging"
+            ]
+          },
+          {
+            "title": "Features",
+            "tags": [
+              "Bluetooth",
+              "USB (32GB)",
+              "FM Radio",
+              "TWS Link",
+              "Guitar/Mic Input"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Product Highlights",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "Professional Power"
+          },
+          {
+            "stat": "Dual 10\"",
+            "label": "Large Drivers"
+          },
+          {
+            "stat": "USB",
+            "label": "2.0A Charging"
+          },
+          {
+            "stat": "TWS",
+            "label": "Wireless Link"
+          }
+        ]
+      }
+    }
+  ]
+}
