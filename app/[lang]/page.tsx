@@ -3,7 +3,7 @@ import React from 'react';
 
 import Header from '@/components/layout/header';
 import About from '@/components/sections/homepage/about';
-import Contact from '@/components/sections/homepage/contact';
+import ContactUs from '@/components/sections/homepage/contact-us';
 import Hero from '@/components/sections/homepage/hero';
 import Portfolio from '@/components/sections/homepage/portfolio';
 import Services from '@/components/sections/homepage/services';
@@ -37,7 +37,7 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
                 <Services data={data.services} />
                 <WhyUs data={data.whyUs} />
                 <Portfolio data={data.portfolio} />
-                <Contact data={data.contact} />
+                <ContactUs data={data.contact} />
             </main>
         </>
     );

@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function ProductsPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;
     const products = await getAllProducts(lang);
-    const filters = getProductCategories();
+    const filters = await getProductCategories(lang);
     const languages = await loadLanguagesJson();
     const validLang = languages.find((l) => l.code === lang)?.code || DEFAULT_LANGUAGE;
 
