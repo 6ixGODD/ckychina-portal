@@ -70,16 +70,17 @@ section,
     }
 }
 
-@import 'sections/hero';
-@import 'sections/about';
-@import 'sections/services';
-@import 'sections/why-us';
-@import 'sections/portfolio';
-@import 'sections/team';
-@import 'sections/testimonials';
-@import 'sections/contact';
-@import 'sections/portfolio-details';
+@import 'sections/homepage/about';
+@import 'sections/homepage/contact';
+@import 'sections/homepage/hero';
+@import 'sections/homepage/portfolio';
+@import 'sections/homepage/services';
+@import 'sections/homepage/team';
+@import 'sections/homepage/testimonials';
+@import 'sections/homepage/why-us';
+@import 'sections/products/product-details';
+@import 'sections/products/product-filter';
+@import 'sections/404';
 @import 'sections/service-details';
 @import 'sections/terms-of-service';
 @import 'sections/privacy';
-@import 'sections/error-404';
