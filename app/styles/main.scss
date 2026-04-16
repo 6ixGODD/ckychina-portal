@@ -1,13 +1,16 @@
 @import 'variables';
 
+@import 'components/cookie-consent';
+@import 'components/filters';
+@import 'components/lang-switcher';
+@import 'components/page-titles';
+@import 'components/pagination';
+@import 'components/product-filter';
 @import 'layouts/aos';
-@import 'layouts/cookie-consent';
 @import 'layouts/footer';
 @import 'layouts/general';
 @import 'layouts/header';
-@import 'layouts/lang-switcher';
 @import 'layouts/navmenu';
-@import 'layouts/page-titles';
 @import 'layouts/preloader';
 @import 'layouts/scrolltop';
 @import 'sections';
