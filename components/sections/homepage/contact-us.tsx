@@ -23,7 +23,7 @@ type Props = {
     data: ContactData;
 };
 
-export default function Contact({ data }: Props) {
+export default function ContactUs({ data }: Props) {
     return (
         <section id='contact' className='contact section light-background'>
             <SectionTitle data={data.sectionTitle} />

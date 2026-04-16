@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import type { ProductJsonData } from '@/lib/models/products';
+import type { ProductJsonData } from '@/lib/models/pages/products';
 
 type Props = {
     data: ProductJsonData;
