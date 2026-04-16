@@ -1,5 +1,4 @@
-import { LanguagesJsonData } from '@/lib/models/languages';
-import { getPathSegments } from '@/lib/utils';
+import { DEFAULT_LANGUAGE, LANGUAGE_STORAGE_KEY } from '@/lib/constants';
 
 export type Language = {
     code: string;
@@ -8,39 +7,33 @@ export type Language = {
     bcp47: string;
 };
 
-const langKey = 'lang';
-
 /**
  * Get current language from localStorage or browser
  */
-export function getCurrentLanguage(): string {
-    if (typeof window === 'undefined') return 'en';
+export function getCurrentLanguage(availableLangs: Language[]): string {
+    if (typeof window === 'undefined') return DEFAULT_LANGUAGE;
 
-    const stored = localStorage.getItem(langKey);
+    const stored = localStorage.getItem(LANGUAGE_STORAGE_KEY);
     if (stored) {
-        return stored;
+        const isValid = availableLangs.some((l) => l.code === stored);
+        if (isValid) return stored;
     }
 
     const browserLang = getBrowserLanguage();
-    setLanguage(browserLang);
-    return browserLang;
+    const matched = availableLangs.find(
+        (l) => l.code === browserLang || l.bcp47.toLowerCase().startsWith(browserLang.toLowerCase()),
+    );
+
+    return matched?.code || DEFAULT_LANGUAGE;
 }
 
 /**
  * Get browser language (ISO 639-1 code)
  */
 export function getBrowserLanguage(): string {
-    if (typeof navigator === 'undefined') return 'en';
-    const lang = navigator.language || (navigator.languages && navigator.languages[0]) || 'en';
-    return lang.split('-')[0]; // Return only the language code (e.g., 'en' from 'en-US')
-}
-
-/**
- * Get browser language in BCP 47 format
- */
-export function getBrowserLanguageBCP47(): string {
-    if (typeof navigator === 'undefined') return 'en-US';
-    return navigator.language || (navigator.languages && navigator.languages[0]) || 'en-US';
+    if (typeof navigator === 'undefined') return DEFAULT_LANGUAGE;
+    const lang = navigator.language || navigator.languages?.[0] || DEFAULT_LANGUAGE;
+    return lang.split('-')[0];
 }
 
 /**
@@ -48,28 +41,7 @@ export function getBrowserLanguageBCP47(): string {
  */
 export function setLanguage(lang: string): void {
     if (typeof window === 'undefined') return;
-    localStorage.setItem(langKey, lang);
-}
-
-/**
- * Find language code by BCP 47 tag
- * Returns the language code if found, otherwise returns default language
- */
-export function getCodeByBCP47(languages: LanguagesJsonData, bcp47: string, defaultLang: string = 'en'): string {
-    // First try exact match
-    const exactMatch = languages.find((l) => l.bcp47.toLowerCase() === bcp47.toLowerCase());
-    if (exactMatch) {
-        return exactMatch.code;
-    }
-
-    // Then try matching the language part (e.g., 'zh' from 'zh-CN')
-    const langPart = bcp47.split('-')[0].toLowerCase();
-    const langMatch = languages.find((l) => l.bcp47.toLowerCase().startsWith(langPart));
-    if (langMatch) {
-        return langMatch.code;
-    }
-
-    return defaultLang;
+    localStorage.setItem(LANGUAGE_STORAGE_KEY, lang);
 }
 
 /**
@@ -87,18 +59,42 @@ export function isBot(): boolean {
     return botPattern.test(navigator.userAgent);
 }
 
-export function extractLangFromPath(pathname: string): string | null {
-    const segments = getPathSegments(pathname);
-    return segments[0] ?? null;
+/**
+ * Extract language code from pathname
+ * All languages now have prefix, including 'en'
+ */
+export function extractLangFromPath(pathname: string, availableLangs: Language[]): string | null {
+    const segments = pathname.split('/').filter(Boolean);
+    if (segments.length === 0) return null;
+
+    const firstSegment = segments[0];
+    const langCodes = availableLangs.map((l) => l.code);
+
+    return langCodes.includes(firstSegment) ? firstSegment : null;
 }
 
-export function buildPathWithLang(pathname: string, lang: string): string {
-    const segments = getPathSegments(pathname);
+/**
+ * Build path with language code
+ * All languages use /{code} prefix now
+ */
+export function buildPathWithLang(pathname: string, targetLang: string, availableLangs: Language[]): string {
+    const langCodes = availableLangs.map((l) => l.code);
+    const segments = pathname.split('/').filter(Boolean);
 
-    if (segments.length === 0) {
-        return `/${lang}`;
+    // Remove existing language prefix if present
+    if (segments.length > 0 && langCodes.includes(segments[0])) {
+        segments.shift();
     }
 
-    segments[0] = lang;
-    return `/${segments.join('/')}`;
+    // Add target language prefix
+    const path = segments.length > 0 ? `/${segments.join('/')}` : '';
+    return `/${targetLang}${path}`;
+}
+
+/**
+ * Get language code from pathname, defaulting to DEFAULT_LANGUAGE
+ */
+export function getLangFromPathname(pathname: string, availableLangs: Language[]): string {
+    const extracted = extractLangFromPath(pathname, availableLangs);
+    return extracted || DEFAULT_LANGUAGE;
 }

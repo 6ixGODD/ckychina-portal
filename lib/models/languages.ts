@@ -26,19 +26,7 @@ import { z } from 'zod';
  */
 export const LanguageJsonSchema = z.object({
     /**
-     * ISO 639-1 language code.
-     *
-     * This is the short language identifier used internally by the project as the
-     * primary language key. In this codebase, it is typically used in places such as:
-     *
-     * - URL path segments, for example `/en/...` or `/zh/...`
-     * - language-specific file lookup, for example `data/${lang}/...`
-     * - route params and internal model-building logic
-     *
-     * Examples:
-     * - `en` for English
-     * - `zh` for Chinese
-     * - `fr` for French
+     * Language code.
      *
      * This field should remain short, stable, and filesystem-friendly.
      */
@@ -46,58 +34,16 @@ export const LanguageJsonSchema = z.object({
 
     /**
      * English display name of the language.
-     *
-     * This value is intended for contexts where the language list is shown in English
-     * or in an internationalized administrative/configuration context.
-     *
-     * Typical examples:
-     * - `English`
-     * - `Chinese`
-     * - `French`
-     *
-     * This field is mainly a human-readable label and is useful when:
-     * - rendering language selectors in English-oriented contexts
-     * - debugging or inspecting configuration data
-     * - generating documentation or metadata
      */
     name: z.string(),
 
     /**
      * Native display name of the language.
-     *
-     * This is the self-name of the language written in its own script and preferred
-     * native form. It is especially useful for user-facing language switchers, because
-     * native speakers can recognize their language more naturally this way.
-     *
-     * Typical examples:
-     * - `English`
-     * - `中文`
-     * - `Français`
-     *
-     * In many UI designs, `nativeName` is preferable to `name` when rendering the
-     * language switcher menu, while `name` may still be useful in English-only
-     * back-office or developer-facing contexts.
      */
     nativeName: z.string(),
 
     /**
      * BCP 47 language tag.
-     *
-     * This is the standardized language tag used in web and internationalization
-     * contexts. It is more precise than the simple `code` field because it can
-     * include regional and script information where necessary.
-     *
-     * Typical usage includes:
-     * - the HTML `lang` attribute
-     * - `hreflang` metadata
-     * - browser language matching
-     * - SEO and alternate language declarations
-     *
-     * Examples:
-     * - `en-US` for American English
-     * - `en-GB` for British English
-     * - `zh-CN` for Simplified Chinese (China)
-     * - `zh-TW` for Traditional Chinese (Taiwan)
      *
      * While `code` is usually enough for internal routing, `bcp47` is the more
      * semantically correct value for standards-based metadata and browser-facing
@@ -107,9 +53,9 @@ export const LanguageJsonSchema = z.object({
 });
 
 /**
- * Schema for the full `data/languages.json` file.
+ * Schema for the repre.
  *
- * The JSON file is expected to contain an array of language entries, where each
+ * The JSON object is expected to contain an array of language entries, where each
  * entry conforms to `LanguageJsonSchema`.
  *
  * Example:
