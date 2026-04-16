@@ -35,7 +35,7 @@
     "@types/bootstrap": "^5.2.10",
     "@types/imagesloaded": "^4.1.7",
     "@types/isotope-layout": "^3.0.15",
-    "@types/node": "^20",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9.39.4",
