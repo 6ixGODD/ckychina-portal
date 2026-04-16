@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 /**
- * Schema for a single language entry defined in `data/languages.json`.
+ * Schema for a single language entry representation.
  *
  * This schema describes the raw data shape stored in the JSON file.
  * Each entry represents one supported language in the site configuration layer.
@@ -9,7 +9,7 @@ import { z } from 'zod';
  * It is important to note that this is **JSON-layer data**, not necessarily the
  * final object shape consumed by UI components. In other words:
  *
- * - `LanguageJsonData` describes how language information is stored on disk
+ * - `LanguageJsonData` describes how language information is stored on disk/db
  * - a separate model/conversion step may transform it into a simpler `Language`
  *   object for component props
  *
@@ -53,7 +53,7 @@ export const LanguageJsonSchema = z.object({
 });
 
 /**
- * Schema for the repre.
+ * Schema for the language entries representation.
  *
  * The JSON object is expected to contain an array of language entries, where each
  * entry conforms to `LanguageJsonSchema`.
@@ -76,9 +76,6 @@ export const LanguageJsonSchema = z.object({
  *   }
  * ]
  * ```
- *
- * This schema is used to validate the raw JSON file before it is converted into
- * any simplified or UI-facing model objects.
  */
 export const LanguagesJsonSchema = z.array(LanguageJsonSchema);
 
