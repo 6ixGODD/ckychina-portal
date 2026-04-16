@@ -9,33 +9,30 @@ import { DEFAULT_LANGUAGE } from '@/lib/constants';
 import { buildHeaderData } from '@/lib/models/header';
 import { loadLanguagesJson } from '@/lib/models/languages';
 import { buildMetadata } from '@/lib/models/metadata';
-import { getAllProducts, getProductCategories } from '@/lib/models/products';
+import { loadProductsJson } from '@/lib/models/pages/products';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
     const { lang } = await params;
     const languages = await loadLanguagesJson();
-
-    const metadata = {
-        title: 'All Products - CKY Audio',
-        description:
-            'Explore all CKY audio products including soundbar systems, portable party speakers, and vinyl turntables',
-        keywords: 'CKY products,soundbar,portable speakers,turntables,audio equipment',
-    };
+    const metadata = (await loadProductsJson(lang)).metadata;
 
     return buildMetadata(lang, 'products', metadata, languages);
 }
 
 export default async function ProductsPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;
-    const products = await getAllProducts(lang);
-    const filters = await getProductCategories(lang);
+    const productsJson = await loadProductsJson(lang);
+    const products = productsJson.products;
+    const filters = productsJson.categories;
+    const pageTitle = productsJson.pageTitle;
+
     const languages = await loadLanguagesJson();
     const validLang = languages.find((l) => l.code === lang)?.code || DEFAULT_LANGUAGE;
 
     const pageTitleData = {
-        breadcrumbs: [{ label: 'Home', href: `/${lang}` }, { label: 'All Products' }],
-        title: 'All Products',
-        description: "Explore CKY's complete range of innovative audio products",
+        breadcrumbs: pageTitle.breadcrumbs,
+        title: pageTitle.title,
+        description: pageTitle.description,
     };
 
     const productCardData = products.map((p) => ({

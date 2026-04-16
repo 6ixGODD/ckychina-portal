@@ -9,7 +9,7 @@ import { DEFAULT_LANGUAGE } from '@/lib/constants';
 import { buildHeaderData } from '@/lib/models/header';
 import { loadLanguagesJson } from '@/lib/models/languages';
 import { buildMetadata } from '@/lib/models/metadata';
-import { getAllProducts, getProductById } from '@/lib/models/products';
+import { getAllProducts, getProductById, loadProductsJson } from '@/lib/models/pages/products';
 
 export async function generateStaticParams() {
     const languages = await loadLanguagesJson();
@@ -51,6 +51,7 @@ export default async function ProductDetailPage({
     params: Promise<{ lang: string; category: string; id: string }>;
 }) {
     const { lang, category, id } = await params;
+    const pageTitle = (await loadProductsJson(lang)).pageTitle;
     const product = await getProductById(lang, category, id);
     const languages = await loadLanguagesJson();
     const validLang = languages.find((l) => l.code === lang)?.code || DEFAULT_LANGUAGE;
@@ -60,12 +61,8 @@ export default async function ProductDetailPage({
     }
 
     const pageTitleData = {
-        breadcrumbs: [
-            { label: 'Home', href: `/${lang}` },
-            { label: 'All Products', href: `/${lang}/products` },
-            { label: product.name },
-        ],
-        title: 'Product Details',
+        breadcrumbs: [...pageTitle.details.breadcrumbs, { label: product.name }],
+        title: pageTitle.details.title,
         description: product.detailDescription,
     };
 
