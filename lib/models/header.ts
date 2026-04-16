@@ -2,7 +2,6 @@ import { z } from 'zod';
 
 import type { HeaderData } from '@/components/layout/header';
 import { loadLanguagesJson } from '@/lib/models/languages';
-import { loadLogoJson } from '@/lib/models/logo';
 
 export const HeaderJsonSchema = z.object({
     nav: z.array(
@@ -11,6 +10,12 @@ export const HeaderJsonSchema = z.object({
             href: z.string(),
         }),
     ),
+    logo: z.object({
+        src: z.string(),
+        alt: z.string(),
+        width: z.number().optional(),
+        height: z.number().optional(),
+    }),
 });
 
 export type HeaderJsonData = z.infer<typeof HeaderJsonSchema>;
@@ -22,15 +27,14 @@ export async function loadHeaderJson(currLang: string): Promise<HeaderJsonData> 
 
 export async function buildHeaderData(currLang: string): Promise<HeaderData> {
     const headerJson = await loadHeaderJson(currLang);
-    const logoJson = await loadLogoJson(currLang);
     const languagesJson = await loadLanguagesJson();
 
     return {
         logo: {
-            src: logoJson.src,
-            alt: logoJson.alt,
-            width: logoJson.width,
-            height: logoJson.height,
+            src: headerJson.logo.src,
+            alt: headerJson.logo.alt,
+            width: headerJson.logo.width,
+            height: headerJson.logo.height,
         },
         nav: {
             elements: headerJson.nav.map((element) => ({

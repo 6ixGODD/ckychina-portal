@@ -1,7 +1,6 @@
 import { z } from 'zod';
 
 import { FooterData } from '@/components/layout/footer';
-import { loadLogoJson } from '@/lib/models/logo';
 
 export const FooterJsonSchema = z.object({
     about: z.string(),
@@ -15,12 +14,19 @@ export const FooterJsonSchema = z.object({
             title: z.string(),
             links: z.array(
                 z.object({
-                    name: z.string(),
-                    href: z.string(),
+                    content: z.string(),
+                    href: z.string().optional(),
+                    icon: z.string().optional(),
                 }),
             ),
         }),
     ),
+    logo: z.object({
+        src: z.string(),
+        alt: z.string(),
+        width: z.number(),
+        height: z.number(),
+    }),
 });
 
 export type FooterJsonData = z.infer<typeof FooterJsonSchema>;
@@ -32,15 +38,14 @@ export async function loadFooterJson(currLang: string): Promise<FooterJsonData> 
 
 export async function buildFooterData(currLang: string): Promise<FooterData> {
     const footerJson = await loadFooterJson(currLang);
-    const logoJson = await loadLogoJson(currLang);
 
     return {
         about: {
             logo: {
-                src: logoJson.src,
-                alt: logoJson.alt,
-                width: logoJson.width,
-                height: logoJson.height,
+                src: footerJson.logo.src,
+                alt: footerJson.logo.alt,
+                width: footerJson.logo.width,
+                height: footerJson.logo.height,
             },
             content: footerJson.about,
         },
@@ -52,8 +57,9 @@ export async function buildFooterData(currLang: string): Promise<FooterData> {
         linksGroups: footerJson.linksGroups.map((group) => ({
             title: group.title,
             items: group.links.map((link) => ({
-                name: link.name,
+                content: link.content,
                 href: link.href,
+                icon: link.icon,
             })),
         })),
     };
