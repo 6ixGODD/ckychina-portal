@@ -1886,5 +1886,10 @@
       "value": "turntable",
       "label": "TURNTABLE"
     }
-  ]
+  ],
+  "navigation": {
+    "prev": "Previous Product",
+    "next": "Next Product",
+    "all": "All Products"
+  }
 }

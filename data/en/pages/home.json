@@ -11,11 +11,13 @@
     "statistics": [
       {
         "number": "30+",
-        "label": "Countries & Regions"
+        "label": "Countries & Regions",
+        "counter": true
       },
       {
         "number": "26",
-        "label": "Years of Excellence"
+        "label": "Years of Excellence",
+        "counter": true
       },
       {
         "number": "High-Tech",
@@ -47,11 +49,13 @@
       "stats": [
         {
           "number": "26",
-          "label": "Years of Heritage"
+          "label": "Years of Heritage",
+          "counter": true
         },
         {
           "number": "30+",
-          "label": "Global Presence"
+          "label": "Global Presence",
+          "counter": true
         },
         {
           "number": "BSCI",

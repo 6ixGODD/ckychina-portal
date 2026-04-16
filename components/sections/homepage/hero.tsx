@@ -1,4 +1,9 @@
+'use client';
+
 import Image from 'next/image';
+import CountUp from 'react-countup';
+
+import { parseCounter } from '@/lib/utils';
 
 export type HeroData = {
     title: string;
@@ -6,6 +11,8 @@ export type HeroData = {
     statistics: {
         number: string;
         label: string;
+        counter?: boolean;
+        style?: string;
     }[];
     cta: string;
     img: {
@@ -37,12 +44,43 @@ export default function Hero({ data }: Props) {
                                 </a>
                             </div>
                             <div className='hero-stats' data-aos='fade-up' data-aos-delay='500'>
-                                {data.statistics.map((stat) => (
-                                    <div className='stat-item' key={stat.label}>
-                                        <div className='stat-number'>{stat.number}</div>
-                                        <div className='stat-label'>{stat.label}</div>
-                                    </div>
-                                ))}
+                                {data.statistics.map((stat) => {
+                                    const parsed = parseCounter(stat.number);
+
+                                    if (stat.counter && parsed.hasNumber) {
+                                        return (
+                                            <div className='stat-item' key={stat.label}>
+                                                <div className='stat-number'>
+                                                    {parsed.prefix && <span>{parsed.prefix} </span>}
+                                                    <CountUp
+                                                        start={0}
+                                                        end={parsed.value}
+                                                        delay={0.5}
+                                                        duration={2}
+                                                        separator=','
+                                                        decimals={
+                                                            parsed.rawNumber.includes('.')
+                                                                ? parsed.rawNumber.split('.')[1].length
+                                                                : 0
+                                                        }
+                                                        enableScrollSpy
+                                                        scrollSpyOnce
+                                                    />
+                                                    {parsed.suffix && <span>{parsed.suffix}</span>}
+                                                </div>
+                                                <div className='stat-label'>{stat.label}</div>
+                                            </div>
+                                        );
+                                    }
+
+                                    // fallback
+                                    return (
+                                        <div className='stat-item' key={stat.label}>
+                                            <div className='stat-number'>{stat.number}</div>
+                                            <div className='stat-label'>{stat.label}</div>
+                                        </div>
+                                    );
+                                })}
                             </div>
                         </div>
                     </div>
@@ -54,7 +92,7 @@ export default function Hero({ data }: Props) {
                                 className='img-fluid'
                                 width={1024}
                                 height={1024}
-                                unoptimized={true} // Disable image optimization for exports
+                                unoptimized={true}
                             />
                         </div>
                     </div>

@@ -44,11 +44,6 @@ export default function ClientProviders({ languages }: Props) {
                     selector: '.glightbox',
                 });
 
-                // Initialize PureCounter
-                import('@srexi/purecounterjs').then((mod) => {
-                    new mod.default();
-                });
-
                 // Initialize Isotope
                 const isotopeLayouts = document.querySelectorAll('.isotope-layout');
                 isotopeLayouts.forEach((isotopeItem) => {

@@ -29,6 +29,7 @@ export const HeroJsonSchema = z.object({
         z.object({
             number: z.string(),
             label: z.string(),
+            counter: z.boolean().optional(),
         }),
     ),
     image: z.object({
@@ -54,6 +55,7 @@ export const AboutJsonSchema = z.object({
             z.object({
                 number: z.string(),
                 label: z.string(),
+                counter: z.boolean().optional(),
             }),
         ),
     }),
@@ -196,6 +198,7 @@ export async function buildHomePageData(lang: string) {
         statistics: homePageJsonData.hero.statistics.map((stat) => ({
             number: stat.number,
             label: stat.label,
+            counter: stat.counter || false,
         })),
         img: {
             src: homePageJsonData.hero.image.src,
@@ -220,6 +223,7 @@ export async function buildHomePageData(lang: string) {
             stats: homePageJsonData.about.mainContent.stats.map((stat) => ({
                 number: stat.number,
                 label: stat.label,
+                counter: stat.counter || false,
             })),
         },
         image: {

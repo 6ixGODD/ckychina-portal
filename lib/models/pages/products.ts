@@ -130,6 +130,15 @@ export const PageTitleSchema = z.object({
 });
 
 /**
+ * Schema for product navigation labels
+ */
+export const ProductNavigationLabelsSchema = z.object({
+    prev: z.string(),
+    all: z.string(),
+    next: z.string(),
+});
+
+/**
  * Schema for products collection
  */
 export const ProductsJsonSchema = z.object({
@@ -137,6 +146,7 @@ export const ProductsJsonSchema = z.object({
     pageTitle: PageTitleSchema,
     products: z.array(ProductJsonSchema),
     categories: ProductCategoriesJsonSchema,
+    navigation: ProductNavigationLabelsSchema,
 });
 
 export type ProductsJsonData = z.infer<typeof ProductsJsonSchema>;
@@ -171,4 +181,21 @@ export async function getFeaturedProducts(lang: string): Promise<ProductJsonData
 export async function getProductById(lang: string, category: string, id: string): Promise<ProductJsonData | null> {
     const products = await getAllProducts(lang);
     return products.find((p) => p.category === category && p.id === id) || null;
+}
+
+/**
+ * Get navigation data for a product (prev/next)
+ */
+export async function getProductNavigation(lang: string, category: string, id: string) {
+    const products = await getAllProducts(lang);
+    const currentIndex = products.findIndex((p) => p.category === category && p.id === id);
+
+    if (currentIndex === -1) {
+        return { prev: null, next: null };
+    }
+
+    return {
+        prev: currentIndex > 0 ? products[currentIndex - 1] : null,
+        next: currentIndex < products.length - 1 ? products[currentIndex + 1] : null,
+    };
 }
