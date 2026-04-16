@@ -5,8 +5,9 @@ import Link from 'next/link';
 export type LinksGroupData = {
     title: string;
     items: {
-        name: string;
-        href: string;
+        content: string;
+        href?: string;
+        icon?: string;
     }[];
 };
 
@@ -19,9 +20,19 @@ export default function LinksGroup({ data }: Props) {
         <div className='col-lg-2 col-6 footer-links'>
             <h4>{data.title}</h4>
             <ul>
-                {data.items.map((item) => (
-                    <li key={item.name}>
-                        <Link href={item.href}>{item.name}</Link>
+                {data.items.map((item, index) => (
+                    <li key={index}>
+                        {item.href ? (
+                            <Link href={item.href} className='d-flex align-items-start'>
+                                {item.icon && <i className={`${item.icon} me-2 mt-1`}></i>}
+                                <span style={{ whiteSpace: 'pre-line' }}>{item.content}</span>
+                            </Link>
+                        ) : (
+                            <span className='d-flex align-items-start'>
+                                {item.icon && <i className={`${item.icon} me-2 mt-1`}></i>}
+                                <span style={{ whiteSpace: 'pre-line' }}>{item.content}</span>
+                            </span>
+                        )}
                     </li>
                 ))}
             </ul>
