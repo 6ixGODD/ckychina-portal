@@ -4,6 +4,7 @@ import React from 'react';
 import Header from '@/components/layout/header';
 import ProductList from '@/components/sections/products/product-list';
 import PageTitle from '@/components/ui/page-title';
+import { ITEMS_PER_PAGE } from '@/lib/config';
 import { DEFAULT_LANGUAGE } from '@/lib/constants';
 import { buildHeaderData } from '@/lib/models/header';
 import { loadLanguagesJson } from '@/lib/models/languages';
@@ -57,7 +58,12 @@ export default async function ProductsPage({ params }: { params: Promise<{ lang:
 
                 <section id='portfolio' className='portfolio section'>
                     <div className='container' data-aos='fade-up' data-aos-delay='100'>
-                        <ProductList products={productCardData} filters={filters} lang={lang} />
+                        <ProductList
+                            products={productCardData}
+                            filters={filters}
+                            lang={lang}
+                            itemsPerPage={ITEMS_PER_PAGE}
+                        />
                     </div>
                 </section>
             </main>
