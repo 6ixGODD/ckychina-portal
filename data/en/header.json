@@ -10,7 +10,7 @@
     },
     {
       "name": "Product Series",
-        "href": "/en#services"
+      "href": "/en#services"
     },
     {
       "name": "Our Advantage",
@@ -24,5 +24,11 @@
       "name": "Contact Us",
       "href": "/en#contact"
     }
-  ]
+  ],
+  "logo": {
+    "src": "/assets/logo.svg",
+    "alt": "CKY Logo",
+    "width": 120,
+    "height": 80
+  }
 }

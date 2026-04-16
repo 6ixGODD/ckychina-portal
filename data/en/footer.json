@@ -5,33 +5,71 @@
     "holder": "CKY",
     "text": "All rights reserved."
   },
+  "logo": {
+    "src": "/assets/logo-white.svg",
+    "alt": "CKY Logo",
+    "width": 80,
+    "height": 100
+  },
   "linksGroups": [
     {
       "title": "Quick Links",
       "links": [
         {
-          "name": "Home",
+          "content": "Home",
           "href": "/en#hero"
         },
         {
-          "name": "Brand Story",
+          "content": "Brand Story",
           "href": "/en#about"
         },
         {
-          "name": "Product Series",
+          "content": "Product Series",
           "href": "/en#services"
         },
         {
-          "name": "Our Advantage",
+          "content": "Our Advantage",
           "href": "/en#why-us"
         },
         {
-          "name": "Products",
+          "content": "Products",
           "href": "/en#portfolio"
         },
         {
-          "name": "Contact Us",
+          "content": "Contact Us",
           "href": "/en#contact"
+        }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        {
+          "content": "Privacy Policy",
+          "href": "/en/privacy"
+        },
+        {
+          "content": "Terms of Service",
+          "href": "/en/terms"
+        }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "links": [
+        {
+          "icon": "bi bi-envelope",
+          "content": "info@ckychina.com",
+          "href": "mailto:info@ckychina.com"
+        },
+        {
+          "icon": "bi bi-telephone",
+          "content": "+86 134 3479 2043",
+          "href": "tel:+8613434792043"
+        },
+        {
+          "icon": "bi bi-geo-alt",
+          "content": "30-Meter Road, Shangnan Village, Yuanzhou Town\nBoluo County, Huizhou City\nGuangdong, China"
         }
       ]
     }
