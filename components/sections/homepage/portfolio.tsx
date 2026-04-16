@@ -41,7 +41,7 @@ export default function Portfolio({ data }: Props) {
                     data-sort='original-order'
                 >
                     {/* Filters */}
-                    <ul className='portfolio-filters isotope-filters' data-aos='fade-up' data-aos-delay='200'>
+                    <ul className='filters isotope-filters' data-aos='fade-up' data-aos-delay='200'>
                         {data.filters.map((filter) => (
                             <li
                                 key={filter.value}
