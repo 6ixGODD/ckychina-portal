@@ -70,8 +70,10 @@ pnpm dev          # http://localhost:3000
 ### 构建
 
 ```bash
-pnpm build        # 输出到 out/
-pnpm preview      # 预览构建结果
+pnpm build          # 输出到 out/
+pnpm preview        # 预览构建结果
+pnpm preview:build  # 输出并预览构建结果，等价于 pnpm build && pnpm preview
+pnpm deploy         # 构建并部署到阿里云 OSS（见部署部分）
 ```
 
 ---

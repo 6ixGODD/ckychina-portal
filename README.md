@@ -70,8 +70,10 @@ pnpm dev          # http://localhost:3000
 ### Build
 
 ```bash
-pnpm build        # Output to out/
-pnpm preview      # Preview build result
+pnpm build          # Output to out/
+pnpm preview        # Preview build result
+pnpm preview:build  # Output & preview in one step, equivalent to `pnpm build && pnpm preview`
+pnpm deploy         # Build and deploy to Aliyun OSS (see Deployment section)
 ```
 
 ---
