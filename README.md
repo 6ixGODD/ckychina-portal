@@ -81,64 +81,64 @@ pnpm preview      # Preview build result
 ```text
 ckychina-portal/
 ├── app/
-│   ├── [lang]/                    # i18n routing
+│   ├── [lang]/                   # i18n routing
 │   │   ├── layout.tsx            # Language layout (includes Footer)
 │   │   ├── page.tsx              # Homepage
 │   │   ├── products/             # Product pages
-│   │   │   ├── page.tsx         # Product list
-│   │   │   └── [category]/[id]/ # Product details
+│   │   │   ├── page.tsx          # Product list
+│   │   │   └── [category]/[id]/  # Product details
 │   │   ├── privacy/              # Privacy policy
 │   │   ├── terms/                # Terms of service
 │   │   └── 404/                  # 404 page
-│   ├── styles/                    # Global styles
-│   │   ├── main.scss            # Entry point
-│   │   ├── _variables.scss      # CSS variables
-│   │   ├── layouts/             # Layout styles
-│   │   ├── sections/            # Section styles
-│   │   └── components/          # Component styles
+│   ├── styles/                   # Global styles
+│   │   ├── main.scss             # Entry point
+│   │   ├── _variables.scss       # CSS variables
+│   │   ├── layouts/              # Layout styles
+│   │   ├── sections/             # Section styles
+│   │   └── components/           # Component styles
 │   ├── page.tsx                  # Root redirect
-│   ├── sitemap.ts               # Dynamic sitemap.xml generation
-│   └── robots.ts                # Dynamic robots.txt generation
+│   ├── sitemap.ts                # Dynamic sitemap.xml generation
+│   └── robots.ts                 # Dynamic robots.txt generation
 │
 ├── components/
 │   ├── layout/
-│   │   ├── header/              # Navigation, language switcher
-│   │   └── footer/              # Footer
-│   ├── sections/                # Page sections
+│   │   ├── header/               # Navigation, language switcher
+│   │   └── footer/               # Footer
+│   ├── sections/                 # Page sections
 │   │   ├── homepage/
 │   │   ├── products/
 │   │   ├── privacy/
 │   │   ├── terms/
 │   │   └── error/
-│   ├── ui/                      # Common components
-│   └── providers/               # Client-side providers
+│   ├── ui/                       # Common components
+│   └── providers/                # Client-side providers
 │
 ├── lib/
-│   ├── i18n.ts                  # i18n utilities
-│   ├── constants.ts             # Constants
-│   ├── config.ts                # Configuration
-│   ├── utils.ts                 # Utility functions
-│   └── models/                  # Data models
+│   ├── i18n.ts                   # i18n utilities
+│   ├── constants.ts              # Constants
+│   ├── config.ts                 # Configuration
+│   ├── utils.ts                  # Utility functions
+│   └── models/                   # Data models
 │       ├── header.ts
 │       ├── footer.ts
 │       ├── metadata.ts
-│       └── pages/               # Page data builders
+│       └── pages/                # Page data builders
 │
 ├── data/                         # JSON content data
-│   ├── languages.json           # Language configuration
-│   ├── metadata.json            # Global SEO
-│   ├── en/                      # English content
-│   └── zh/                      # Chinese content
+│   ├── languages.json            # Language configuration
+│   ├── metadata.json             # Global SEO
+│   ├── en/                       # English content
+│   └── zh/                       # Chinese content
 │       └── ...
 │
 ├── public/
 │   └── assets/
-│       ├── img/                 # Image assets
-│       ├── fonts/               # Font files
-│       ├── logo.svg            # Logo (dark)
-│       └── logo-white.svg      # Logo (light)
+│       ├── img/                  # Image assets
+│       ├── fonts/                # Font files
+│       ├── logo.svg              # Logo (dark)
+│       └── logo-white.svg        # Logo (light)
 │
-├── .ossutilconfig               # OSS config (not committed)
+├── .ossutilconfig                # OSS config (not committed)
 ├── next.config.ts
 ├── tsconfig.json
 └── package.json
