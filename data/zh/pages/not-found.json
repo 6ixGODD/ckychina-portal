@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "404 - 页面未找到",
+    "description": "您访问的页面不存在。",
+    "keywords": "404, 页面未找到, 错误"
+  },
+  "errorNumber": "404",
+  "errorTitle": "页面未找到",
+  "errorDescription": "抱歉，您访问的页面可能已被删除、更名或暂时不可用。",
+  "helpfulLinksTitle": "您可能在寻找：",
+  "helpfulLinks": [
+    {
+      "icon": "bi bi-house-door",
+      "title": "首页",
+      "description": "返回主页探索CKY品牌故事和最新产品。",
+      "linkText": "前往首页",
+      "linkHref": "/{lang}#hero"
+    },
+    {
+      "icon": "bi bi-speaker",
+      "title": "产品中心",
+      "description": "浏览我们全系列音频产品，发现最适合您的解决方案。",
+      "linkText": "查看产品",
+      "linkHref": "/{lang}/products"
+    },
+    {
+      "icon": "bi bi-envelope",
+      "title": "联系我们",
+      "description": "联系我们的团队获取个性化帮助和支持。",
+      "linkText": "联系我们",
+      "linkHref": "/{lang}#contact"
+    }
+  ]
+}

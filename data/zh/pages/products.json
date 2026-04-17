@@ -1,0 +1,1895 @@
+{
+  "metadata": {
+    "title": "全部产品 - CKY音响",
+    "description": "探索CKY全系列音响产品，包括回音壁系统、便携派对音箱和黑胶唱片机",
+    "keywords": "CKY产品,回音壁,便携音箱,黑胶唱片机,音响设备"
+  },
+  "pageTitle": {
+    "breadcrumbs": [
+      {"label": "首页", "href": "/zh"},
+      {"label": "全部产品"}
+    ],
+    "title": "全部产品",
+    "details": {
+      "breadcrumbs": [
+        {"label": "首页", "href": "/zh"},
+        {"label": "全部产品", "href": "/zh/products"}
+      ],
+      "title": "产品详情"
+    },
+    "description": "探索CKY完整的创新音响产品系列"
+  },
+  "products": [
+    {
+      "id": "sra5088g",
+      "name": "SRA5088G 杜比全景声回音壁",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "5.1.2声道杜比全景声回音壁系统，配备无线卫星音箱与强劲低音炮，195W澎湃功率输出，缔造真正的家庭影院级音频体验。",
+      "detailDescription": "5.1.2声道杜比全景声回音壁系统，配备无线卫星音箱与强劲低音炮，支持HDMI ARC、光纤、蓝牙等多种连接方式，195W强劲功率输出，缔造真正的家庭影院级音频体验。",
+      "features": [
+        "5.1.2声道",
+        "195W功率",
+        "无线卫星音箱"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5088g/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "SRA5088G 杜比全景声回音壁系统 - CKY音响",
+        "description": "SRA5088G 5.1.2声道杜比全景声回音壁系统，配备无线卫星音箱和低音炮，打造影院级沉浸式音频体验",
+        "keywords": "杜比全景声,回音壁,5.1.2声道,无线音箱,家庭影院"
+      },
+      "projectMeta": {
+        "type": "高端音频系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5088g/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SRA5088G是一款专为追求极致音质的用户打造的高端家庭影院音频系统。采用先进的5.1.2声道配置，完美支持杜比全景声技术，实现真正的三维立体声音场，让声音从四面八方包围您，营造身临其境的听觉体验。",
+          "系统由主回音壁、无线卫星音箱和大功率低音炮组成。主回音壁集成三个高性能扬声器单元和数字功放系统，结合DSP数字信号处理技术，确保每一个声音细节都能清晰呈现。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SRA5088G"
+        },
+        {
+          "label": "声道配置",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "音频技术",
+          "value": "杜比全景声"
+        },
+        {
+          "label": "总功率",
+          "value": "195W"
+        },
+        {
+          "label": "应用场景",
+          "value": "家庭影院 / 音乐欣赏"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SRA5088G集成了业界领先的音频技术和人性化设计，从硬件到软件优化的每一个环节都经过精心打磨。",
+        "items": [
+          {
+            "number": "01",
+            "title": "杜比全景声技术",
+            "description": "支持杜比全景声音频格式，5.1.2声道配置实现真正的三维声场。高度声道设计让声音可以从头顶传来，营造更真实的声音环境。"
+          },
+          {
+            "number": "02",
+            "title": "无线卫星音箱",
+            "description": "创新的无线卫星音箱设计，内置大容量7.4V/2600mAh锂电池，单次充电可连续使用数小时。稳定的无线传输技术确保音频信号零延迟、零失真。"
+          },
+          {
+            "number": "03",
+            "title": "多种连接方式",
+            "description": "配备HDMI ARC、光纤、USB、蓝牙5.0、3.5mm AUX接口，兼容各种音源设备。支持最大32GB的USB存储设备，可直接播放本地音乐文件。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/02.webp",
+          "alt": "SRA5088G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/satellite.webp",
+          "alt": "SRA5088G 卫星音箱",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/subwroofer.webp",
+          "alt": "SRA5088G 低音炮",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/soundbar.webp",
+          "alt": "SRA5088G 回音壁",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SRA5088G采用高品质音频组件和先进的数字处理技术，确保每一个技术参数都达到专业标准，呈现高保真音质。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "低音炮 60W",
+              "回音壁 105W",
+              "卫星音箱 30W",
+              "总功率 195W"
+            ]
+          },
+          {
+            "title": "扬声器单元",
+            "tags": [
+              "低音炮 8英寸×1",
+              "回音壁 (4×13cm)×3",
+              "卫星音箱 (4.4×8cm)×2"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI ARC",
+              "光纤",
+              "蓝牙 5.0",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "195W",
+            "label": "强劲功率"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "环绕声道"
+          },
+          {
+            "stat": "8英寸",
+            "label": "低音炮单元"
+          },
+          {
+            "stat": "无线",
+            "label": "卫星音箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt408",
+      "name": "BT408 便携式蓝牙音箱",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "BT408便携式蓝牙音箱，采用蓝牙5.4技术，40W强劲输出功率。IPX4防水等级，支持TWS互联、USB/TF卡播放、免提通话等多种功能。",
+      "detailDescription": "BT408便携式蓝牙音箱，采用蓝牙5.4技术，提供40W强劲输出功率。内置7.4V/3000mAh大容量电池，支持USB-C快速充电。IPX4防水等级，支持TWS互联，是户外活动和日常聆听的理想选择。",
+      "features": [
+        "蓝牙5.4",
+        "IPX4防水",
+        "TWS互联"
+      ],
+      "mainImage": "/assets/img/products/portable/bt408/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "BT408 便携式蓝牙音箱 - CKY音响",
+        "description": "BT408便携式蓝牙音箱，40W强劲输出，蓝牙5.4，IPX4防水，支持TWS互联",
+        "keywords": "便携音箱,蓝牙音箱,户外音箱,防水音箱,TWS"
+      },
+      "projectMeta": {
+        "type": "便携式蓝牙音箱",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt408/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "BT408是一款专为追求便携与音质的用户设计的蓝牙音箱。采用最新蓝牙5.4技术，连接更稳定、传输距离更远、功耗更低。双20W立体声扬声器配置，总功率达到40W，为您带来饱满动听的音质表现。",
+          "内置7.4V/3000mAh大容量可充电电池，配合USB-C快速充电接口，充电更便捷、续航更持久。IPX4级防水设计，无惧雨水和汗水，适合户外使用。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "BT408"
+        },
+        {
+          "label": "输出功率",
+          "value": "20W × 2"
+        },
+        {
+          "label": "蓝牙版本",
+          "value": "5.4"
+        },
+        {
+          "label": "防水等级",
+          "value": "IPX4"
+        },
+        {
+          "label": "电池容量",
+          "value": "7.4V/3000mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "BT408将先进技术与便携设计完美结合，为您带来随时随地的高品质音乐体验。",
+        "items": [
+          {
+            "number": "01",
+            "title": "蓝牙5.4技术",
+            "description": "采用最新蓝牙5.4技术，相比前代版本，连接速度更快、稳定性更强、传输距离更远。低功耗设计延长电池续航时间，同时保证高品质音频传输。"
+          },
+          {
+            "number": "02",
+            "title": "IPX4防水设计",
+            "description": "通过IPX4级防水认证，能够有效防护各方向的水花溅射。无论是户外野餐、海滩派对还是浴室使用，都无需担心水滴和汗水的侵蚀。"
+          },
+          {
+            "number": "03",
+            "title": "多功能娱乐",
+            "description": "支持蓝牙、USB/TF卡、AUX等多种音源输入方式。TWS真无线立体声技术可将两台BT408互联，打造更震撼的立体声效果。内置免提通话功能。"
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "BT408采用高品质音频组件和高效能电池系统，确保出色的音质表现和长久的续航能力。",
+        "groups": [
+          {
+            "title": "音频性能",
+            "tags": [
+              "双20W扬声器",
+              "40W总功率",
+              "EQ音效调节"
+            ]
+          },
+          {
+            "title": "电源系统",
+            "tags": [
+              "7.4V/3000mAh电池",
+              "USB-C充电"
+            ]
+          },
+          {
+            "title": "功能特性",
+            "tags": [
+              "蓝牙5.4",
+              "USB/TF播放",
+              "TWS互联",
+              "免提通话",
+              "IPX4防水",
+              "AUX输入"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "40W",
+            "label": "强劲功率"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "蓝牙技术"
+          },
+          {
+            "stat": "IPX4",
+            "label": "防水等级"
+          },
+          {
+            "stat": "TWS",
+            "label": "无线互联"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt101",
+      "name": "TT101 黑胶唱片机",
+      "category": "turntable",
+      "categoryName": "TURNTABLE",
+      "year": "2026",
+      "description": "经典黑胶唱片机，配备外置音箱系统，50W功率输出。支持蓝牙5.4无线连接、RCA输出、Phono/Line切换等多种功能，复古外观与现代技术的完美融合。",
+      "detailDescription": "经典黑胶唱片机，配备外置音箱系统，50W功率输出。支持蓝牙5.4无线连接、RCA输出、Phono/Line切换、3.5mm AUX输入等多种功能，复古与现代的完美融合。",
+      "features": [
+        "蓝牙5.4",
+        "MDF木质箱体",
+        "复古设计"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt101/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "TT101 黑胶唱片机 - CKY音响",
+        "description": "TT101经典黑胶唱片机，配备外置音箱，蓝牙5.4，复古设计邂逅现代技术",
+        "keywords": "黑胶唱片机,蓝牙唱片机,复古音响,唱片播放器"
+      },
+      "projectMeta": {
+        "type": "复古黑胶系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt101/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "TT101是一款完美融合复古美学与现代技术的黑胶唱片机。采用经典的皮带驱动机构和高品质唱针，能够精准播放黑胶唱片。配备外置无源音箱系统，总功率50W，呈现温暖动听的音质。",
+          "采用优质MDF木质箱体设计，不仅提供稳定的平台，还增添了复古韵味。支持蓝牙5.4无线连接，可轻松与现代设备配对。RCA输出和Phono/Line切换功能，满足各种使用场景。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "TT101"
+        },
+        {
+          "label": "驱动方式",
+          "value": "皮带驱动"
+        },
+        {
+          "label": "音箱功率",
+          "value": "50W"
+        },
+        {
+          "label": "蓝牙版本",
+          "value": "5.4"
+        },
+        {
+          "label": "箱体材质",
+          "value": "MDF木质"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "TT101汇集经典黑胶工艺与现代便利功能，为音乐发烧友带来纯正的黑胶体验。",
+        "items": [
+          {
+            "number": "01",
+            "title": "纯正黑胶体验",
+            "description": "皮带驱动机构配合精密平衡转盘，确保稳定的播放速度。高品质金刚石唱针精准追踪唱片沟槽，重现温暖的模拟声音，数字音频无法比拟。"
+          },
+          {
+            "number": "02",
+            "title": "精良制造工艺",
+            "description": "MDF木质箱体提供坚实基础，减少振动和共鸣。外置无源音箱配备专用功放，50W清晰温暖的声音，出色的频率响应。"
+          },
+          {
+            "number": "03",
+            "title": "现代连接功能",
+            "description": "蓝牙5.4支持从智能手机和平板无线传输音乐。RCA输出可连接外部功放。Phono/Line切换满足不同输入需求。3.5mm AUX输入增加多功能性。"
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "TT101结合传统黑胶组件与现代功能，确保纯正的黑胶播放体验和现代便利性。",
+        "groups": [
+          {
+            "title": "唱盘系统",
+            "tags": [
+              "皮带驱动",
+              "33/45 RPM",
+              "金刚石唱针",
+              "手动操作"
+            ]
+          },
+          {
+            "title": "音频输出",
+            "tags": [
+              "50W音箱",
+              "RCA输出",
+              "Phono/Line切换",
+              "3.5mm AUX"
+            ]
+          },
+          {
+            "title": "连接功能",
+            "tags": [
+              "蓝牙5.4",
+              "RCA线缆",
+              "电源适配器"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "50W",
+            "label": "音箱输出"
+          },
+          {
+            "stat": "BT 5.4",
+            "label": "无线连接"
+          },
+          {
+            "stat": "MDF",
+            "label": "木质箱体"
+          },
+          {
+            "stat": "复古",
+            "label": "经典设计"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91219",
+      "name": "PT91219 双12寸派对音箱",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "双12英寸专业级派对音箱，150W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联等多种功能，大型活动与专业演出的首选设备。",
+      "detailDescription": "双12英寸专业级派对音箱，150W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联、吉他/麦克风接口，是大型活动和专业演出的理想选择。",
+      "features": [
+        "双12英寸",
+        "150W功率",
+        "TWS互联"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91219/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "PT91219 双12英寸派对音箱 - CKY音响",
+        "description": "专业派对音箱，双12英寸驱动单元，150W输出，TWS互联，适合大型活动",
+        "keywords": "派对音箱,专业音箱,便携PA,12英寸音箱,活动音响"
+      },
+      "projectMeta": {
+        "type": "专业派对音箱",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91219/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "PT91219是该系列中的旗舰型号，采用双12英寸超大口径扬声器配置，150W强劲功率输出，提供最震撼的音效表现和最大的声压级。适合大型户外派对、商业活动、小型演唱会、DJ表演等专业场景。",
+          "支持多种音频输入方式，包括蓝牙无线连接、USB/TF卡播放、FM收音机和3.5mm AUX输入。配备吉他和麦克风接口，带独立音量控制，适合现场表演和卡拉OK。TWS互联功能可将两台音箱组成更强大的立体声系统。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "PT91219"
+        },
+        {
+          "label": "驱动单元",
+          "value": "双12英寸低音"
+        },
+        {
+          "label": "功率输出",
+          "value": "150W"
+        },
+        {
+          "label": "供电方式",
+          "value": "AC 110-240V"
+        },
+        {
+          "label": "功能特性",
+          "value": "TWS / 麦克风 / 吉他"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "PT91219结合专业级功率和多功能特性，是需要高音量、高品质声音的活动的理想选择。",
+        "items": [
+          {
+            "number": "01",
+            "title": "强劲音频性能",
+            "description": "双12英寸低音单元提供深沉有力的低频，可以充满大空间。号角高音单元确保清晰的高频再现。150W总功率输出为户外活动和大型场地提供充足的音量。"
+          },
+          {
+            "number": "02",
+            "title": "专业级连接",
+            "description": "配备吉他和麦克风接口，带独立音量和回声控制。非常适合现场表演、演讲和卡拉OK。支持同时使用多个输入源，实现最大灵活性。"
+          },
+          {
+            "number": "03",
+            "title": "多功能娱乐",
+            "description": "多种播放选项，包括蓝牙、USB/TF卡、FM收音机和AUX输入。TWS技术允许两台音箱配对实现真正的立体声。LED灯光效果为派对和活动增添氛围。"
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "PT91219采用专业级组件，专为在高要求的活动环境中提供可靠性能而设计。",
+        "groups": [
+          {
+            "title": "扬声器单元",
+            "tags": [
+              "双12英寸低音",
+              "号角高音",
+              "150W输出"
+            ]
+          },
+          {
+            "title": "输入接口",
+            "tags": [
+              "蓝牙",
+              "USB/TF卡",
+              "FM收音机",
+              "吉他接口",
+              "麦克风接口",
+              "AUX 3.5mm"
+            ]
+          },
+          {
+            "title": "功能特性",
+            "tags": [
+              "TWS互联",
+              "LED灯光",
+              "回声控制",
+              "EQ调节",
+              "遥控器"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "功率输出"
+          },
+          {
+            "stat": "12英寸",
+            "label": "双低音"
+          },
+          {
+            "stat": "TWS",
+            "label": "立体声互联"
+          },
+          {
+            "stat": "多种",
+            "label": "输入选项"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt102",
+      "name": "TT102 一体式黑胶唱片机",
+      "category": "turntable",
+      "categoryName": "TURNTABLE",
+      "year": "2026",
+      "description": "一体式黑胶唱片机，25W功率输出，内置高音低音单元。支持蓝牙5.4无线连接、RCA输出、Phono/Line切换、3.5mm AUX输入等多种功能，紧凑设计节省空间。",
+      "detailDescription": "一体式黑胶唱片机，25W功率输出，内置高音和低音单元。支持蓝牙5.4无线连接、RCA输出、Phono/Line切换、3.5mm AUX输入等多功能。MDF木质箱体设计，紧凑一体结构，完美融合复古美学与现代技术。",
+      "features": [
+        "一体式设计",
+        "分频音箱",
+        "蓝牙5.4"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt102/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "产品详情 - TT102 黑胶唱片机",
+        "description": "TT102一体式黑胶唱片机，25W功率输出，蓝牙5.4支持，紧凑设计，完美融合复古与现代",
+        "keywords": "黑胶唱片机,蓝牙唱片机,复古音响,唱片播放器,TURNTABLE"
+      },
+      "projectMeta": {
+        "type": "一体式黑胶唱片机",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt102/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "TT102是一款完美融合复古美学与现代技术的一体式黑胶唱片机。采用经典唱盘设计，配备高品质唱针和唱臂系统，确保完美重现黑胶唱片的音质。MDF木质箱体不但提升产品质感，还能有效减少共振，呈现更纯净的音质。",
+          "一体式设计将音箱集成在唱盘箱体内，配备3.81cm高音单元×2和5.71cm低音单元×2。分频设计确保高低频清晰呈现，25W功率输出带来饱满的音质表现。支持蓝牙5.4无线连接，可通过唱盘播放智能手机、平板等设备的音乐。配备L&R(RCA)输出接口、Phono/Line切换功能、3.5mm AUX输入等多功能接口，可连接外部音响系统或输入其他音源。LED指示灯直观显示工作状态，12V/2A DC适配器供电确保稳定运行。紧凑的一体式设计节省空间，适合各种家居环境。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "TT102"
+        },
+        {
+          "label": "蓝牙版本",
+          "value": "5.4"
+        },
+        {
+          "label": "总功率",
+          "value": "25W"
+        },
+        {
+          "label": "扬声器单元",
+          "value": "高音3.81cm×2 / 低音5.71cm×2"
+        },
+        {
+          "label": "箱体材质",
+          "value": "MDF木质箱体"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "TT102完美结合复古情怀与现代技术。一体式设计节省空间，同时享受黑胶唱片的温暖音质和现代音响的便利功能。",
+        "items": [
+          {
+            "number": "01",
+            "title": "一体紧凑设计",
+            "description": "音箱系统集成在唱盘箱体内。一体式设计节省空间，适合各种家居环境。MDF木质箱体搭配精致唱盘设计，完美诠释复古美学。不仅是音响设备，更是一件精美的艺术品。"
+          },
+          {
+            "number": "02",
+            "title": "分频音箱系统",
+            "description": "内置3.81cm高音单元×2和5.71cm低音单元×2，分频设计确保高低频清晰呈现。25W功率输出带来饱满的音质表现，既能享受黑胶唱片的温暖音质，也能清晰呈现现代音乐的细节。"
+          },
+          {
+            "number": "03",
+            "title": "多功能连接",
+            "description": "支持蓝牙5.4无线连接，可播放智能手机、平板等设备的音乐。配备Phono/Line切换、RCA输出、3.5mm AUX输入等多功能接口，可连接外部音响系统实现更专业的音质，或输入其他音源播放。LED指示灯直观显示工作状态。"
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "TT102采用高品质音频组件和稳定的唱盘系统。一体式设计节省空间，同时确保完美重现黑胶唱片的音质。",
+        "groups": [
+          {
+            "title": "音频性能",
+            "tags": [
+              "25W总功率",
+              "高音3.81cm × 2",
+              "低音5.71cm × 2"
+            ]
+          },
+          {
+            "title": "连接功能",
+            "tags": [
+              "蓝牙5.4",
+              "L&R (RCA)",
+              "Phono/Line输出",
+              "3.5mm AUX输入"
+            ]
+          },
+          {
+            "title": "产品尺寸",
+            "tags": [
+              "一体式 436×346×180.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "25W",
+            "label": "功率输出"
+          },
+          {
+            "stat": "5.4",
+            "label": "蓝牙版本"
+          },
+          {
+            "stat": "一体式",
+            "label": "紧凑设计"
+          },
+          {
+            "stat": "分频",
+            "label": "音箱系统"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91019",
+      "name": "PT91019 双10寸派对音箱",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "双10英寸专业派对音箱，150W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联、吉他/麦克风接口，大型聚会与专业演出的理想选择。",
+      "detailDescription": "双10英寸专业派对音箱，150W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联等多种功能，配备USB 2.0A充电接口、吉他接口和麦克风接口，支持AC110V/220V电源，适合各种大型聚会和演出场景。",
+      "features": [
+        "双10英寸",
+        "150W功率",
+        "USB充电"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91019/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "产品详情 - PT91019 便携式派对音箱",
+        "description": "PT91019双10英寸便携式派对音箱，150W功率输出，支持蓝牙/USB/FM收音机，配备USB充电接口",
+        "keywords": "便携音箱,派对音箱,蓝牙音箱,户外音箱,双10寸"
+      },
+      "projectMeta": {
+        "type": "专业派对音箱",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91019/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "PT91019是一款专为大型聚会和专业演出设计的派对音箱。双10英寸大口径扬声器配置，150W强劲功率输出，比8英寸版本提供更加震撼的音效表现和更大的声压级，适合户外大型派对、商业活动、小型演唱会等场景。",
+          "支持AC110V/220V(50/60Hz)电源供电，确保长时间稳定运行。支持蓝牙无线连接、USB播放（最大32GB）、FM收音机等多种音源输入方式。TWS真无线立体声技术可将两台音箱互联，打造更强大的立体声系统。配备USB 2.0A充电接口，可为手机等设备充电。吉他接口和麦克风接口（支持有线/无线麦克风）让这款音箱成为多功能娱乐中心。LED显示屏和遥控器让操作更加便捷。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "PT91019"
+        },
+        {
+          "label": "扬声器尺寸",
+          "value": "双10英寸"
+        },
+        {
+          "label": "功率输出",
+          "value": "150W"
+        },
+        {
+          "label": "供电方式",
+          "value": "AC110V/220V"
+        },
+        {
+          "label": "应用场景",
+          "value": "大型聚会 / 专业演出"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "PT91019以专业音质和强劲性能为核心，是大型活动和专业演出的完美选择。",
+        "items": [
+          {
+            "number": "01",
+            "title": "专业级音效",
+            "description": "双10英寸大口径扬声器配置，150W强劲功率输出，比8英寸版本提供更大的声压级和更震撼的音效表现。无论是户外大型派对还是商业活动，都能轻松覆盖全场，带来专业级的音质体验。"
+          },
+          {
+            "number": "02",
+            "title": "稳定供电系统",
+            "description": "支持AC110V/220V(50/60Hz)电源供电，确保长时间稳定运行。配备USB 2.0A充电接口，可为手机等移动设备充电，在户外使用时也能保持设备电量充足。"
+          },
+          {
+            "number": "03",
+            "title": "全能娱乐中心",
+            "description": "支持蓝牙、USB、FM收音机、TWS互联等多种功能。配备吉他接口和麦克风接口，支持有线/无线麦克风（选配），适合K歌、演出、DJ表演等多种娱乐场景。LED显示屏和遥控器让操作更加便捷。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt91019/02.webp",
+          "alt": "PT91019",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt91019/03.webp",
+          "alt": "PT91019",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "PT91019采用专业级音频组件和稳定的供电系统，确保长时间高质量运行和出色的音质表现。",
+        "groups": [
+          {
+            "title": "音频性能",
+            "tags": [
+              "双10英寸扬声器",
+              "150W功率输出"
+            ]
+          },
+          {
+            "title": "电源系统",
+            "tags": [
+              "AC110V/220V",
+              "USB 2.0A充电"
+            ]
+          },
+          {
+            "title": "功能接口",
+            "tags": [
+              "蓝牙",
+              "USB (32GB)",
+              "FM收音机",
+              "TWS互联",
+              "吉他/麦克风接口"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "专业功率"
+          },
+          {
+            "stat": "双10英寸",
+            "label": "大口径单元"
+          },
+          {
+            "stat": "USB",
+            "label": "2.0A充电"
+          },
+          {
+            "stat": "TWS",
+            "label": "无线互联"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr200g-37-160",
+      "name": "SR200G-37-160 回音壁系统",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "2.1声道回音壁系统，配备无线低音炮，120W功率输出，金属网罩搭配亮面工艺，优雅外观与出色音质兼备。",
+      "detailDescription": "2.1声道回音壁系统，配备无线低音炮，支持HDMI ARC、光纤、蓝牙等多种连接方式，120W强劲功率输出，金属网罩搭配亮面工艺，优雅外观与出色音质兼备。",
+      "features": [
+        "2.1声道",
+        "120W功率",
+        "金属格栅"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr200g-37-160/00.webp",
+      "imagePosition": "left",
+      "featured": false,
+      "metadata": {
+        "title": "产品详情 - SR200G-37-160 回音壁系统",
+        "description": "SR200G-37-160 2.1声道回音壁系统，配备无线低音炮，120W功率输出，金属格栅设计",
+        "keywords": "回音壁,2.1声道,无线低音炮,家庭影院,金属格栅"
+      },
+      "projectMeta": {
+        "type": "家庭影院音响",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr200g-37-160/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SR200G-37-160采用精致的金属网罩搭配亮面工艺，不仅提升音质表现，更为家居环境增添高级质感。2.1声道配置搭配16.51cm大口径低音炮单元，带来丰富的低频表现和清晰的中高频细节。",
+          "系统配备60W低音炮和60W回音壁，总功率120W，足以满足大多数家庭影院和音乐欣赏需求。无线低音炮设计允许灵活布局，无需复杂的线缆连接。支持HDMI ARC、光纤、蓝牙、USB和3.5mm AUX等连接方式，LED指示灯直观显示工作状态，配备遥控器方便操作。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SR200G-37-160"
+        },
+        {
+          "label": "声道配置",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "总功率",
+          "value": "120W"
+        },
+        {
+          "label": "设计特色",
+          "value": "金属格栅 & 亮面工艺"
+        },
+        {
+          "label": "扬声器单元",
+          "value": "低音炮16.51cm×1 / 回音壁5.89cm×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SR200G-37-160融合高端音频技术与时尚设计，为您提供出色的音质表现和用户体验。",
+        "items": [
+          {
+            "number": "01",
+            "title": "高端设计美学",
+            "description": "金属网罩搭配亮面工艺，不仅提升产品质感，还改善声音传播。优雅的设计完美融入现代家居环境，既是音响设备，也是艺术品。"
+          },
+          {
+            "number": "02",
+            "title": "强劲音频性能",
+            "description": "16.51cm大口径低音炮单元带来深沉有力的低频表现，而两个5.89cm回音壁单元确保清晰的中高频细节。120W总功率配置无论是爆炸性的电影场景还是音乐中的深沉低音都能出色呈现。"
+          },
+          {
+            "number": "03",
+            "title": "全面的连接性",
+            "description": "配备DC JACK、USB、LINE IN、光纤、HDMI IN接口，兼容各种音源设备。无线蓝牙连接简单快捷，轻松与智能手机、平板和电脑配对。LED指示灯直观显示工作状态，遥控器方便操作。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/02.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/03.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SR200G-37-160采用高品质音频组件，确保每一个技术参数都达到专业标准。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "低音炮 60W",
+              "回音壁 60W",
+              "总功率 120W"
+            ]
+          },
+          {
+            "title": "扬声器单元",
+            "tags": [
+              "低音炮 16.51cm×1",
+              "回音壁 5.89cm×2",
+              "阻抗 4Ω"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI IN",
+              "光纤",
+              "蓝牙",
+              "USB",
+              "LINE IN",
+              "DC JACK"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "120W",
+            "label": "总功率"
+          },
+          {
+            "stat": "2.1",
+            "label": "声道配置"
+          },
+          {
+            "stat": "16.51cm",
+            "label": "低音炮单元"
+          },
+          {
+            "stat": "金属",
+            "label": "格栅设计"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322",
+      "name": "SR322 蓝牙回音壁",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "2.2声道蓝牙回音壁系统，内置双低音炮设计，100W功率输出，金属深灰色搭配灰色金属网罩，优雅外观与出色音质兼备。",
+      "detailDescription": "2.2声道蓝牙回音壁系统，内置双低音炮，支持HDMI ARC、光纤、蓝牙等多种连接方式，100W功率输出，金属深灰色搭配灰色金属网罩，优雅外观与出色音质兼备。",
+      "features": [
+        "2.2声道",
+        "内置双低音炮",
+        "蓝牙"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "产品详情 - SR322 蓝牙回音壁系统",
+        "description": "SR322 2.2声道蓝牙回音壁系统，内置双低音炮，100W功率输出，金属格栅设计",
+        "keywords": "回音壁,2.2声道,内置低音炮,蓝牙音箱,家庭影院"
+      },
+      "projectMeta": {
+        "type": "一体式音响系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SR322采用创新的2.2声道设计，将双低音炮集成在回音壁机身内，无需外置低音炮即可提供震撼的低频表现。两个8.89cm低音炮单元搭配两个5.2×7.5cm全频单元，呈现均衡有层次的音质。",
+          "金属深灰色箱体搭配灰色金属网罩设计，美观耐用，完美融入各种家居环境。100W功率输出确保无论是电影对白还是音乐细节都能清晰呈现。支持HDMI ARC、光纤、蓝牙、USB和3.5mm AUX等连接方式，LED显示屏直观显示工作状态，配备遥控器方便操作。产品尺寸为960×137×74.5mm，适合各种电视柜或壁挂安装。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SR322"
+        },
+        {
+          "label": "声道配置",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "总功率",
+          "value": "100W"
+        },
+        {
+          "label": "设计特色",
+          "value": "内置双低音炮 / 金属格栅"
+        },
+        {
+          "label": "扬声器单元",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SR322以一体式设计和专业音质为核心，为您提供简洁高效的家庭影院解决方案。",
+        "items": [
+          {
+            "number": "01",
+            "title": "内置双低音炮",
+            "description": "创新的内置双低音炮设计，将两个8.89cm低音炮单元集成在回音壁机身内，无需外置低音炮即可提供强劲的低频表现。简化安装和布线，节省空间，同时确保出色的低音效果。"
+          },
+          {
+            "number": "02",
+            "title": "蓝牙无线连接",
+            "description": "内置蓝牙功能，支持与智能手机、平板、电脑等设备无线连接，随时随地享受无线音乐。稳定的蓝牙传输确保音频信号零延迟、零失真，带来流畅的听觉体验。"
+          },
+          {
+            "number": "03",
+            "title": "高端设计美学",
+            "description": "金属深灰色箱体搭配灰色金属网罩，不仅提升产品质感，还改善声音传播。优雅的设计完美融入现代家居环境，既是音响设备，也是艺术品。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322/right.webp",
+          "alt": "SR322 右侧视图",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/button.webp",
+          "alt": "SR322 按钮",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/interface.webp",
+          "alt": "SR322 接口",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/exploded.webp",
+          "alt": "SR322 拆解视图",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SR322采用高品质音频组件，确保每一个技术参数都达到专业标准，呈现高保真音质。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "总功率 100W",
+              "内置双低音炮"
+            ]
+          },
+          {
+            "title": "扬声器单元",
+            "tags": [
+              "低音炮 8.89cm×2 (8Ω)",
+              "全频 (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI ARC",
+              "光纤",
+              "蓝牙",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "功率输出"
+          },
+          {
+            "stat": "2.2",
+            "label": "声道配置"
+          },
+          {
+            "stat": "双",
+            "label": "内置低音炮"
+          },
+          {
+            "stat": "蓝牙",
+            "label": "无线连接"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322b",
+      "name": "SR322B 一体式回音壁",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "2.2声道回音壁系统，内置双低音炮设计，100W功率输出，金属深灰色搭配灰色金属网罩，优雅外观与出色音质兼备。",
+      "detailDescription": "2.2声道回音壁系统，内置双低音炮，支持HDMI ARC、光纤、蓝牙等多种连接方式，100W功率输出，金属深灰色搭配灰色金属网罩，优雅外观与出色音质兼备。",
+      "features": [
+        "2.2声道",
+        "内置双低音炮",
+        "金属格栅"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322b/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "产品详情 - SR322B 回音壁系统",
+        "description": "SR322B 2.2声道回音壁系统，内置双低音炮，100W功率输出，金属格栅设计，高品质音频体验",
+        "keywords": "回音壁,2.2声道,内置低音炮,家庭影院,金属格栅"
+      },
+      "projectMeta": {
+        "type": "一体式音响系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322b/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SR322B采用创新的2.2声道设计，将低音炮集成在回音壁机身内，无需外置低音炮即可提供震撼的低频表现。两个8.89cm低音炮单元搭配两个5.2×7.5cm全频单元，呈现均衡有层次的音质。",
+          "金属深灰色箱体搭配灰色金属网罩设计，美观耐用，完美融入各种家居环境。100W功率输出确保无论是电影对白还是音乐细节都能清晰呈现。支持HDMI ARC、光纤、蓝牙、USB和3.5mm AUX等连接方式，LED显示屏直观显示工作状态，配备遥控器方便操作。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SR322B"
+        },
+        {
+          "label": "声道配置",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "总功率",
+          "value": "100W"
+        },
+        {
+          "label": "设计特色",
+          "value": "内置双低音炮 / 金属格栅"
+        },
+        {
+          "label": "扬声器单元",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SR322B以一体式设计和专业音质为核心，为您提供简洁高效的家庭影院解决方案。",
+        "items": [
+          {
+            "number": "01",
+            "title": "内置双低音炮",
+            "description": "创新的内置双低音炮设计，将两个8.89cm低音炮单元集成在回音壁机身内，无需外置低音炮即可提供强劲的低频表现。简化安装和布线，节省空间，同时确保出色的低音效果。"
+          },
+          {
+            "number": "02",
+            "title": "高端设计美学",
+            "description": "金属深灰色箱体搭配灰色金属网罩，不仅提升产品质感，还改善声音传播。优雅的设计完美融入现代家居环境，既是音响设备，也是艺术品。"
+          },
+          {
+            "number": "03",
+            "title": "全面的连接性",
+            "description": "配备HDMI ARC、光纤、USB、蓝牙、3.5mm AUX接口，兼容各种音源设备。支持最大32GB的USB存储设备，可直接播放本地音乐。LED显示屏直观显示工作状态，遥控器方便操作。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322b/02.webp",
+          "alt": "SR322B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322b/with-5088-subwoofer.webp",
+          "alt": "SR322B 搭配5088低音炮",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SR322B采用高品质音频组件，确保每一个技术参数都达到专业标准，呈现高保真音质。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "总功率 100W",
+              "内置双低音炮"
+            ]
+          },
+          {
+            "title": "扬声器单元",
+            "tags": [
+              "低音炮 8.89cm×2 (8Ω)",
+              "全频 (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI ARC",
+              "光纤",
+              "蓝牙",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "功率输出"
+          },
+          {
+            "stat": "2.2",
+            "label": "声道配置"
+          },
+          {
+            "stat": "双",
+            "label": "内置低音炮"
+          },
+          {
+            "stat": "金属",
+            "label": "格栅设计"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra283g-32-80",
+      "name": "SRA283G-32-80 杜比全景声回音壁",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "2.1声道杜比全景声回音壁系统，配备无线低音炮，80W功率输出，紧凑设计完美适配小户型和卧室空间。",
+      "detailDescription": "2.1声道杜比全景声回音壁系统，配备无线低音炮，支持HDMI ARC、光纤、蓝牙等多种连接方式，80W功率输出，呈现清晰悦耳的音质。",
+      "features": [
+        "2.1声道",
+        "杜比全景声",
+        "紧凑设计"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra283g-32-80/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "产品详情 - SRA283G-32-80 杜比全景声回音壁系统",
+        "description": "SRA283G-32-80 2.1声道杜比全景声回音壁系统，配备无线低音炮，80W输出，紧凑设计适合各种家居空间",
+        "keywords": "杜比全景声,回音壁,2.1声道,无线低音炮,家庭影院"
+      },
+      "projectMeta": {
+        "type": "紧凑型音响系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra283g-32-80/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SRA283G-32-80采用紧凑设计，是一款专为小户型和卧室打造的2.1声道杜比全景声系统。内置数字功放和DSP数字信号处理技术，即使在有限的空间内也能呈现出色的音质。无线低音炮设计允许更灵活的布局，40W+40W的功率配置满足日常观影和音乐欣赏需求。",
+          "支持HDMI ARC、光纤、蓝牙、USB和3.5mm AUX等连接方式，兼容各种音源设备。LED显示屏直观显示工作状态，配备遥控器方便操作。塑料箱体设计优雅，完美融入现代家居环境。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SRA283G-32-80"
+        },
+        {
+          "label": "声道配置",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "音频技术",
+          "value": "杜比全景声"
+        },
+        {
+          "label": "总功率",
+          "value": "80W"
+        },
+        {
+          "label": "应用场景",
+          "value": "卧室影院 / 小客厅"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SRA283G-32-80以紧凑设计和实用功能为核心，为小空间用户提供专业级的音频体验。",
+        "items": [
+          {
+            "number": "01",
+            "title": "紧凑设计",
+            "description": "超薄回音壁设计，宽度810mm，高度仅41mm，轻松放置在电视柜上或壁挂安装。紧凑的低音炮尺寸允许灵活摆放，不占用过多空间，特别适合卧室和小客厅。"
+          },
+          {
+            "number": "02",
+            "title": "杜比全景声技术",
+            "description": "虽然是2.1声道配置，但通过杜比全景声技术优化，营造超越传统立体声的沉浸式音效。DSP数字信号处理进一步提升音质，呈现清晰的对白和丰富的音效细节。"
+          },
+          {
+            "number": "03",
+            "title": "多种连接方式",
+            "description": "配备HDMI ARC、光纤、USB、蓝牙、3.5mm AUX接口，兼容电视、游戏机、电脑、智能手机等设备。支持最大32GB的USB存储设备，可直接播放本地音乐文件。蓝牙连接简单快捷，随时享受无线音乐。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar.webp",
+          "alt": "SRA283G-32-80 回音壁",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar-explode.webp",
+          "alt": "SRA283G-32-80 回音壁拆解视图",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer.webp",
+          "alt": "SRA283G-32-80 低音炮",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer-explode.webp",
+          "alt": "SRA283G-32-80 低音炮拆解视图",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SRA283G-32-80采用优质音频组件和先进的数字处理技术，即使在紧凑尺寸下也能确保出色的音质。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "低音炮 40W",
+              "回音壁 40W",
+              "总功率 80W"
+            ]
+          },
+          {
+            "title": "产品尺寸",
+            "tags": [
+              "回音壁 810×81×41mm",
+              "低音炮 120×220×397mm"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI ARC",
+              "光纤",
+              "蓝牙",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "总功率"
+          },
+          {
+            "stat": "2.1",
+            "label": "声道配置"
+          },
+          {
+            "stat": "41mm",
+            "label": "超薄设计"
+          },
+          {
+            "stat": "无线",
+            "label": "低音炮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra5078g",
+      "name": "SRA5078G 杜比全景声回音壁",
+      "category": "soundbar",
+      "categoryName": "SOUNDBAR",
+      "year": "2026",
+      "description": "5.1.2声道杜比全景声回音壁系统，配备无线卫星音箱与强劲低音炮，180W总功率输出，缔造真正的家庭影院级音频体验。",
+      "detailDescription": "SRA5078G采用5.1.2声道配置，完美支持杜比全景声技术。包含无线卫星音箱和强劲低音炮，多种连接方式包括HDMI ARC、光纤、蓝牙，总功率高达180W，带来震撼的音频表现。",
+      "features": [
+        "5.1.2声道",
+        "180W功率",
+        "无线卫星音箱"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5078g/00.webp",
+      "imagePosition": "left",
+      "featured": false,
+      "metadata": {
+        "title": "产品详情 - SRA5078G 杜比全景声回音壁系统",
+        "description": "SRA5078G 5.1.2声道杜比全景声回音壁系统，配备无线卫星音箱和低音炮，打造影院级沉浸式音频体验",
+        "keywords": "杜比全景声,回音壁,5.1.2声道,无线音箱,家庭影院"
+      },
+      "projectMeta": {
+        "type": "高端音频系统",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5078g/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "SRA5078G充分利用杜比全景声技术，打造三维环绕声场。配备总功率180W的扬声器，尤其是90W的低音炮，增强低频表现，适合影院、音乐等多种场景。",
+          "系统由主回音壁、无线卫星音箱和强劲低音炮组成。主回音壁结合DSP数字信号处理技术，确保每一个声音细节都能清晰呈现。无线卫星音箱采用稳定的无线传输技术，摆脱线缆束缚，可灵活摆放音箱。强劲低音炮带来深沉有力的低频表现，无论是电影爆炸场景还是音乐低音部分，都能震撼呈现。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "SRA5078G"
+        },
+        {
+          "label": "声道配置",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "音频技术",
+          "value": "杜比全景声"
+        },
+        {
+          "label": "总功率",
+          "value": "180W"
+        },
+        {
+          "label": "连接方式",
+          "value": "蓝牙 / HDMI / 光纤 / USB / AUX"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "SRA5078G集成了业界领先的音频技术和人性化设计，专为追求品质和设计的用户量身打造，完美适配家庭影院或音乐欣赏。",
+        "items": [
+          {
+            "number": "01",
+            "title": "杜比全景声技术",
+            "description": "支持杜比全景声音频格式，5.1.2声道配置实现真正的三维声场。高度声道设计让声音可以从头顶传来，营造更真实的声音环境。无论是飞机从头顶飞过、雨滴落下，还是电影配乐，都能精准定位，带来前所未有的沉浸感。"
+          },
+          {
+            "number": "02",
+            "title": "无线卫星音箱",
+            "description": "创新的无线卫星音箱设计，采用稳定的无线传输技术，确保音频信号零延迟、零失真。摆脱线缆束缚，可根据房间布局灵活摆放，获得最佳听音位置。"
+          },
+          {
+            "number": "03",
+            "title": "多种连接方式",
+            "description": "配备HDMI ARC、光纤、USB、蓝牙、3.5mm AUX接口，兼容各种音源设备。支持最大32GB的USB存储设备，可直接播放本地音乐文件。蓝牙连接简单快捷，智能手机、平板和电脑轻松配对，随时享受无线音乐。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/02.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/03.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "SRA5078G采用高品质音频组件和先进的数字处理技术，确保每一个技术参数都达到专业标准，呈现高保真音质。",
+        "groups": [
+          {
+            "title": "功率配置",
+            "tags": [
+              "低音炮 90W",
+              "回音壁 60W",
+              "卫星音箱 30W",
+              "总功率 180W"
+            ]
+          },
+          {
+            "title": "产品尺寸",
+            "tags": [
+              "回音壁 882×112×65mm",
+              "低音炮 120×300×400mm",
+              "卫星音箱 205×112×62mm"
+            ]
+          },
+          {
+            "title": "连接接口",
+            "tags": [
+              "HDMI ARC",
+              "光纤",
+              "蓝牙",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "180W",
+            "label": "总功率"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "环绕声道"
+          },
+          {
+            "stat": "90W",
+            "label": "强劲低音炮"
+          },
+          {
+            "stat": "无线",
+            "label": "卫星音箱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt508",
+      "name": "BT508 便携式蓝牙音箱",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "BT508专业便携式蓝牙音箱，采用蓝牙5.4技术，80W澎湃输出功率。IPX4防水等级，支持TWS互联、USB/TF卡播放、免提通话等多种功能，大型户外活动的理想选择。",
+      "detailDescription": "BT508专业便携式蓝牙音箱，采用蓝牙5.4技术，提供80W澎湃输出功率。内置11.1V/2200mAh高性能电池，支持USB-C快速充电。IPX4防水等级，支持TWS互联、USB/TF卡播放、免提通话等多种功能，是大型户外活动和专业使用的理想选择。",
+      "features": [
+        "蓝牙5.4",
+        "80W功率",
+        "IPX4防水"
+      ],
+      "mainImage": "/assets/img/products/portable/bt508/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "产品详情 - BT508 便携式蓝牙音箱",
+        "description": "BT508便携式蓝牙音箱，80W强劲输出，蓝牙5.4，IPX4防水，支持TWS互联",
+        "keywords": "便携音箱,蓝牙音箱,户外音箱,防水音箱,TWS"
+      },
+      "projectMeta": {
+        "type": "专业便携音箱",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt508/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "BT508是BT系列中的旗舰级便携式蓝牙音箱，专为追求极致音质和强劲功率的用户设计。采用最新蓝牙5.4技术，确保连接稳定、传输高效。双40W大功率立体声扬声器配置，总功率达到80W，比BT408提升一倍，带来更加震撼的音效表现，适合户外大型聚会、商业活动等场景。",
+          "内置11.1V/2200mAh高性能锂电池，配合高效能功放系统和USB-C快速充电接口，确保长时间稳定运行。IPX4级防水设计，能够抵御雨水和汗水侵蚀，适合各种户外环境使用。支持TWS真无线立体声配对，两台BT508可组成更强大的160W立体声系统。支持USB/TF卡播放、AUX有线输入、免提通话等多种功能，内置EQ音效调节，满足不同音乐风格和使用场景的需求。更大的机身尺寸（482×200×257mm）容纳更大的扬声器单元，带来更加出色的低频表现和声场宽度。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "BT508"
+        },
+        {
+          "label": "输出功率",
+          "value": "40W × 2"
+        },
+        {
+          "label": "蓝牙版本",
+          "value": "5.4"
+        },
+        {
+          "label": "防水等级",
+          "value": "IPX4"
+        },
+        {
+          "label": "电池容量",
+          "value": "11.1V/2200mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "BT508以专业音质和强劲性能为核心，为大型户外活动和专业使用提供完美的音频解决方案。",
+        "items": [
+          {
+            "number": "01",
+            "title": "澎湃动力输出",
+            "description": "双40W大功率扬声器配置，总功率达到80W，相比BT408功率翻倍提升。更大的扬声器单元和更强的驱动功率，带来更加震撼的音效表现、更深沉的低频和更宽广的音场。无论是户外大型派对、商业活动还是专业表演，都能轻松覆盖更大的空间，让每一个角落都充满动听的音乐。"
+          },
+          {
+            "number": "02",
+            "title": "高性能电池系统",
+            "description": "采用11.1V/2200mAh高性能锂电池，虽然容量相比BT408略小，但更高的电压配合高效能功放系统，依然能够提供充足的续航能力。USB-C快速充电接口，支持更大的充电电流，充电速度更快。智能电源管理系统优化能耗，延长播放时间。"
+          },
+          {
+            "number": "03",
+            "title": "专业级功能配置",
+            "description": "蓝牙5.4技术确保稳定连接和高品质音频传输。TWS真无线立体声技术支持双机互联，打造160W超强立体声系统。支持USB/TF卡、AUX等多种音源输入，内置免提通话功能。EQ音效调节提供多种预设音效模式，满足不同音乐类型和使用场景。IPX4防水设计，适应各种户外环境。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/bt508/02.webp",
+          "alt": "BT508",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/bt508/03.webp",
+          "alt": "BT508",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "BT508采用专业级音频组件和高性能电池系统，确保长时间高质量运行和卓越的音质表现。",
+        "groups": [
+          {
+            "title": "音频性能",
+            "tags": [
+              "双40W扬声器",
+              "80W总功率",
+              "EQ音效调节"
+            ]
+          },
+          {
+            "title": "电源系统",
+            "tags": [
+              "11.1V/2200mAh电池",
+              "USB-C快充"
+            ]
+          },
+          {
+            "title": "功能特性",
+            "tags": [
+              "蓝牙5.4",
+              "USB/TF播放",
+              "TWS互联",
+              "免提通话",
+              "IPX4防水",
+              "AUX输入"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "澎湃功率"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "蓝牙技术"
+          },
+          {
+            "stat": "IPX4",
+            "label": "防水等级"
+          },
+          {
+            "stat": "TWS",
+            "label": "无线互联"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt9818b",
+      "name": "PT9818B 双8寸派对音箱",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "双8英寸便携式派对音箱，内置12V/5A充电电池，100W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联等多种功能，户外聚会与演出的理想选择。",
+      "detailDescription": "双8英寸便携式派对音箱，内置12V/5A充电电池，100W强劲功率输出。支持蓝牙、USB、FM收音机、TWS互联等多种功能，配备吉他接口和麦克风接口，是户外聚会和演出的理想选择。",
+      "features": [
+        "双8英寸",
+        "内置电池",
+        "TWS互联"
+      ],
+      "mainImage": "/assets/img/products/portable/pt9818b/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "产品详情 - PT9818B 便携式派对音箱",
+        "description": "PT9818B双8英寸便携式派对音箱，内置充电电池，100W功率输出，支持蓝牙/USB/FM收音机",
+        "keywords": "便携音箱,派对音箱,蓝牙音箱,户外音箱,双8寸"
+      },
+      "projectMeta": {
+        "type": "便携式派对音箱",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt9818b/01.webp"
+      ],
+      "introduction": {
+        "title": "产品介绍",
+        "paragraphs": [
+          "PT9818B是一款专为户外聚会和移动演出设计的便携式派对音箱。双8英寸扬声器配置提供100W强劲功率输出，无论是户外派对还是小型演出，都能带来震撼的音效表现。",
+          "内置12V/5A可充电电池，摆脱电源线束缚，随时随地享受音乐。支持蓝牙无线连接、USB播放、FM收音机等多种音源输入方式。TWS真无线立体声技术可将两台音箱互联，打造更强大的立体声系统。配备吉他接口和麦克风接口（支持有线/无线麦克风），适合各种表演和K歌场景。LED显示屏直观展示工作状态，遥控器操作更加便捷。"
+        ]
+      },
+      "specifications": [
+        {
+          "label": "产品型号",
+          "value": "PT9818B"
+        },
+        {
+          "label": "扬声器尺寸",
+          "value": "双8英寸"
+        },
+        {
+          "label": "功率输出",
+          "value": "100W"
+        },
+        {
+          "label": "电池规格",
+          "value": "12V/5A 可充电"
+        },
+        {
+          "label": "应用场景",
+          "value": "户外派对 / 演出表演"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "核心优势",
+        "description": "PT9818B集成了便携设计与强劲性能，是户外娱乐和移动演出的完美伴侣。",
+        "items": [
+          {
+            "number": "01",
+            "title": "便携式设计",
+            "description": "内置12V/5A大容量可充电电池，摆脱电源线束缚，随时随地享受音乐。紧凑的机身设计方便携带和移动，适合户外聚会、野餐、露营等各种场景。"
+          },
+          {
+            "number": "02",
+            "title": "强劲音效表现",
+            "description": "双8英寸大口径扬声器配置，100W强劲功率输出，带来震撼的音效表现。无论是低频还是中高频，都能清晰呈现，满足各种音乐风格的播放需求。"
+          },
+          {
+            "number": "03",
+            "title": "多功能娱乐",
+            "description": "支持蓝牙、USB、FM收音机、TWS互联等多种功能。配备吉他接口和麦克风接口，支持有线/无线麦克风（选配），适合K歌、演出等多种娱乐场景。LED显示屏和遥控器让操作更加便捷。"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt9818b/02.webp",
+          "alt": "PT9818B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt9818b/03.webp",
+          "alt": "PT9818B",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "技术规格",
+        "description": "PT9818B采用高品质音频组件和稳定的电池系统，确保长时间稳定运行和出色的音质表现。",
+        "groups": [
+          {
+            "title": "音频性能",
+            "tags": [
+              "双8英寸扬声器",
+              "100W功率输出"
+            ]
+          },
+          {
+            "title": "电源系统",
+            "tags": [
+              "12V/5A充电电池",
+              "便携式设计"
+            ]
+          },
+          {
+            "title": "功能接口",
+            "tags": [
+              "蓝牙",
+              "USB (32GB)",
+              "FM收音机",
+              "TWS互联",
+              "吉他/麦克风接口"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "产品亮点",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "强劲功率"
+          },
+          {
+            "stat": "双8英寸",
+            "label": "大口径单元"
+          },
+          {
+            "stat": "充电",
+            "label": "内置电池"
+          },
+          {
+            "stat": "TWS",
+            "label": "无线互联"
+          }
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "value": "*",
+      "label": "全部产品"
+    },
+    {
+      "value": "soundbar",
+      "label": "SOUNDBAR"
+    },
+    {
+      "value": "portable",
+      "label": "PORTABLE"
+    },
+    {
+      "value": "turntable",
+      "label": "TURNTABLE"
+    }
+  ],
+  "navigation": {
+    "prev": "上一个产品",
+    "next": "下一个产品",
+    "all": "全部产品"
+  }
+}

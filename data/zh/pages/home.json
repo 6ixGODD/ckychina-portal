@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "title": "CKY - 新生代智能音响引潮者",
+    "description": "CKY品牌专注于高品质音响和智能影音系统研发、设计和制造，主打敢响敢做的品牌理念",
+    "keywords": "CKY,智能音响,音响品牌,家庭影院,便携音箱,黑胶唱片机"
+  },
+  "hero": {
+    "title": "新生代 智能音响引潮者",
+    "content": "CKY（Cadence Kinetic Youth）深耕音频领域26载，以前沿技术赋能设计美学，缔造「敢响敢做」的品牌精神。产品覆盖家居、办公、车载、户外全场景，行销欧洲、北美、南美、亚洲等30余国家和地区，是新生代的潮音伙伴。",
+    "cta": "探索品牌",
+    "statistics": [
+      {
+        "number": "30+",
+        "label": "国家与地区",
+        "counter": true
+      },
+      {
+        "number": "26年",
+        "label": "专业沉淀",
+        "counter": true
+      },
+      {
+        "number": "高新",
+        "label": "技术企业"
+      }
+    ],
+    "image": {
+      "src": "/assets/img/hero/01.webp",
+      "alt": "CKY品牌"
+    }
+  },
+  "about": {
+    "sectionTitle": {
+      "subtitle": "品牌故事",
+      "title": "韵律活力，无限演绎",
+      "description": "CKY是高品质音响与智能影音的探索者，以独特姿态演绎生动乐章，随心所欲，自由随行，活力新潮"
+    },
+    "logo": {
+      "src": "/assets/img/brand-story/01.webp",
+      "alt": "CKY品牌标识"
+    },
+    "mainContent": {
+      "title": "从中国新生到国际引潮",
+      "lead": "以独特时尚设计与绚丽色彩搭配，演绎无拘无束的声音美学。",
+      "paragraphs": [
+        "自2000年诞生至今，CKY以26年的时光将「自由快乐」镌刻于每段旋律。作为中国认证的高新技术企业，品牌与生俱来的国际化基因，驱动其通过BSCI国际社会责任认证，深耕欧美市场并设立美国子公司。",
+        "融汇硅谷前沿科技与西方潮流美学，为年轻群体打造兼顾颜值与音质的智能音响。绚丽撞色与个性外观的碰撞，让每款产品成为年轻人的情绪表达——无需刻意迎合，随时随地尽显自我，将声音分享升华为充满惊喜的愉悦体验。"
+      ],
+      "stats": [
+        {
+          "number": "26",
+          "label": "年品牌历程",
+          "counter": true
+        },
+        {
+          "number": "30+",
+          "label": "全球布局",
+          "counter": true
+        },
+        {
+          "number": "BSCI",
+          "label": "国际认证"
+        }
+      ]
+    },
+    "image": {
+      "src": "/assets/img/brand-story/02.webp",
+      "alt": "CKY品牌发展"
+    },
+    "additionalContent": {
+      "title": "双向发声，与世界同频",
+      "paragraphs": [
+        "当CKY在国际舞台奏响「中国之声」，华人创始团队作出大胆抉择：将世界潮流引入中国。秉持「双向发声」的独特主张，CKY迅速席卷国内年轻市场——鼓励新生代既勇于表达自我，亦乐于倾听多元声音。这种与年轻人同频共振的态度，成就CKY作为Z世代「潮音伙伴」的地位，以新潮酷炫形象与敢闯敢试精神赢得青睐。",
+        "历经26年深耕，集「韵律、动感、活力」于一身的CKY，已成长为中国极具影响力的自主品牌，凭借精良工艺与纯正音质赢得广泛认可。「敢响敢做」的品牌口号，更成为年轻人突破自我的精神共鸣。展望未来，CKY将秉承「成功源于合作」的理念，携手全球伙伴，让自由快乐的声音传遍世界。"
+      ]
+    }
+  },
+  "services": {
+    "sectionTitle": {
+      "subtitle": "产品系列",
+      "title": "全场景音频解决方案",
+      "description": "覆盖家居、办公、车载、户外全场景的产品矩阵，满足不同情境下的声音需求"
+    },
+    "items": [
+      {
+        "icon": "bi bi-speaker",
+        "title": "SOUNDBAR 回音壁系统",
+        "description": "杜比全景声技术加持，2.1至5.1.2声道灵活配置，搭载无线低音炮与卫星音箱，缔造影院级沉浸式音频体验。",
+        "link": {
+          "text": "了解更多",
+          "href": "#portfolio",
+          "filter": ".filter-soundbar"
+        }
+      },
+      {
+        "icon": "bi bi-boombox",
+        "title": "PORTABLE 便携派对音箱",
+        "description": "双8寸至双12寸大口径扬声器，内置充电电池或AC供电可选，支持TWS互联与吉他麦克风接口，专为户外聚会与演出场景打造。",
+        "link": {
+          "text": "了解更多",
+          "href": "#portfolio",
+          "filter": ".filter-portable"
+        }
+      },
+      {
+        "icon": "bi bi-vinyl",
+        "title": "TURNTABLE 黑胶唱片机",
+        "description": "复古美学邂逅现代科技，蓝牙5.4无线连接，MDF木质箱体，搭载高品质唱针与音箱系统，重温黑胶时代的音乐情怀。",
+        "link": {
+          "text": "了解更多",
+          "href": "#portfolio",
+          "filter": ".filter-turntable"
+        }
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionTitle": {
+      "subtitle": "品牌优势",
+      "title": "为什么选择CKY",
+      "description": "选择CKY，不仅是选择高品质音响，更是选择充满活力、敢于突破的生活方式"
+    },
+    "mainContent": {
+      "title": "CKY的品牌主张",
+      "paragraphs": [
+        "<strong>CKY，新生代的时代心声。</strong>",
+        "如挚友般的存在，与你同频共振。我们聚焦音响本源，以深厚积累为基石，将音响领域作为未来发展的核心聚焦点。"
+      ]
+    },
+    "image": {
+      "src": "/assets/img/our-advantages/01.webp",
+      "alt": "CKY品牌理念"
+    },
+    "features": [
+      {
+        "icon": "bi bi-shield-check",
+        "title": "实力铸就信赖",
+        "description": "紧跟国际前沿核心技术，深耕欧美发达国家市场，以过硬产品品质在国际舞台大放异彩。荣获「知名品牌」殊荣，权威认证产品质量、企业管理与行业地位，为用户选择筑牢信赖基石。"
+      },
+      {
+        "icon": "bi bi-grid-3x3",
+        "title": "适配多元需求",
+        "description": "作为无线智能音响领域的先行者，构建覆盖家居、办公、车载、户外的全场景产品矩阵。从清晨的轻柔唤醒，到工作时的专注聆听，再到休闲时刻的沉浸享受，以丰富产品线满足不同情境的声音需求。"
+      },
+      {
+        "icon": "bi bi-soundwave",
+        "title": "音质体验升级",
+        "description": "秉持对音频技术的极致追求，将前沿科技融入产品研发。独特的「双向发声」技术突破传统单向传播限制，蓝牙技术持续迭代升级，实现网络互联与云音乐存储。坚守「音质为本」的品质信条，每款产品皆经专业调校，精雕细琢，呈现原汁原味的真实音效与层次丰富的听觉盛宴。"
+      },
+      {
+        "icon": "bi bi-lightning-charge",
+        "title": "引领生活态度",
+        "description": "深谙年轻消费者的精神内核，以「敢响敢做」鼓励新生代突破自我、勇往直前。品牌形象新潮酷炫，设计融合前沿灵感，兼具科技感与时尚感，完美契合年轻审美偏好，与追求个性、包容多元的当代价值观高度同频。"
+      }
+    ]
+  },
+  "portfolio": {
+    "sectionTitle": {
+      "subtitle": "产品展示",
+      "title": "精选产品系列",
+      "description": "探索CKY的创新音响产品，每一款皆凝聚对音质的极致追求与对设计的匠心雕琢"
+    },
+    "filters": [
+      {
+        "label": "全部产品",
+        "value": "*"
+      },
+      {
+        "label": "SOUNDBAR 回音壁",
+        "value": "soundbar"
+      },
+      {
+        "label": "PORTABLE 便携音箱",
+        "value": "portable"
+      },
+      {
+        "label": "TURNTABLE 黑胶唱片机",
+        "value": "turntable"
+      }
+    ],
+    "conclusion": {
+      "title": "探索更多CKY产品",
+      "description": "共同探讨如何通过CKY音响产品，为您缔造理想的声音空间。",
+      "primaryAction": {
+        "text": "联系我们",
+        "href": "#contact"
+      },
+      "secondaryAction": {
+        "text": "查看全部产品",
+        "href": "/zh/products"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": {
+      "subtitle": "联系我们",
+      "title": "开启音响之旅",
+      "description": "期待与您交流，共同探讨最佳音响解决方案"
+    },
+    "intro": {
+      "icon": "bi bi-chat-dots",
+      "title": "建立联系",
+      "description": "倾听您的需求，共同实现音响愿景。"
+    },
+    "details": [
+      {
+        "icon": "bi bi-envelope-open",
+        "label": "邮箱联系",
+        "value": "info@ckychina.com"
+      },
+      {
+        "icon": "bi bi-telephone-outbound",
+        "label": "电话咨询",
+        "value": "+86 134 3479 2043"
+      },
+      {
+        "icon": "bi bi-geo-alt-fill",
+        "label": "公司地址",
+        "value": "中国广东省惠州市博罗县园洲镇上南村30米路"
+      }
+    ],
+    "cta": {
+      "title": "联系我们",
+      "description": "如有任何合作或产品需求，欢迎通过邮件与我们取得联系。",
+      "button": {
+        "text": "发送邮件",
+        "email": "info@ckychina.com"
+      }
+    }
+  }
+}

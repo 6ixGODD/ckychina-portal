@@ -1,0 +1,77 @@
+{
+  "about": "深耕音响领域26载，专注于高品质音响与智能影音系统的研发与制造。融合前沿科技与设计美学，为全球用户缔造专业级音响解决方案。",
+  "copyright": {
+    "year": 2026,
+    "holder": "CKY",
+    "text": "保留所有权利"
+  },
+  "logo": {
+    "src": "/assets/logo-white.svg",
+    "alt": "CKY Logo",
+    "width": 80,
+    "height": 100
+  },
+  "linksGroups": [
+    {
+      "title": "快速链接",
+      "links": [
+        {
+          "content": "首页",
+          "href": "/zh#hero"
+        },
+        {
+          "content": "品牌故事",
+          "href": "/zh#about"
+        },
+        {
+          "content": "产品系列",
+          "href": "/zh#services"
+        },
+        {
+          "content": "品牌优势",
+          "href": "/zh#why-us"
+        },
+        {
+          "content": "产品展示",
+          "href": "/zh#portfolio"
+        },
+        {
+          "content": "联系我们",
+          "href": "/zh#contact"
+        }
+      ]
+    },
+    {
+      "title": "法律条款",
+      "links": [
+        {
+          "content": "隐私政策",
+          "href": "/zh/privacy"
+        },
+        {
+          "content": "服务条款",
+          "href": "/zh/terms"
+        }
+      ]
+    },
+    {
+      "title": "联系我们",
+      "links": [
+        {
+          "icon": "bi bi-envelope",
+          "content": "info@ckychina.com",
+          "href": "mailto:info@ckychina.com"
+        },
+        {
+          "icon": "bi bi-telephone",
+          "content": "+86 134 3479 2043",
+          "href": "tel:+8613434792043"
+        },
+        {
+          "icon": "bi bi-geo-alt",
+          "content": "广东省惠州市博罗县园洲镇\n上南村30米路"
+        }
+      ]
+    }
+  ]
+}
