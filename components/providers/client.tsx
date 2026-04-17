@@ -100,8 +100,8 @@ export default function ClientProviders({ languages }: Props) {
 
     return (
         <>
-            <ScrollTop />
             <Preloader />
+            <ScrollTop />
             <ScrollEffect />
             <HashScroll />
             <CookieConsent languages={languages} />

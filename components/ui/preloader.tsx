@@ -3,43 +3,38 @@
 import { useEffect, useState } from 'react';
 
 export default function Preloader() {
-    const [isLoading, setIsLoading] = useState(true);
+    const [isVisible, setIsVisible] = useState(true);
+    const [isAnimatingOut, setIsAnimatingOut] = useState(false);
 
     useEffect(() => {
-        const minDisplayTime = 800;
-        let isPageLoaded = false;
-        let hasMinTimePassed = false;
-
-        const tryHide = () => {
-            if (isPageLoaded && hasMinTimePassed) {
-                setIsLoading(false);
-            }
-        };
-
-        const minTimer = setTimeout(() => {
-            hasMinTimePassed = true;
-            tryHide();
-        }, minDisplayTime);
-
-        const handleLoad = () => {
-            isPageLoaded = true;
-            tryHide();
-        };
-
         if (document.readyState === 'complete') {
-            isPageLoaded = true;
-            tryHide();
-        } else {
-            window.addEventListener('load', handleLoad);
+            setTimeout(() => {
+                setIsAnimatingOut(true);
+                setTimeout(() => {
+                    setIsVisible(false);
+                }, 600);
+            }, 0);
+            return;
         }
 
-        return () => {
-            clearTimeout(minTimer);
-            window.removeEventListener('load', handleLoad);
+        const handleLoad = () => {
+            setIsAnimatingOut(true);
+            setTimeout(() => {
+                setIsVisible(false);
+            }, 600);
         };
+
+        window.addEventListener('load', handleLoad);
+        return () => window.removeEventListener('load', handleLoad);
     }, []);
 
-    if (!isLoading) return null;
+    if (!isVisible) return null;
 
-    return <div id='preloader'></div>;
+    return (
+        <div className={`modern-preloader ${isAnimatingOut ? 'fade-out' : ''}`}>
+            <div className='preloader-content'>
+                <div className='spinner'></div>
+            </div>
+        </div>
+    );
 }

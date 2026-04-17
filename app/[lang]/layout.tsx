@@ -41,7 +41,6 @@ export default async function LangLayout({
     const { lang } = await params;
     const languages = await loadLanguagesJson();
 
-    // Validate language
     const validLang = languages.find((l) => l.code === lang)?.code || DEFAULT_LANGUAGE;
     const bcp47 = getBCP47ByCode(languages, validLang);
 

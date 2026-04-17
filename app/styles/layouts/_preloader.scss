@@ -1,33 +1,71 @@
 /*--------------------------------------------------------------
-# Preloader
+# Minimal Preloader
 --------------------------------------------------------------*/
-#preloader {
+.modern-preloader {
     position: fixed;
     inset: 0;
     z-index: 999999;
-    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: var(--background-color);
-    transition: all 0.6s ease-out;
+    animation: fadeIn 0.3s ease-out;
 
-    &:before {
-        content: '';
-        position: fixed;
-        top: calc(50% - 30px);
-        left: calc(50% - 30px);
-        border-color: var(--accent-color) transparent var(--accent-color) transparent;
+    &.fade-out {
+        animation: fadeOut 0.6s ease-out forwards;
+    }
+
+    .preloader-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 3rem;
+    }
+
+    .brand-logo {
+        font-size: 4rem;
+        font-weight: 700;
+        color: var(--accent-color);
+        letter-spacing: 0.1em;
+
+        @media (max-width: 768px) {
+            font-size: 2.5rem;
+        }
+    }
+
+    .spinner {
+        width: 80px;
+        height: 80px;
+        border: 4px solid color-mix(in srgb, var(--default-color), transparent 90%);
+        border-top-color: var(--accent-color);
         border-radius: 50%;
-        width: 60px;
-        height: 60px;
-        animation: animate-preloader 1.5s linear infinite;
+        animation: spin 1s linear infinite;
+
+        @media (max-width: 768px) {
+            width: 60px;
+            height: 60px;
+        }
     }
 }
 
-@keyframes animate-preloader {
-    0% {
-        transform: rotate(0deg);
+@keyframes fadeIn {
+    from {
+        opacity: 0;
     }
+    to {
+        opacity: 1;
+    }
+}
 
-    100% {
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@keyframes spin {
+    to {
         transform: rotate(360deg);
     }
 }
