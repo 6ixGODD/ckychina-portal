@@ -9,7 +9,12 @@
     "lint": "eslint",
     "prepare": "husky install",
     "preview": "serve out -l 3000",
-    "preview:5000": "serve out -l 5000"
+    "oss:config": "ossutil config -c .ossutilconfig",
+    "oss:ls": "ossutil -c .ossutilconfig ls oss://ckychina-portal",
+    "oss:cp": "ossutil -c .ossutilconfig cp out/ oss://ckychina-portal --recursive -f",
+    "oss:sync": "ossutil -c .ossutilconfig sync out/ oss://ckychina-portal --delete -f",
+    "oss:rm": "ossutil -c .ossutilconfig rm oss://ckychina-portal --recursive -f",
+    "deploy": "pnpm run build && pnpm run oss:sync"
   },
   "dependencies": {
     "aos": "^2.3.4",
