@@ -6,18 +6,37 @@ export default function Preloader() {
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
-        const handleLoad = () => setIsLoading(false);
+        const minDisplayTime = 800;
+        let isPageLoaded = false;
+        let hasMinTimePassed = false;
 
-        // Check if page is already loaded
+        const tryHide = () => {
+            if (isPageLoaded && hasMinTimePassed) {
+                setIsLoading(false);
+            }
+        };
+
+        const minTimer = setTimeout(() => {
+            hasMinTimePassed = true;
+            tryHide();
+        }, minDisplayTime);
+
+        const handleLoad = () => {
+            isPageLoaded = true;
+            tryHide();
+        };
+
         if (document.readyState === 'complete') {
-            // Use setTimeout to avoid synchronous setState in effect (ESLint compliant)
-            setTimeout(handleLoad, 0);
+            isPageLoaded = true;
+            tryHide();
         } else {
-            // Page still loading, add event listener
             window.addEventListener('load', handleLoad);
         }
 
-        return () => window.removeEventListener('load', handleLoad);
+        return () => {
+            clearTimeout(minTimer);
+            window.removeEventListener('load', handleLoad);
+        };
     }, []);
 
     if (!isLoading) return null;

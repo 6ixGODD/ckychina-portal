@@ -3,9 +3,5 @@ type Props = {
 };
 
 export default function LastUpdated({ date }: Props) {
-    return (
-        <div className='last-updated'>
-            <strong>Last Updated:</strong> {date}
-        </div>
-    );
+    return <div className='last-updated'>Last Updated: {date}</div>;
 }
