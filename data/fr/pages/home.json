@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "title": "Les Nouveaux Leaders de la Tendance Audio Intelligente",
+    "description": "La marque CKY se concentre sur la R&D, la conception et la fabrication de systèmes audio de haute qualité et audio-visuels intelligents, avec la philosophie de marque Oser Sonner, Oser Agir",
+    "keywords": "CKY,enceintes intelligentes,marque audio,home cinéma,enceintes portables,platines vinyle"
+  },
+  "hero": {
+    "title": "Nouveaux Leaders de la Tendance Audio Intelligente",
+    "content": "CKY (Cadence Kinetic Youth) cultive profondément le domaine audio depuis 26 ans, donnant du pouvoir à l'esthétique du design avec une technologie de pointe et créant l'esprit de marque \"Oser Sonner, Oser Agir\". Nos produits couvrent les scénarios domestiques, de bureau, automobiles et extérieurs, et sont vendus dans plus de 30 pays en Europe, Amérique du Nord, Amérique du Sud et Asie, servant de partenaire audio tendance pour la nouvelle génération.",
+    "cta": "Explorez Notre Marque",
+    "statistics": [
+      {
+        "number": "30+",
+        "label": "Pays & Régions",
+        "counter": true
+      },
+      {
+        "number": "26",
+        "label": "Années d'Excellence",
+        "counter": true
+      },
+      {
+        "number": "Haute-Tech",
+        "label": "Entreprise"
+      }
+    ],
+    "image": {
+      "src": "/assets/img/hero/01.webp",
+      "alt": "Marque CKY"
+    }
+  },
+  "about": {
+    "sectionTitle": {
+      "subtitle": "Histoire de la Marque",
+      "title": "Rythme, Vitalité, Expression Infinie",
+      "description": "CKY est un explorateur de systèmes audio de haute qualité et audio-visuels intelligents, exprimant des mélodies vivantes de manière unique, libre d'esprit, animé et tendance"
+    },
+    "logo": {
+      "src": "/assets/img/brand-story/01.webp",
+      "alt": "Identité de Marque CKY"
+    },
+    "mainContent": {
+      "title": "Du Nouveau Venu Chinois au Créateur de Tendances International",
+      "lead": "Interprétant l'esthétique sonore sans restriction à travers un design de mode unique et des combinaisons de couleurs vibrantes.",
+      "paragraphs": [
+        "Depuis sa naissance en 2000, CKY a gravé \"liberté et bonheur\" dans chaque mélodie pendant 26 ans. En tant qu'entreprise de haute technologie certifiée en Chine, l'ADN international inhérent de la marque l'a poussée à obtenir la certification de responsabilité sociale internationale BSCI, à cultiver profondément les marchés européens et américains et à établir une filiale aux États-Unis.",
+        "Intégrant la technologie de pointe de la Silicon Valley avec l'esthétique tendance occidentale, nous créons des enceintes intelligentes qui combinent à la fois apparence et qualité sonore pour les jeunes. La collision de couleurs vibrantes et de designs personnalisés fait de chaque produit un exutoire émotionnel pour les jeunes—pas besoin de se conformer délibérément, s'exprimer à tout moment, n'importe où, élevant le partage du son en une expérience délicieuse pleine de surprises."
+      ],
+      "stats": [
+        {
+          "number": "26",
+          "label": "Années d'Héritage",
+          "counter": true
+        },
+        {
+          "number": "30+",
+          "label": "Présence Mondiale",
+          "counter": true
+        },
+        {
+          "number": "BSCI",
+          "label": "Certifié"
+        }
+      ]
+    },
+    "image": {
+      "src": "/assets/img/brand-story/02.webp",
+      "alt": "Développement de la Marque CKY"
+    },
+    "additionalContent": {
+      "title": "Voix Bidirectionnelle, En Synchronisation avec le Monde",
+      "paragraphs": [
+        "Lorsque CKY a joué \"la voix de la Chine\" sur la scène internationale, l'équipe fondatrice chinoise a pris une décision audacieuse : apporter les tendances mondiales en Chine. Adhérant à la proposition unique de \"voix bidirectionnelle\", CKY a rapidement conquis le marché jeune domestique—encourageant la nouvelle génération à la fois à s'exprimer courageusement et à être disposée à écouter des voix diverses. Cette attitude de résonance avec les jeunes a établi la position de CKY en tant que \"partenaire audio tendance\" de la Génération Z, gagnant la faveur avec son image tendance et cool et son esprit audacieux.",
+        "Après 26 ans de culture approfondie, CKY, qui intègre \"rythme, dynamisme et vitalité\", est devenu une marque indépendante influente en Chine, gagnant une reconnaissance généralisée avec un excellent savoir-faire et une qualité sonore pure. Le slogan de la marque \"Oser Sonner, Oser Agir\" est devenu la résonance spirituelle pour les jeunes qui se dépassent. Regardant vers l'avenir, CKY maintiendra la philosophie \"le succès vient de la coopération\", joignant ses forces avec des partenaires mondiaux pour diffuser le son de la liberté et du bonheur dans le monde entier."
+      ]
+    }
+  },
+  "services": {
+    "sectionTitle": {
+      "subtitle": "Séries de Produits",
+      "title": "Solutions Audio pour Tous les Scénarios",
+      "description": "Matrice de produits couvrant les scénarios domestiques, de bureau, automobiles et extérieurs pour répondre aux besoins sonores dans différents contextes"
+    },
+    "items": [
+      {
+        "icon": "bi bi-speaker",
+        "title": "Systèmes BARRE DE SON",
+        "description": "Amélioré par la technologie Dolby Atmos, configuration flexible de 2.1 à 5.1.2 canaux, équipé de subwoofers sans fil et d'enceintes satellites pour créer des expériences audio immersives de niveau cinéma.",
+        "link": {
+          "text": "En Savoir Plus",
+          "href": "#portfolio",
+          "filter": ".filter-soundbar"
+        }
+      },
+      {
+        "icon": "bi bi-boombox",
+        "title": "Enceintes de Fête PORTABLES",
+        "description": "Haut-parleurs grand diamètre de double 8 pouces à double 12 pouces, batterie rechargeable intégrée en option ou alimentation secteur, prend en charge l'interconnexion TWS et les interfaces guitare/microphone, conçu spécifiquement pour les rassemblements en plein air et les scénarios de performance.",
+        "link": {
+          "text": "En Savoir Plus",
+          "href": "#portfolio",
+          "filter": ".filter-portable"
+        }
+      },
+      {
+        "icon": "bi bi-vinyl",
+        "title": "Lecteurs PLATINE VINYLE",
+        "description": "L'esthétique vintage rencontre la technologie moderne, connexion sans fil Bluetooth 5.4, cabinets en bois MDF, équipés de cellules de haute qualité et de systèmes d'enceintes pour revivre le sentiment musical de l'ère du vinyle.",
+        "link": {
+          "text": "En Savoir Plus",
+          "href": "#portfolio",
+          "filter": ".filter-turntable"
+        }
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionTitle": {
+      "subtitle": "Nos Avantages",
+      "title": "Pourquoi Choisir CKY",
+      "description": "Choisir CKY signifie non seulement choisir un audio de haute qualité, mais aussi choisir un style de vie plein de vitalité et osant se dépasser"
+    },
+    "mainContent": {
+      "title": "La Proposition de Marque de CKY",
+      "paragraphs": [
+        "<strong>CKY, la voix de la nouvelle génération.</strong>",
+        "Comme un ami proche, résonnant avec vous. Nous nous concentrons sur l'essence de l'audio, avec une accumulation profonde comme fondation, faisant du domaine audio notre focus principal pour le développement futur."
+      ]
+    },
+    "image": {
+      "src": "/assets/img/our-advantages/01.webp",
+      "alt": "Philosophie de la Marque CKY"
+    },
+    "features": [
+      {
+        "icon": "bi bi-shield-check",
+        "title": "La Force Construit la Confiance",
+        "description": "Suivant la technologie de base de pointe internationale, cultivant profondément les marchés des pays développés en Europe et en Amérique, brillant sur la scène internationale avec une qualité de produit supérieure. Honoré du prix \"Marque Bien Connue\", certifiant avec autorité la qualité du produit, la gestion de l'entreprise et la position dans l'industrie, construisant une base solide de confiance pour les choix des utilisateurs."
+      },
+      {
+        "icon": "bi bi-grid-3x3",
+        "title": "S'Adapter aux Besoins Divers",
+        "description": "En tant que pionnier dans le domaine des enceintes intelligentes sans fil, nous avons construit une matrice de produits couvrant les scénarios domestiques, de bureau, automobiles et extérieurs. Des réveils doux du matin à l'écoute concentrée au travail, en passant par le plaisir immersif pendant les loisirs, nous répondons aux différents besoins sonores contextuels avec une gamme de produits riche."
+      },
+      {
+        "icon": "bi bi-soundwave",
+        "title": "Expérience Audio Améliorée",
+        "description": "Adhérant à la poursuite ultime de la technologie audio, intégrant une technologie de pointe dans le développement de produits. La technologie unique \"son bidirectionnel\" brise les limitations de transmission unidirectionnelle traditionnelle, et la technologie Bluetooth continue d'itérer et de se mettre à niveau, permettant l'interconnexion réseau et le stockage de musique cloud. Maintenant le credo de qualité \"qualité sonore d'abord\", chaque produit subit un réglage professionnel et un travail méticuleux pour présenter des effets sonores authentiques et un festin auditif riche avec plusieurs couches."
+      },
+      {
+        "icon": "bi bi-lightning-charge",
+        "title": "Attitude de Style de Vie Leader",
+        "description": "Comprenant le noyau spirituel des consommateurs jeunes, encourageant la nouvelle génération à se dépasser et à avancer courageusement avec le slogan de marque \"Oser Sonner, Oser Agir\". L'image de marque est tendance et cool, avec des designs intégrant l'inspiration de pointe, combinant technologie et sens de la mode, correspondant parfaitement aux préférences esthétiques des jeunes et résonnant fortement avec les valeurs contemporaines qui poursuivent l'individualité et embrassent la diversité."
+      }
+    ]
+  },
+  "portfolio": {
+    "sectionTitle": {
+      "subtitle": "Produits",
+      "title": "Séries de Produits en Vedette",
+      "description": "Explorez les produits audio innovants de CKY, chacun concentrant la poursuite ultime de la qualité sonore et l'artisanat du design"
+    },
+    "filters": [
+      {
+        "label": "Tous les Produits",
+        "value": "*"
+      },
+      {
+        "label": "BARRE DE SON",
+        "value": "soundbar"
+      },
+      {
+        "label": "PORTABLE",
+        "value": "portable"
+      },
+      {
+        "label": "PLATINE VINYLE",
+        "value": "turntable"
+      }
+    ],
+    "conclusion": {
+      "title": "Explorez Plus de Produits CKY",
+      "description": "Discutons de la façon de créer votre espace sonore idéal grâce aux produits audio CKY.",
+      "primaryAction": {
+        "text": "Contactez-Nous",
+        "href": "#contact"
+      },
+      "secondaryAction": {
+        "text": "Voir Tous les Produits",
+        "href": "/fr/products"
+      }
+    }
+  },
+  "contact": {
+    "sectionTitle": {
+      "subtitle": "Contactez-Nous",
+      "title": "Commencez Votre Voyage Audio",
+      "description": "Nous sommes impatients de communiquer avec vous et d'explorer ensemble les meilleures solutions audio"
+    },
+    "intro": {
+      "icon": "bi bi-chat-dots",
+      "title": "Restons en Contact",
+      "description": "Nous sommes là pour écouter vos besoins et travailler ensemble pour réaliser votre vision audio."
+    },
+    "details": [
+      {
+        "icon": "bi bi-envelope-open",
+        "label": "Email",
+        "value": "info@ckychina.com"
+      },
+      {
+        "icon": "bi bi-telephone-outbound",
+        "label": "Téléphone",
+        "value": "+86 134 3479 2043"
+      },
+      {
+        "icon": "bi bi-geo-alt-fill",
+        "label": "Adresse",
+        "value": "1er Étage, Bâtiment 10, Zone Industrielle de Shangnan, Ville de Yuanzhou, Comté de Boluo, Ville de Huizhou, Guangdong, Chine"
+      }
+    ],
+    "cta": {
+      "title": "Avez-vous un projet en tête ?",
+      "description": "N'hésitez pas à nous contacter à tout moment.",
+      "button": {
+        "text": "Envoyez-nous un Email",
+        "email": "info@ckychina.com"
+      }
+    }
+  }
+}

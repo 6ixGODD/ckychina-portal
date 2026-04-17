@@ -1,0 +1,77 @@
+{
+  "about": "Con 26 años de cultivo profundo en el campo del audio, nos enfocamos en la I+D y fabricación de sistemas audiovisuales inteligentes y audio de alta calidad. Integrando tecnología de vanguardia con estética de diseño, creamos soluciones de audio de nivel profesional para usuarios globales.",
+  "copyright": {
+    "year": 2026,
+    "holder": "CKY",
+    "text": "Todos los derechos reservados."
+  },
+  "logo": {
+    "src": "/assets/logo-white.svg",
+    "alt": "Logo CKY",
+    "width": 80,
+    "height": 100
+  },
+  "linksGroups": [
+    {
+      "title": "Enlaces Rápidos",
+      "links": [
+        {
+          "content": "Inicio",
+          "href": "/es#hero"
+        },
+        {
+          "content": "Historia de la Marca",
+          "href": "/es#about"
+        },
+        {
+          "content": "Series de Productos",
+          "href": "/es#services"
+        },
+        {
+          "content": "Nuestra Ventaja",
+          "href": "/es#why-us"
+        },
+        {
+          "content": "Productos",
+          "href": "/es#portfolio"
+        },
+        {
+          "content": "Contáctenos",
+          "href": "/es#contact"
+        }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        {
+          "content": "Política de Privacidad",
+          "href": "/es/privacy"
+        },
+        {
+          "content": "Términos de Servicio",
+          "href": "/es/terms"
+        }
+      ]
+    },
+    {
+      "title": "Contáctenos",
+      "links": [
+        {
+          "icon": "bi bi-envelope",
+          "content": "info@ckychina.com",
+          "href": "mailto:info@ckychina.com"
+        },
+        {
+          "icon": "bi bi-telephone",
+          "content": "+86 134 3479 2043",
+          "href": "tel:+8613434792043"
+        },
+        {
+          "icon": "bi bi-geo-alt",
+          "content": "Carretera de 30 Metros, Pueblo de Shangnan, Ciudad de Yuanzhou\nCondado de Boluo, Ciudad de Huizhou\nGuangdong, China"
+        }
+      ]
+    }
+  ]
+}

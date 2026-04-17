@@ -1,0 +1,77 @@
+{
+  "about": "Avec 26 ans de culture approfondie dans le domaine audio, nous nous concentrons sur la R&D et la fabrication de systèmes audio de haute qualité et audio-visuels intelligents. Intégrant technologie de pointe et esthétique du design, nous créons des solutions audio de niveau professionnel pour les utilisateurs du monde entier.",
+  "copyright": {
+    "year": 2026,
+    "holder": "CKY",
+    "text": "Tous droits réservés."
+  },
+  "logo": {
+    "src": "/assets/logo-white.svg",
+    "alt": "Logo CKY",
+    "width": 80,
+    "height": 100
+  },
+  "linksGroups": [
+    {
+      "title": "Liens Rapides",
+      "links": [
+        {
+          "content": "Accueil",
+          "href": "/fr#hero"
+        },
+        {
+          "content": "Histoire de la Marque",
+          "href": "/fr#about"
+        },
+        {
+          "content": "Séries de Produits",
+          "href": "/fr#services"
+        },
+        {
+          "content": "Nos Avantages",
+          "href": "/fr#why-us"
+        },
+        {
+          "content": "Produits",
+          "href": "/fr#portfolio"
+        },
+        {
+          "content": "Contactez-Nous",
+          "href": "/fr#contact"
+        }
+      ]
+    },
+    {
+      "title": "Légal",
+      "links": [
+        {
+          "content": "Politique de Confidentialité",
+          "href": "/fr/privacy"
+        },
+        {
+          "content": "Conditions d'Utilisation",
+          "href": "/fr/terms"
+        }
+      ]
+    },
+    {
+      "title": "Contactez-Nous",
+      "links": [
+        {
+          "icon": "bi bi-envelope",
+          "content": "info@ckychina.com",
+          "href": "mailto:info@ckychina.com"
+        },
+        {
+          "icon": "bi bi-telephone",
+          "content": "+86 134 3479 2043",
+          "href": "tel:+8613434792043"
+        },
+        {
+          "icon": "bi bi-geo-alt",
+          "content": "Route de 30 Mètres, Village de Shangnan, Ville de Yuanzhou\nComté de Boluo, Ville de Huizhou\nGuangdong, Chine"
+        }
+      ]
+    }
+  ]
+}

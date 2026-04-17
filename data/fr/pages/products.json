@@ -1,0 +1,1895 @@
+{
+  "metadata": {
+    "title": "Tous les Produits - CKY Audio",
+    "description": "Découvrez tous les produits audio CKY, y compris les systèmes de barres de son, les enceintes portables de fête et les platines vinyle",
+    "keywords": "produits CKY,barre de son,enceintes portables,platines vinyle,équipement audio"
+  },
+  "pageTitle": {
+    "breadcrumbs": [
+      {"label": "Accueil", "href": "/fr"},
+      {"label": "Tous les Produits"}
+    ],
+    "title": "Tous les Produits",
+    "details": {
+      "breadcrumbs": [
+        {"label": "Accueil", "href": "/fr"},
+        {"label": "Tous les Produits", "href": "/fr/products"}
+      ],
+      "title": "Détails du Produit"
+    },
+    "description": "Explorez la gamme complète de produits audio innovants de CKY"
+  },
+  "products": [
+    {
+      "id": "sra5088g",
+      "name": "Barre de Son Dolby Atmos SRA5088G",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son Dolby Atmos 5.1.2 canaux, équipé d'enceintes satellites sans fil et d'un subwoofer puissant, puissance de sortie de 195W, créant une véritable expérience audio de niveau home cinéma.",
+      "detailDescription": "Système de barre de son Dolby Atmos 5.1.2 canaux avec enceintes satellites sans fil et subwoofer puissant, prend en charge HDMI ARC, optique, Bluetooth et autres méthodes de connexion, sortie puissante de 195W, créant une véritable expérience audio de qualité home cinéma.",
+      "features": [
+        "5.1.2 Canaux",
+        "Puissance 195W",
+        "Satellites Sans Fil"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5088g/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Système de Barre de Son Dolby Atmos SRA5088G - CKY Audio",
+        "description": "SRA5088G Système de Barre de Son Dolby Atmos 5.1.2 Canaux avec enceintes satellites sans fil et subwoofer pour un audio immersif de qualité cinéma",
+        "keywords": "Dolby Atmos,barre de son,5.1.2 canaux,enceintes sans fil,home cinéma"
+      },
+      "projectMeta": {
+        "type": "Système Audio Premium",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5088g/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SRA5088G est un système audio home cinéma premium conçu pour les utilisateurs en quête d'une qualité sonore ultime. Doté d'une configuration avancée 5.1.2 canaux avec une prise en charge parfaite de la technologie Dolby Atmos, il offre un véritable son stéréo tridimensionnel, vous enveloppant de son dans toutes les directions, créant une expérience d'écoute immersive.",
+          "Ce système se compose d'une barre de son principale, d'enceintes satellites sans fil et d'un subwoofer haute puissance. La barre de son principale intègre trois unités d'enceintes haute performance et un système d'amplification numérique, combiné à la technologie de traitement du signal numérique DSP, garantissant que chaque détail sonore est clairement présenté."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SRA5088G"
+        },
+        {
+          "label": "Canaux",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "Technologie Audio",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "195W"
+        },
+        {
+          "label": "Application",
+          "value": "Home Cinéma / Musique"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SRA5088G intègre une technologie audio de pointe et une conception conviviale, avec chaque aspect méticuleusement raffiné du matériel à l'optimisation logicielle.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Technologie Dolby Atmos",
+            "description": "Prend en charge le format audio Dolby Atmos avec une configuration 5.1.2 canaux pour un véritable champ sonore tridimensionnel. La conception du canal de hauteur permet au son de provenir du haut, créant un environnement sonore plus réaliste."
+          },
+          {
+            "number": "02",
+            "title": "Enceintes Satellites Sans Fil",
+            "description": "Conception innovante d'enceintes satellites sans fil avec batteries lithium 7.4V/2600mAh haute capacité intégrées, offrant des heures d'utilisation continue sur une seule charge. La technologie de transmission sans fil stable garantit des signaux audio sans latence et sans distorsion."
+          },
+          {
+            "number": "03",
+            "title": "Multiples Options de Connectivité",
+            "description": "Dispose de HDMI ARC, optique, USB, Bluetooth 5.0, interfaces AUX 3.5mm, compatible avec diverses sources audio. Prend en charge les périphériques de stockage USB jusqu'à 32 Go pour la lecture directe de musique locale."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/02.webp",
+          "alt": "SRA5088G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/satellite.webp",
+          "alt": "SRA5088G Satellite",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/subwroofer.webp",
+          "alt": "SRA5088G Subwoofer",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5088g/soundbar.webp",
+          "alt": "SRA5088G Barre de Son",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SRA5088G utilise des composants audio de haute qualité et une technologie de traitement numérique avancée, garantissant que chaque paramètre technique répond aux normes professionnelles pour un son haute fidélité.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Subwoofer 60W",
+              "Barre de Son 105W",
+              "Satellites 30W",
+              "Total 195W"
+            ]
+          },
+          {
+            "title": "Enceintes",
+            "tags": [
+              "Subwoofer 8\"×1",
+              "Barre de Son (4×13cm)×3",
+              "Satellite (4.4×8cm)×2"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI ARC",
+              "Optique",
+              "Bluetooth 5.0",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "195W",
+            "label": "Sortie Puissante"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "Canaux Surround"
+          },
+          {
+            "stat": "8 Pouces",
+            "label": "Unité Subwoofer"
+          },
+          {
+            "stat": "Sans Fil",
+            "label": "Enceintes Satellites"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt408",
+      "name": "Enceinte Bluetooth Portable BT408",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Enceinte Bluetooth portable BT408 dotée de la technologie Bluetooth 5.4 avec une sortie puissante de 40W. Indice d'étanchéité IPX4, prend en charge le couplage TWS, la lecture USB/carte TF, les appels mains libres et plus encore.",
+      "detailDescription": "Enceinte Bluetooth portable BT408 dotée de la technologie Bluetooth 5.4 avec une sortie puissante de 40W. Batterie haute capacité 7.4V/3000mAh intégrée prend en charge la charge rapide USB-C. Indice d'étanchéité IPX4, prend en charge le couplage TWS, choix idéal pour les activités extérieures et l'écoute quotidienne.",
+      "features": [
+        "Bluetooth 5.4",
+        "Étanche IPX4",
+        "Liaison TWS"
+      ],
+      "mainImage": "/assets/img/products/portable/bt408/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Enceinte Bluetooth Portable BT408 - CKY Audio",
+        "description": "Enceinte Bluetooth portable BT408, sortie puissante 40W, Bluetooth 5.4, étanche IPX4, prend en charge le couplage TWS",
+        "keywords": "enceinte portable,enceinte Bluetooth,enceinte extérieure,enceinte étanche,TWS"
+      },
+      "projectMeta": {
+        "type": "Enceinte Bluetooth Portable",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt408/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le BT408 est une enceinte Bluetooth conçue pour les utilisateurs recherchant portabilité et qualité sonore. Dotée de la dernière technologie Bluetooth 5.4 pour une connexion plus stable, une distance de transmission plus longue et une consommation d'énergie plus faible. Configuration double enceinte stéréo de 20W avec une puissance totale atteignant 40W offrant des performances sonores complètes et agréables.",
+          "Batterie rechargeable haute capacité 7.4V/3000mAh intégrée combinée à un port de charge rapide USB-C pour une charge plus pratique et une autonomie plus longue. Conception étanche IPX4 résiste à la pluie et à la sueur, adaptée à une utilisation en extérieur."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "BT408"
+        },
+        {
+          "label": "Puissance de Sortie",
+          "value": "20W × 2"
+        },
+        {
+          "label": "Version Bluetooth",
+          "value": "5.4"
+        },
+        {
+          "label": "Indice d'Étanchéité",
+          "value": "IPX4"
+        },
+        {
+          "label": "Capacité de la Batterie",
+          "value": "7.4V/3000mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le BT408 combine parfaitement technologie avancée et conception portable, vous apportant une expérience musicale de haute qualité à tout moment, n'importe où.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Technologie Bluetooth 5.4",
+            "description": "Dotée de la dernière technologie Bluetooth 5.4, par rapport aux versions précédentes, vitesse de connexion plus rapide, stabilité plus forte et distance de transmission plus longue. Conception basse consommation prolonge l'autonomie de la batterie tout en garantissant une transmission audio de haute qualité."
+          },
+          {
+            "number": "02",
+            "title": "Conception Étanche IPX4",
+            "description": "Certifiée avec indice d'étanchéité IPX4, protège efficacement contre les éclaboussures d'eau de toutes directions. Que ce soit pour des pique-niques en plein air, des fêtes à la plage ou une utilisation dans la salle de bain, pas besoin de s'inquiéter des gouttelettes d'eau et de l'érosion par la sueur."
+          },
+          {
+            "number": "03",
+            "title": "Divertissement Multi-Fonctions",
+            "description": "Prend en charge Bluetooth, USB/carte TF, AUX et autres méthodes d'entrée audio. La technologie TWS True Wireless Stereo peut coupler deux unités BT408 pour un effet stéréo plus impressionnant. Fonction d'appel mains libres intégrée."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le BT408 utilise des composants audio de haute qualité et un système de batterie haute efficacité, garantissant d'excellentes performances sonores et une longue autonomie.",
+        "groups": [
+          {
+            "title": "Performance Audio",
+            "tags": [
+              "Enceintes Doubles 20W",
+              "Puissance Totale 40W",
+              "Ajustement Son EQ"
+            ]
+          },
+          {
+            "title": "Système d'Alimentation",
+            "tags": [
+              "Batterie 7.4V/3000mAh",
+              "Charge USB-C"
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "tags": [
+              "Bluetooth 5.4",
+              "Lecture USB/TF",
+              "Couplage TWS",
+              "Appel Mains Libres",
+              "Étanche IPX4",
+              "Entrée AUX"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "40W",
+            "label": "Sortie Puissante"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "Technologie Bluetooth"
+          },
+          {
+            "stat": "IPX4",
+            "label": "Indice d'Étanchéité"
+          },
+          {
+            "stat": "TWS",
+            "label": "Couplage Sans Fil"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt101",
+      "name": "Platine Vinyle TT101",
+      "category": "turntable",
+      "categoryName": "PLATINE VINYLE",
+      "year": "2026",
+      "description": "Platine vinyle classique équipée d'un système d'enceintes externes, puissance de sortie de 50W. Prend en charge la connexion sans fil Bluetooth 5.4, sortie RCA, commutation Phono/Line et plus encore, fusion parfaite d'apparence vintage et de technologie moderne.",
+      "detailDescription": "Platine vinyle classique équipée d'un système d'enceintes externes, puissance de sortie de 50W. Prend en charge la connexion sans fil Bluetooth 5.4, sortie RCA, commutation Phono/Line, entrée AUX 3.5mm et plus encore, fusion parfaite du vintage et du moderne.",
+      "features": [
+        "Bluetooth 5.4",
+        "Cabinet MDF",
+        "Design Vintage"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt101/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Platine Vinyle TT101 - CKY Audio",
+        "description": "Platine vinyle classique TT101 avec enceintes externes, Bluetooth 5.4, design vintage rencontre technologie moderne",
+        "keywords": "platine vinyle,lecteur vinyle,platine Bluetooth,audio vintage,tourne-disque"
+      },
+      "projectMeta": {
+        "type": "Système Platine Vintage",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt101/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le TT101 est une platine vinyle qui combine parfaitement esthétique vintage et technologie moderne. Doté d'un mécanisme classique à entraînement par courroie et d'une cellule de haute qualité pour une lecture précise des disques vinyle. Équipé d'un système d'enceintes passives externes avec une puissance de sortie totale de 50W, offrant une qualité sonore chaleureuse et agréable.",
+          "Construit avec un design de cabinet en bois MDF premium, non seulement fournit une plateforme stable mais ajoute également un charme vintage. Prend en charge la connexion sans fil Bluetooth 5.4 pour un couplage facile avec les appareils modernes. La sortie RCA et la commutation Phono/Line s'adaptent à divers scénarios d'utilisation."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "TT101"
+        },
+        {
+          "label": "Type d'Entraînement",
+          "value": "Entraînement par Courroie"
+        },
+        {
+          "label": "Puissance Enceintes",
+          "value": "50W"
+        },
+        {
+          "label": "Bluetooth",
+          "value": "5.4"
+        },
+        {
+          "label": "Cabinet",
+          "value": "Bois MDF"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le TT101 réunit l'artisanat classique de la platine vinyle avec des fonctionnalités de commodité modernes, offrant une expérience vinyle authentique pour les audiophiles.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Expérience Vinyle Authentique",
+            "description": "Mécanisme à entraînement par courroie avec plateau à équilibrage de précision garantit une vitesse de lecture stable. Cellule diamant de haute qualité suit avec précision les sillons du disque, reproduisant un son analogique chaleureux que le numérique ne peut égaler."
+          },
+          {
+            "number": "02",
+            "title": "Qualité de Construction Premium",
+            "description": "Cabinet en bois MDF fournit une fondation solide réduisant les vibrations et la résonance. Enceintes passives externes avec amplification dédiée offrent un son clair et chaleureux de 50W avec une excellente réponse en fréquence."
+          },
+          {
+            "number": "03",
+            "title": "Connectivité Moderne",
+            "description": "Bluetooth 5.4 permet le streaming sans fil depuis smartphones et tablettes. Sortie RCA se connecte à des amplificateurs externes. Commutateur Phono/Line s'adapte à différentes exigences d'entrée. Entrée AUX 3.5mm ajoute de la polyvalence."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le TT101 combine des composants traditionnels de platine vinyle avec des fonctionnalités modernes, garantissant à la fois une lecture vinyle authentique et une commodité contemporaine.",
+        "groups": [
+          {
+            "title": "Platine",
+            "tags": [
+              "Entraînement par Courroie",
+              "33/45 RPM",
+              "Cellule Diamant",
+              "Fonctionnement Manuel"
+            ]
+          },
+          {
+            "title": "Sortie Audio",
+            "tags": [
+              "Enceintes 50W",
+              "Sortie RCA",
+              "Commutateur Phono/Line",
+              "AUX 3.5mm"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "Bluetooth 5.4",
+              "Câble RCA",
+              "Adaptateur Secteur"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "50W",
+            "label": "Sortie Enceintes"
+          },
+          {
+            "stat": "BT 5.4",
+            "label": "Sans Fil"
+          },
+          {
+            "stat": "MDF",
+            "label": "Cabinet Bois"
+          },
+          {
+            "stat": "Vintage",
+            "label": "Design"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91219",
+      "name": "Enceinte de Fête Double 12\" PT91219",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Enceinte de fête de qualité professionnelle avec double haut-parleurs 12 pouces, sortie puissante de 150W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore, équipement préféré pour les grands événements et les performances professionnelles.",
+      "detailDescription": "Enceinte de fête de qualité professionnelle avec double haut-parleurs 12 pouces, sortie puissante de 150W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS, interfaces guitare/microphone, idéale pour les grands événements et les performances professionnelles.",
+      "features": [
+        "Double 12\"",
+        "Puissance 150W",
+        "Liaison TWS"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91219/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "Enceinte de Fête Double 12\" PT91219 - CKY Audio",
+        "description": "Enceinte de fête professionnelle avec double haut-parleurs 12 pouces, sortie 150W, couplage TWS, parfaite pour les grands événements",
+        "keywords": "enceinte de fête,enceinte professionnelle,sono portable,enceinte 12 pouces,audio événementiel"
+      },
+      "projectMeta": {
+        "type": "Enceinte de Fête Professionnelle",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91219/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le PT91219 est une enceinte de fête portable de qualité professionnelle conçue pour les grands rassemblements, les événements en plein air et les performances professionnelles. Doté de double woofers 12 pouces haute puissance combinés à des tweeters à compression, la puissance de sortie totale atteint 150W, offrant des basses puissantes et des aigus clairs.",
+          "Prend en charge plusieurs méthodes d'entrée audio y compris la connexion sans fil Bluetooth, la lecture USB/carte TF, la radio FM et l'entrée AUX 3.5mm. Équipé d'entrées guitare et microphone avec contrôle de volume indépendant, adapté aux performances en direct et au karaoké. L'interconnexion TWS permet à deux unités de créer un système stéréo plus puissant."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "PT91219"
+        },
+        {
+          "label": "Haut-parleurs",
+          "value": "Double Woofers 12\""
+        },
+        {
+          "label": "Puissance de Sortie",
+          "value": "150W"
+        },
+        {
+          "label": "Alimentation",
+          "value": "AC 110-240V"
+        },
+        {
+          "label": "Caractéristiques",
+          "value": "TWS / Micro / Guitare"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le PT91219 combine puissance de qualité professionnelle et fonctionnalités polyvalentes, ce qui en fait le choix idéal pour les événements nécessitant un son de haute qualité et à volume élevé.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Performance Audio Puissante",
+            "description": "Les doubles woofers 12 pouces offrent des basses profondes et puissantes pouvant remplir de grands espaces. Les tweeters à compression garantissent une reproduction claire des hautes fréquences. La puissance de sortie totale de 150W fournit un volume suffisant pour les événements en plein air et les grandes salles."
+          },
+          {
+            "number": "02",
+            "title": "Connectivité Professionnelle",
+            "description": "Équipé d'entrées guitare et microphone avec contrôle de volume et d'écho indépendants. Parfait pour les performances en direct, les discours et le karaoké. Prend en charge l'utilisation simultanée de plusieurs sources d'entrée pour une flexibilité maximale."
+          },
+          {
+            "number": "03",
+            "title": "Divertissement Polyvalent",
+            "description": "Multiples options de lecture incluant Bluetooth, USB/carte TF, radio FM et entrée AUX. La technologie TWS permet de coupler deux enceintes pour un véritable son stéréo. Les effets d'éclairage LED ajoutent de l'ambiance aux fêtes et événements."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le PT91219 est construit avec des composants de qualité professionnelle conçus pour des performances fiables dans des environnements événementiels exigeants.",
+        "groups": [
+          {
+            "title": "Enceintes",
+            "tags": [
+              "Doubles Woofers 12\"",
+              "Tweeter à Compression",
+              "Sortie 150W"
+            ]
+          },
+          {
+            "title": "Entrées",
+            "tags": [
+              "Bluetooth",
+              "USB/Carte TF",
+              "Radio FM",
+              "Entrée Guitare",
+              "Entrée Micro",
+              "AUX 3.5mm"
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "tags": [
+              "Couplage TWS",
+              "Lumières LED",
+              "Contrôle Écho",
+              "Ajustement EQ",
+              "Télécommande"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "Puissance de Sortie"
+          },
+          {
+            "stat": "12\"",
+            "label": "Doubles Woofers"
+          },
+          {
+            "stat": "TWS",
+            "label": "Liaison Stéréo"
+          },
+          {
+            "stat": "Multi",
+            "label": "Options Entrées"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tt102",
+      "name": "Platine Vinyle Tout-en-Un TT102",
+      "category": "turntable",
+      "categoryName": "PLATINE VINYLE",
+      "year": "2026",
+      "description": "Platine vinyle tout-en-un, puissance de sortie de 25W, unités tweeter et woofer intégrées. Prend en charge la connexion sans fil Bluetooth 5.4, sortie RCA, commutation Phono/Line, entrée AUX 3.5mm et plus encore, design compact économisant l'espace.",
+      "detailDescription": "Platine vinyle intégrée avec puissance de sortie de 25W et unités tweeter et woofer intégrées. Prend en charge la connexion sans fil Bluetooth 5.4, sortie RCA, commutation Phono/Line, entrée AUX 3.5mm et autres fonctions polyvalentes. Design de cabinet en bois MDF avec structure intégrée compacte, fusion parfaite d'esthétique vintage et de technologie moderne.",
+      "features": [
+        "Tout-en-Un",
+        "Système Crossover",
+        "Bluetooth 5.4"
+      ],
+      "mainImage": "/assets/img/products/turntable/tt102/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Détails du Produit - Platine Vinyle TT102",
+        "description": "Platine vinyle intégrée TT102, puissance de sortie 25W, prise en charge Bluetooth 5.4, design compact, mélange parfait de vintage et moderne",
+        "keywords": "platine vinyle,platine Bluetooth,audio vintage,tourne-disque,PLATINE VINYLE"
+      },
+      "projectMeta": {
+        "type": "Platine Intégrée",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/turntable/tt102/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le TT102 est une platine vinyle intégrée qui mélange parfaitement esthétique vintage et technologie moderne. Doté d'un design classique de platine avec système de cellule et bras de lecture de haute qualité, garantissant une reproduction parfaite de la qualité sonore des disques vinyle. Le cabinet en bois MDF améliore non seulement la texture du produit mais réduit également efficacement la résonance, offrant une qualité sonore plus pure.",
+          "Le design intégré incorpore les enceintes dans le cabinet de la platine, équipé d'unités tweeter 3.81cm×2 et d'unités woofer 5.71cm×2. Le design crossover garantit une présentation claire des hautes et basses fréquences, avec une puissance de sortie de 25W offrant des performances sonores pleines. Prend en charge la connexion sans fil Bluetooth 5.4 pour lire de la musique depuis smartphones, tablettes et autres appareils via la platine. Dispose d'une interface de sortie L&R(RCA), fonction de commutation Phono/Line, entrée AUX 3.5mm et autres interfaces polyvalentes pour se connecter à des systèmes audio externes ou entrer d'autres sources audio. Les indicateurs LED affichent intuitivement l'état de fonctionnement, et l'alimentation adaptateur DC 12V/2A garantit un fonctionnement stable. Le design intégré compact ��conomise l'espace et convient à divers environnements domestiques."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "TT102"
+        },
+        {
+          "label": "Version Bluetooth",
+          "value": "5.4"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "25W"
+        },
+        {
+          "label": "Unités Enceintes",
+          "value": "Tweeter 3.81cm×2 / Woofer 5.71cm×2"
+        },
+        {
+          "label": "Matériau Cabinet",
+          "value": "Cabinet Bois MDF"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le TT102 combine parfaitement sentiment vintage et technologie moderne. Le design intégré économise l'espace tout en profitant de la qualité sonore chaleureuse des disques vinyle et des fonctionnalités pratiques de l'audio moderne.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Design Compact Intégré",
+            "description": "Le système d'enceintes est intégré dans le cabinet de la platine. Le design intégré économise l'espace et convient à divers environnements domestiques. Le cabinet en bois MDF associé à un design de platine exquis interprète parfaitement l'esthétique vintage. Pas seulement un appareil audio, mais aussi une œuvre d'art exquise."
+          },
+          {
+            "number": "02",
+            "title": "Système d'Enceintes Crossover",
+            "description": "Unités tweeter 3.81cm×2 et unités woofer 5.71cm×2 intégrées avec design crossover garantissant une présentation claire des hautes et basses fréquences. Puissance de sortie de 25W offrant des performances sonores pleines, profitant à la fois de la qualité sonore chaleureuse des disques vinyle et des détails clairs de la musique moderne."
+          },
+          {
+            "number": "03",
+            "title": "Connectivité Multi-Fonctions",
+            "description": "Prend en charge la connexion sans fil Bluetooth 5.4 pour lire de la musique depuis smartphones, tablettes et autres appareils. Dispose de commutation Phono/Line, sortie RCA, entrée AUX 3.5mm et autres interfaces polyvalentes pour se connecter à des systèmes audio externes pour obtenir une qualité sonore plus professionnelle, ou entrer d'autres sources audio pour la lecture. Les indicateurs LED affichent intuitivement l'état de fonctionnement."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le TT102 utilise des composants audio de haute qualité et un système de platine stable. Le design intégré économise l'espace tout en garantissant une reproduction parfaite de la qualité sonore des disques vinyle.",
+        "groups": [
+          {
+            "title": "Performance Audio",
+            "tags": [
+              "Puissance Totale 25W",
+              "Tweeter 3.81cm × 2",
+              "Woofer 5.71cm × 2"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "Bluetooth 5.4",
+              "L&R (RCA)",
+              "Sortie Phono/Line",
+              "Entrée AUX 3.5mm"
+            ]
+          },
+          {
+            "title": "Dimensions Produit",
+            "tags": [
+              "Intégré 436×346×180.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "25W",
+            "label": "Puissance de Sortie"
+          },
+          {
+            "stat": "5.4",
+            "label": "Version Bluetooth"
+          },
+          {
+            "stat": "Intégré",
+            "label": "Design Compact"
+          },
+          {
+            "stat": "Crossover",
+            "label": "Système Enceintes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt91019",
+      "name": "Enceinte de Fête Double 10\" PT91019",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Enceinte de fête professionnelle avec double haut-parleurs 10 pouces, sortie puissante de 150W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS, entrée guitare/micro, idéale pour les grands rassemblements et les performances professionnelles.",
+      "detailDescription": "Enceinte de fête professionnelle avec double haut-parleurs 10 pouces, sortie puissante de 150W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore. Dispose d'un port de charge USB 2.0A, entrée guitare et entrée microphone. Prend en charge l'alimentation AC110V/220V, adaptée à divers grands rassemblements et scénarios de performance.",
+      "features": [
+        "Double 10\"",
+        "Puissance 150W",
+        "Charge USB"
+      ],
+      "mainImage": "/assets/img/products/portable/pt91019/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Détails du Produit - Enceinte de Fête Portable PT91019",
+        "description": "Enceinte de Fête Portable Double 10 pouces PT91019, puissance de sortie 150W, prend en charge Bluetooth/USB/radio FM, dispose d'un port de charge USB",
+        "keywords": "enceinte portable,enceinte de fête,enceinte bluetooth,enceinte extérieure,double 10 pouces"
+      },
+      "projectMeta": {
+        "type": "Enceinte de Fête Professionnelle",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt91019/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le PT91019 est une enceinte de fête professionnelle conçue pour les grands rassemblements et les performances professionnelles. Configuration double haut-parleurs 10 pouces grand diamètre avec sortie puissante de 150W offrant des performances audio plus impressionnantes et un niveau de pression sonore plus élevé que la version 8 pouces, adaptée aux grandes fêtes en plein air, événements commerciaux, petits concerts et autres scénarios.",
+          "Prend en charge l'alimentation AC110V/220V (50/60Hz), garantissant un fonctionnement stable à long terme. Prend en charge la connexion sans fil Bluetooth, lecture USB (jusqu'à 32 Go), radio FM et autres méthodes d'entrée audio. La technologie TWS True Wireless Stereo peut interconnecter deux enceintes pour créer un système stéréo plus puissant. Équipé d'un port de charge USB 2.0A pour charger les appareils mobiles. Entrée guitare et entrée microphone (prend en charge les microphones filaires/sans fil) font de cette enceinte un centre de divertissement multifonctionnel. Affichage LED et télécommande rendent l'utilisation plus pratique."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "PT91019"
+        },
+        {
+          "label": "Taille Enceintes",
+          "value": "Double 10\""
+        },
+        {
+          "label": "Puissance de Sortie",
+          "value": "150W"
+        },
+        {
+          "label": "Alimentation",
+          "value": "AC110V/220V"
+        },
+        {
+          "label": "Application",
+          "value": "Grands Rassemblements / Performance Professionnelle"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le PT91019 se concentre sur la qualité audio professionnelle et les performances puissantes, ce qui en fait le choix parfait pour les grands événements et les performances professionnelles.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Audio de Qualité Professionnelle",
+            "description": "Configuration double haut-parleurs 10 pouces grand diamètre avec sortie puissante de 150W offrant un niveau de pression sonore plus élevé et des performances audio plus impressionnantes que la version 8 pouces. Que ce soit pour de grandes fêtes en plein air ou des événements commerciaux, peut facilement couvrir toute la salle, offrant une qualité audio de niveau professionnel."
+          },
+          {
+            "number": "02",
+            "title": "Système d'Alimentation Stable",
+            "description": "Prend en charge l'alimentation AC110V/220V (50/60Hz), garantissant un fonctionnement stable à long terme. Équipé d'un port de charge USB 2.0A pour charger les appareils mobiles, maintenant une puissance suffisante des appareils même lors d'une utilisation en extérieur."
+          },
+          {
+            "number": "03",
+            "title": "Centre de Divertissement Tout-en-Un",
+            "description": "Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore. Dispose d'entrée guitare et d'entrée microphone, prend en charge les microphones filaires/sans fil (en option), adapté au karaoké, performances, shows DJ et divers scénarios de divertissement. Affichage LED et télécommande rendent l'utilisation plus pratique."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt91019/02.webp",
+          "alt": "PT91019",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt91019/03.webp",
+          "alt": "PT91019",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le PT91019 utilise des composants audio de qualité professionnelle et un système d'alimentation stable pour garantir un fonctionnement de haute qualité à long terme et d'excellentes performances sonores.",
+        "groups": [
+          {
+            "title": "Performance Audio",
+            "tags": [
+              "Enceintes Doubles 10\"",
+              "Sortie 150W"
+            ]
+          },
+          {
+            "title": "Système d'Alimentation",
+            "tags": [
+              "AC110V/220V",
+              "Charge USB 2.0A"
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "tags": [
+              "Bluetooth",
+              "USB (32GB)",
+              "Radio FM",
+              "Liaison TWS",
+              "Entrée Guitare/Micro"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "150W",
+            "label": "Puissance Professionnelle"
+          },
+          {
+            "stat": "Double 10\"",
+            "label": "Grands Haut-parleurs"
+          },
+          {
+            "stat": "USB",
+            "label": "Charge 2.0A"
+          },
+          {
+            "stat": "TWS",
+            "label": "Liaison Sans Fil"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr200g-37-160",
+      "name": "Système Barre de Son SR200G-37-160",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son 2.1 canaux avec subwoofer sans fil, puissance de sortie de 120W, grille métallique avec finition brillante, offrant une apparence élégante et une excellente qualité sonore.",
+      "detailDescription": "Système de barre de son 2.1 canaux avec subwoofer sans fil, prend en charge HDMI ARC, optique, Bluetooth et autres méthodes de connexion, sortie puissante de 120W, grille métallique avec finition brillante, offrant une apparence élégante et une excellente qualité sonore.",
+      "features": [
+        "2.1 Canaux",
+        "Puissance 120W",
+        "Grille Métallique"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr200g-37-160/00.webp",
+      "imagePosition": "left",
+      "featured": false,
+      "metadata": {
+        "title": "Détails du Produit - Système Barre de Son SR200G-37-160",
+        "description": "Système Barre de Son SR200G-37-160 2.1 Canaux avec subwoofer sans fil, puissance de sortie 120W, design grille métallique",
+        "keywords": "barre de son,2.1 canaux,subwoofer sans fil,home cinéma,grille métallique"
+      },
+      "projectMeta": {
+        "type": "Audio Home Cinéma",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr200g-37-160/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SR200G-37-160 dispose d'une grille métallique exquise avec finition brillante, améliorant non seulement la qualité sonore mais ajoutant également une texture premium aux environnements domestiques. Configuration 2.1 canaux avec unité de subwoofer large 16.51cm offrant de riches performances en basses fréquences et des détails clairs en moyennes-hautes fréquences.",
+          "Ce système dispose d'un subwoofer de 60W et d'une barre de son de 60W, avec une puissance totale de 120W, suffisante pour la plupart des besoins de home cinéma et d'appréciation musicale. Le design de subwoofer sans fil permet une disposition flexible sans connexions câblées complexes. Prend en charge les méthodes de connexion HDMI ARC, optique, Bluetooth, USB et AUX 3.5mm, indicateur LED affiche intuitivement l'état de fonctionnement, équipé de télécommande pour une utilisation pratique."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SR200G-37-160"
+        },
+        {
+          "label": "Canaux",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "120W"
+        },
+        {
+          "label": "Caractéristiques Design",
+          "value": "Grille Métallique & Finition Brillante"
+        },
+        {
+          "label": "Unités Enceintes",
+          "value": "Subwoofer 16.51cm×1 / Barre de Son 5.89cm×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SR200G-37-160 intègre une technologie audio premium et un design à la mode, vous offrant des performances sonores et une expérience utilisateur supérieures.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Esthétique Design Premium",
+            "description": "Grille métallique avec finition brillante améliore non seulement la texture du produit mais améliore également la propagation du son. Design élégant s'intègre parfaitement dans les environnements domestiques modernes, servant à la fois d'équipement audio et d'œuvre d'art."
+          },
+          {
+            "number": "02",
+            "title": "Performance Audio Puissante",
+            "description": "Unité de subwoofer large 16.51cm offre des performances en basses fréquences profondes et puissantes, tandis que deux unités de barre de son 5.89cm garantissent des détails clairs en moyennes-hautes fréquences. Configuration de puissance totale de 120W gère à la fois les scènes de films explosives et les basses profondes dans la musique de manière impressionnante."
+          },
+          {
+            "number": "03",
+            "title": "Connectivité Complète",
+            "description": "Dispose de DC JACK, USB, LINE IN, optique, interfaces HDMI IN, compatible avec divers appareils sources audio. Connexion Bluetooth sans fil est simple et rapide, se couplant facilement avec smartphones, tablettes et ordinateurs. Indicateur LED affiche intuitivement l'état de fonctionnement, télécommande pour une utilisation pratique."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/02.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr200g-37-160/03.webp",
+          "alt": "SR200G-37-160",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SR200G-37-160 utilise des composants audio de haute qualité pour garantir que chaque paramètre technique répond aux normes professionnelles.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Subwoofer 60W",
+              "Barre de Son 60W",
+              "Total 120W"
+            ]
+          },
+          {
+            "title": "Enceintes",
+            "tags": [
+              "Subwoofer 16.51cm×1",
+              "Barre de Son 5.89cm×2",
+              "Impédance 4Ω"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI IN",
+              "Optique",
+              "Bluetooth",
+              "USB",
+              "LINE IN",
+              "DC JACK"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "120W",
+            "label": "Puissance Totale"
+          },
+          {
+            "stat": "2.1",
+            "label": "Config Canaux"
+          },
+          {
+            "stat": "16.51cm",
+            "label": "Unité Subwoofer"
+          },
+          {
+            "stat": "Métal",
+            "label": "Design Grille"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322",
+      "name": "Barre de Son Bluetooth SR322",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son Bluetooth 2.2 canaux avec doubles subwoofers intégrés, puissance de sortie de 100W, métal gris foncé avec grille métallique grise, offrant une apparence élégante et une excellente qualité sonore.",
+      "detailDescription": "Système de barre de son Bluetooth 2.2 canaux avec doubles subwoofers intégrés, prend en charge HDMI ARC, optique, Bluetooth et autres méthodes de connexion, puissance de sortie de 100W, métal gris foncé avec grille métallique grise, offrant une apparence élégante et une excellente qualité sonore.",
+      "features": [
+        "2.2 Canaux",
+        "Doubles Subs Intégrés",
+        "Bluetooth"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Détails du Produit - Système Barre de Son Bluetooth SR322",
+        "description": "Système Barre de Son Bluetooth SR322 2.2 Canaux avec doubles subwoofers intégrés, puissance de sortie 100W, design grille métallique",
+        "keywords": "barre de son,2.2 canaux,subwoofer intégré,enceinte bluetooth,home cinéma"
+      },
+      "projectMeta": {
+        "type": "Système Audio Tout-en-Un",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SR322 dispose d'un design innovant 2.2 canaux avec doubles subwoofers intégrés dans le corps de la barre de son, offrant des performances en basses fréquences impressionnantes sans nécessiter de subwoofer externe. Deux unités de subwoofer 8.89cm associées à deux unités large bande 5.2×7.5cm offrent une qualité sonore équilibrée et nuancée.",
+          "Boîtier en métal gris foncé avec design de grille métallique grise est à la fois beau et durable, s'intégrant parfaitement dans divers environnements domestiques. Puissance de sortie de 100W garantit que les dialogues de films et les détails musicaux sont clairement présentés. Prend en charge les méthodes de connexion HDMI ARC, optique, Bluetooth, USB et AUX 3.5mm, affichage LED montre intuitivement l'état de fonctionnement, équipé de télécommande pour une utilisation pratique. Dimensions du produit : 960×137×74.5mm, adapté à divers supports TV ou installation murale."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SR322"
+        },
+        {
+          "label": "Canaux",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "100W"
+        },
+        {
+          "label": "Caractéristiques Design",
+          "value": "Doubles Subwoofers Intégrés / Grille Métallique"
+        },
+        {
+          "label": "Unités Enceintes",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SR322 se concentre sur le design tout-en-un et la qualité sonore professionnelle, vous offrant une solution home cinéma simple et efficace.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Doubles Subwoofers Intégrés",
+            "description": "Design innovant de doubles subwoofers intégrés intègre deux unités de subwoofer 8.89cm dans le corps de la barre de son, offrant des performances en basses fréquences puissantes sans subwoofer externe. Simplifie l'installation et le câblage, économise l'espace, tout en garantissant d'excellents effets de basse."
+          },
+          {
+            "number": "02",
+            "title": "Connexion Sans Fil Bluetooth",
+            "description": "Fonctionnalité Bluetooth intégrée prend en charge la connexion sans fil aux smartphones, tablettes, ordinateurs et autres appareils, vous permettant de profiter de la musique sans fil à tout moment, n'importe où. Transmission Bluetooth stable garantit une latence nulle et une distorsion nulle des signaux audio, offrant une expérience d'écoute fluide."
+          },
+          {
+            "number": "03",
+            "title": "Esthétique Design Premium",
+            "description": "Boîtier en métal gris foncé avec grille métallique grise améliore non seulement la texture du produit mais améliore également la propagation du son. Design élégant s'intègre parfaitement dans les environnements domestiques modernes, servant à la fois d'équipement audio et d'œuvre d'art."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322/right.webp",
+          "alt": "SR322 Vue Droite",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/button.webp",
+          "alt": "SR322 Bouton",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/interface.webp",
+          "alt": "SR322 Interface",
+          "featured": false
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322/exploded.webp",
+          "alt": "SR322 Vue Éclatée",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SR322 utilise des composants audio de haute qualité pour garantir que chaque paramètre technique répond aux normes professionnelles, offrant une qualité sonore haute fidélité.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Total 100W",
+              "Doubles Subs Intégrés"
+            ]
+          },
+          {
+            "title": "Enceintes",
+            "tags": [
+              "Subwoofers 8.89cm×2 (8Ω)",
+              "Large bande (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI ARC",
+              "Optique",
+              "Bluetooth",
+              "USB",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Puissance de Sortie"
+          },
+          {
+            "stat": "2.2",
+            "label": "Config Canaux"
+          },
+          {
+            "stat": "Doubles",
+            "label": "Subs Intégrés"
+          },
+          {
+            "stat": "Bluetooth",
+            "label": "Connexion Sans Fil"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sr322b",
+      "name": "Barre de Son Tout-en-Un SR322B",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son 2.2 canaux avec design de doubles subwoofers intégrés, puissance de sortie de 100W, métal gris foncé avec grille métallique grise, combinant apparence élégante et excellente qualité sonore.",
+      "detailDescription": "Système de barre de son 2.2 canaux avec doubles subwoofers intégrés, prend en charge HDMI ARC, optique, Bluetooth et autres méthodes de connexion, puissance de sortie de 100W, métal gris foncé avec grille métallique grise, offrant une apparence élégante et une excellente qualité sonore.",
+      "features": [
+        "2.2 Canaux",
+        "Doubles Subwoofers",
+        "Grille Métallique"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sr322b/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "Détails du Produit - Système Barre de Son SR322B",
+        "description": "Système Barre de Son SR322B 2.2 Canaux avec doubles subwoofers intégrés, puissance de sortie 100W, design grille métallique, expérience audio haute qualité",
+        "keywords": "barre de son,2.2 canaux,subwoofer intégré,home cinéma,grille métallique"
+      },
+      "projectMeta": {
+        "type": "Système Audio Tout-en-Un",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sr322b/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SR322B dispose d'un design innovant 2.2 canaux avec doubles subwoofers intégrés dans le corps de la barre de son, offrant des performances en basses fréquences impressionnantes sans nécessiter de subwoofer externe. Deux unités de subwoofer 8.89cm associées à deux unités large bande 5.2×7.5cm offrent une qualité sonore équilibrée et nuancée.",
+          "Boîtier en métal gris foncé avec design de grille métallique grise est à la fois beau et durable, s'intégrant parfaitement dans divers environnements domestiques. Puissance de sortie de 100W garantit que les dialogues de films et les détails musicaux sont clairement présentés. Prend en charge les méthodes de connexion HDMI ARC, optique, Bluetooth, USB et AUX 3.5mm, affichage LED montre intuitivement l'état de fonctionnement, équipé de télécommande pour une utilisation pratique."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SR322B"
+        },
+        {
+          "label": "Canaux",
+          "value": "2.2 CH"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "100W"
+        },
+        {
+          "label": "Caractéristiques Design",
+          "value": "Doubles Subwoofers Intégrés / Grille Métallique"
+        },
+        {
+          "label": "Unités Enceintes",
+          "value": "8.89cm×2 + (5.2×7.5cm)×2"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SR322B se concentre sur le design tout-en-un et la qualité sonore professionnelle, vous offrant une solution home cinéma simple et efficace.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Doubles Subwoofers Intégrés",
+            "description": "Design innovant de doubles subwoofers intégrés intègre deux unités de subwoofer 8.89cm dans le corps de la barre de son, offrant des performances en basses fréquences puissantes sans subwoofer externe. Simplifie l'installation et le câblage, économise l'espace, tout en garantissant d'excellents effets de basse."
+          },
+          {
+            "number": "02",
+            "title": "Esthétique Design Premium",
+            "description": "Boîtier en métal gris foncé avec grille métallique grise améliore non seulement la texture du produit mais améliore également la propagation du son. Design élégant s'intègre parfaitement dans les environnements domestiques modernes, servant à la fois d'équipement audio et d'œuvre d'art."
+          },
+          {
+            "number": "03",
+            "title": "Connectivité Complète",
+            "description": "Dispose de HDMI ARC, optique, USB, Bluetooth, interfaces AUX 3.5mm, compatible avec divers appareils sources audio. Prend en charge les périphériques de stockage USB jusqu'à 32 Go pour la lecture directe de fichiers musicaux locaux. Affichage LED montre intuitivement l'état de fonctionnement, télécommande pour une utilisation pratique."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sr322b/02.webp",
+          "alt": "SR322B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sr322b/with-5088-subwoofer.webp",
+          "alt": "SR322B avec Subwoofer 5088",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SR322B utilise des composants audio de haute qualité pour garantir que chaque paramètre technique répond aux normes professionnelles, offrant une qualité sonore haute fidélité.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Total 100W",
+              "Doubles Subs Intégrés"
+            ]
+          },
+          {
+            "title": "Enceintes",
+            "tags": [
+              "Subwoofers 8.89cm×2 (8Ω)",
+              "Large bande (5.2×7.5cm)×2 (4Ω)"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI ARC",
+              "Optique",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Puissance de Sortie"
+          },
+          {
+            "stat": "2.2",
+            "label": "Config Canaux"
+          },
+          {
+            "stat": "Doubles",
+            "label": "Subs Intégrés"
+          },
+          {
+            "stat": "Métal",
+            "label": "Design Grille"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra283g-32-80",
+      "name": "Barre de Son Dolby Atmos SRA283G-32-80",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son Dolby Atmos 2.1 canaux avec subwoofer sans fil, puissance de sortie de 80W, design compact parfait pour les petits appartements et chambres.",
+      "detailDescription": "Système de barre de son Dolby Atmos 2.1 canaux avec subwoofer sans fil, prend en charge HDMI ARC, optique, Bluetooth et autres méthodes de connexion, puissance de sortie de 80W, offrant une qualité sonore claire et agréable.",
+      "features": [
+        "2.1 Canaux",
+        "Dolby Atmos",
+        "Design Compact"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra283g-32-80/00.webp",
+      "imagePosition": "right",
+      "featured": false,
+      "metadata": {
+        "title": "Détails du Produit - Système Barre de Son Dolby Atmos SRA283G-32-80",
+        "description": "Système de barre de son Dolby Atmos SRA283G-32-80 2.1 canaux avec subwoofer sans fil, sortie 80W, design compact pour divers espaces domestiques",
+        "keywords": "Dolby Atmos,barre de son,2.1 canaux,subwoofer sans fil,home cinéma"
+      },
+      "projectMeta": {
+        "type": "Système Audio Compact",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra283g-32-80/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SRA283G-32-80 dispose d'un design compact, un système Dolby Atmos 2.1 canaux spécialement conçu pour les petits appartements et chambres. Amplificateur numérique intégré et technologie de traitement du signal numérique DSP offrent une excellente qualité sonore même dans des espaces limités. Le design de subwoofer sans fil permet une disposition plus flexible, avec une configuration de puissance 40W+40W répondant aux besoins quotidiens de visionnage de films et d'appréciation musicale.",
+          "Prend en charge les méthodes de connexion HDMI ARC, optique, Bluetooth, USB et AUX 3.5mm, compatible avec divers appareils sources audio. Affichage LED montre intuitivement l'état de fonctionnement, équipé de télécommande pour une utilisation pratique. Boîtier en plastique avec design élégant s'intègre parfaitement dans les environnements domestiques modernes."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SRA283G-32-80"
+        },
+        {
+          "label": "Canaux",
+          "value": "2.1 CH"
+        },
+        {
+          "label": "Technologie Audio",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "80W"
+        },
+        {
+          "label": "Application",
+          "value": "Cinéma Chambre / Petit Salon"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SRA283G-32-80 se concentre sur le design compact et les fonctionnalités pratiques, offrant une expérience audio de niveau professionnel pour les utilisateurs de petits espaces.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Design Compact",
+            "description": "Design de barre de son ultra-mince, largeur 810mm, hauteur seulement 41mm, s'adapte facilement sur meuble TV ou installation murale. Taille de subwoofer compacte permet un placement flexible sans prendre d'espace excessif, particulièrement adapté aux chambres et petits salons."
+          },
+          {
+            "number": "02",
+            "title": "Technologie Dolby Atmos",
+            "description": "Bien que configuration 2.1 canaux, optimisé grâce à la technologie Dolby Atmos pour créer des effets sonores immersifs dépassant la stéréo traditionnelle. Traitement du signal numérique DSP améliore encore la qualité sonore, présentant des dialogues clairs et des détails riches d'effets sonores."
+          },
+          {
+            "number": "03",
+            "title": "Multiples Options de Connectivité",
+            "description": "Dispose de HDMI ARC, optique, USB, Bluetooth, interfaces AUX 3.5mm, compatible avec TV, consoles de jeux, ordinateurs, smartphones et autres appareils. Prend en charge les périphériques de stockage USB jusqu'à 32 Go pour la lecture directe de fichiers musicaux locaux. Connexion Bluetooth simple et rapide pour la musique sans fil à tout moment."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar.webp",
+          "alt": "SRA283G-32-80 Barre de Son",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/soundbar-explode.webp",
+          "alt": "SRA283G-32-80 Vue Éclatée Barre de Son",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer.webp",
+          "alt": "SRA283G-32-80 Subwoofer",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra283g-32-80/subwoofer-explode.webp",
+          "alt": "SRA283G-32-80 Vue Éclatée Subwoofer",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SRA283G-32-80 utilise des composants audio de qualité et une technologie de traitement numérique avancée, garantissant une excellente qualité sonore même en taille compacte.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Subwoofer 40W",
+              "Barre de Son 40W",
+              "Total 80W"
+            ]
+          },
+          {
+            "title": "Dimensions",
+            "tags": [
+              "Barre de Son 810×81×41mm",
+              "Subwoofer 120×220×397mm"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI ARC",
+              "Optique",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "Puissance Totale"
+          },
+          {
+            "stat": "2.1",
+            "label": "Config Canaux"
+          },
+          {
+            "stat": "41mm",
+            "label": "Design Ultra-mince"
+          },
+          {
+            "stat": "Sans Fil",
+            "label": "Subwoofer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sra5078g",
+      "name": "Barre de Son Dolby Atmos SRA5078G",
+      "category": "soundbar",
+      "categoryName": "BARRE DE SON",
+      "year": "2026",
+      "description": "Système de barre de son Dolby Atmos 5.1.2 canaux avec enceintes satellites sans fil et subwoofer puissant, puissance de sortie totale de 180W, créant une véritable expérience audio de niveau home cinéma.",
+      "detailDescription": "Le SRA5078G dispose d'une configuration 5.1.2 canaux avec technologie Dolby Atmos. Comprend des enceintes satellites sans fil et un subwoofer puissant, multiples options de connectivité incluant HDMI ARC, optique et Bluetooth, puissance totale jusqu'à 180W pour des performances audio époustouflantes.",
+      "features": [
+        "5.1.2 Canaux",
+        "Puissance 180W",
+        "Satellites Sans Fil"
+      ],
+      "mainImage": "/assets/img/products/soundbar/sra5078g/00.webp",
+      "imagePosition": "left",
+      "featured": false,
+      "metadata": {
+        "title": "Détails du Produit - Système Barre de Son Dolby Atmos SRA5078G",
+        "description": "Système de barre de son Dolby Atmos SRA5078G 5.1.2 canaux avec enceintes satellites sans fil et subwoofer pour une expérience audio immersive de qualité cinéma",
+        "keywords": "Dolby Atmos,barre de son,5.1.2 canaux,enceintes sans fil,home cinéma"
+      },
+      "projectMeta": {
+        "type": "Système Audio Premium",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/soundbar/sra5078g/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le SRA5078G utilise pleinement la technologie Dolby Atmos pour créer un champ sonore surround tridimensionnel. Équipé d'enceintes de puissance totale 180W, en particulier le subwoofer de 90W, améliore les performances en basses fréquences, adapté au cinéma, à la musique et à divers scénarios.",
+          "Ce système se compose d'une barre de son principale, d'enceintes satellites sans fil et d'un subwoofer puissant. La barre de son principale combinée à la technologie de traitement du signal numérique DSP garantit que chaque détail sonore est clairement présenté. Les enceintes satellites sans fil utilisent une technologie de transmission sans fil stable, vous libérant des contraintes des câbles et permettant un placement flexible des enceintes. Le subwoofer puissant offre des performances en basses fréquences profondes et puissantes, présentant de manière impressionnante les scènes d'explosion de films et les sections de basses de musique."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "SRA5078G"
+        },
+        {
+          "label": "Canaux",
+          "value": "5.1.2 CH"
+        },
+        {
+          "label": "Technologie Audio",
+          "value": "Dolby Atmos"
+        },
+        {
+          "label": "Puissance Totale",
+          "value": "180W"
+        },
+        {
+          "label": "Connectivité",
+          "value": "Bluetooth / HDMI / Optique / USB / AUX"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le SRA5078G intègre une technologie audio de pointe et une conception conviviale, conçu sur mesure pour les utilisateurs recherchant qualité et design, parfaitement adapté au home cinéma ou à l'appréciation musicale.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Technologie Dolby Atmos",
+            "description": "Prend en charge le format audio Dolby Atmos avec configuration 5.1.2 canaux réalisant un véritable champ sonore tridimensionnel. La conception du canal de hauteur permet au son de provenir du haut, créant un environnement sonore plus réaliste. Que ce soit un avion passant au-dessus, des gouttes de pluie tombant ou des bandes sonores de films, positionnement précis offrant une immersion sans précédent."
+          },
+          {
+            "number": "02",
+            "title": "Enceintes Satellites Sans Fil",
+            "description": "Design innovant d'enceintes satellites sans fil utilise une technologie de transmission sans fil stable garantissant des signaux audio sans latence et sans distorsion. Libéré des contraintes des câbles, permettant un placement flexible selon la disposition de la pièce pour une position d'écoute optimale."
+          },
+          {
+            "number": "03",
+            "title": "Multiples Options de Connectivité",
+            "description": "Dispose de HDMI ARC, optique, USB, Bluetooth, interfaces AUX 3.5mm, compatible avec divers appareils sources audio. Prend en charge les périphériques de stockage USB jusqu'à 32 Go pour la lecture directe de fichiers musicaux locaux. Connexion Bluetooth simple et rapide permet aux smartphones, tablettes et ordinateurs de se coupler facilement pour la musique sans fil à tout moment."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/02.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/soundbar/sra5078g/03.webp",
+          "alt": "SRA5078G",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le SRA5078G utilise des composants audio de haute qualité et une technologie de traitement numérique avancée, garantissant que chaque paramètre technique répond aux normes professionnelles pour un son haute fidélité.",
+        "groups": [
+          {
+            "title": "Puissance",
+            "tags": [
+              "Subwoofer 90W",
+              "Barre de Son 60W",
+              "Satellite 30W",
+              "Total 180W"
+            ]
+          },
+          {
+            "title": "Dimensions",
+            "tags": [
+              "Barre de Son 882×112×65mm",
+              "Subwoofer 120×300×400mm",
+              "Satellite 205×112×62mm"
+            ]
+          },
+          {
+            "title": "Connectivité",
+            "tags": [
+              "HDMI ARC",
+              "Optique",
+              "Bluetooth",
+              "USB (32GB)",
+              "AUX 3.5mm"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "180W",
+            "label": "Puissance Totale"
+          },
+          {
+            "stat": "5.1.2",
+            "label": "Canaux Surround"
+          },
+          {
+            "stat": "90W",
+            "label": "Subwoofer Puissant"
+          },
+          {
+            "stat": "Sans Fil",
+            "label": "Enceintes Satellites"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bt508",
+      "name": "Enceinte Bluetooth Portable BT508",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Enceinte Bluetooth portable professionnelle BT508 dotée de la technologie Bluetooth 5.4 avec une sortie puissante de 80W. Indice d'étanchéité IPX4, prend en charge le couplage TWS, la lecture USB/carte TF, les appels mains libres et plus encore, choix idéal pour les grandes activités extérieures.",
+      "detailDescription": "Enceinte Bluetooth portable professionnelle BT508 dotée de la technologie Bluetooth 5.4 avec une sortie puissante de 80W. Batterie haute performance 11.1V/2200mAh intégrée prend en charge la charge rapide USB-C. Indice d'étanchéité IPX4, prend en charge le couplage TWS, la lecture USB/carte TF, les appels mains libres et multiples fonctions, choix idéal pour les grandes activités extérieures et l'utilisation professionnelle.",
+      "features": [
+        "Bluetooth 5.4",
+        "Puissance 80W",
+        "Étanche IPX4"
+      ],
+      "mainImage": "/assets/img/products/portable/bt508/00.webp",
+      "imagePosition": "left",
+      "featured": true,
+      "metadata": {
+        "title": "Détails du Produit - Enceinte Bluetooth Portable BT508",
+        "description": "Enceinte Bluetooth portable BT508, sortie puissante 80W, Bluetooth 5.4, étanche IPX4, prend en charge le couplage TWS",
+        "keywords": "enceinte portable,enceinte Bluetooth,enceinte extérieure,enceinte étanche,TWS"
+      },
+      "projectMeta": {
+        "type": "Enceinte Portable Professionnelle",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/bt508/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le BT508 est l'enceinte Bluetooth portable phare de la série BT, conçue pour les utilisateurs recherchant une qualité sonore ultime et une sortie puissante. Dotée de la dernière technologie Bluetooth 5.4 garantissant une connexion stable et une transmission efficace. Configuration double enceinte stéréo haute puissance de 40W avec une puissance totale atteignant 80W, double augmentation de puissance par rapport au BT408, offrant des performances audio plus impressionnantes, adaptée aux grands rassemblements en plein air, événements commerciaux et autres scénarios.",
+          "Batterie lithium haute performance 11.1V/2200mAh intégrée combinée à un système d'amplificateur haute efficacité et un port de charge rapide USB-C garantit un fonctionnement stable à long terme. Conception étanche IPX4 résiste à l'érosion par la pluie et la sueur, adaptée à divers environnements extérieurs. Prend en charge le couplage TWS True Wireless Stereo, deux unités BT508 peuvent former un système stéréo plus puissant de 160W. Prend en charge la lecture USB/carte TF, entrée filaire AUX, appels mains libres et multiples fonctions, ajustement sonore EQ intégré pour répondre à différents styles musicaux et scénarios d'utilisation. Corps plus grand (482×200×257mm) accueille des unités d'enceintes plus grandes pour de meilleures performances en basses fréquences et largeur de champ sonore."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "BT508"
+        },
+        {
+          "label": "Puissance de Sortie",
+          "value": "40W × 2"
+        },
+        {
+          "label": "Version Bluetooth",
+          "value": "5.4"
+        },
+        {
+          "label": "Indice d'Étanchéité",
+          "value": "IPX4"
+        },
+        {
+          "label": "Capacité de la Batterie",
+          "value": "11.1V/2200mAh"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le BT508 se concentre sur la qualité sonore professionnelle et les performances puissantes comme cœur, offrant une solution audio parfaite pour les grandes activités extérieures et l'utilisation professionnelle.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Sortie Puissante",
+            "description": "Configuration double enceinte haute puissance de 40W avec puissance totale atteignant 80W, double augmentation de puissance par rapport au BT408. Unités d'enceintes plus grandes et puissance de pilotage plus forte offrent des performances audio plus impressionnantes, basses plus profondes et champ sonore plus large. Que ce soit grandes fêtes en plein air, événements commerciaux ou performances professionnelles, couvre facilement de plus grands espaces, remplissant chaque coin de belle musique."
+          },
+          {
+            "number": "02",
+            "title": "Système de Batterie Haute Performance",
+            "description": "Dispose d'une batterie lithium haute performance 11.1V/2200mAh, bien que la capacité soit légèrement inférieure au BT408, tension plus élevée combinée à un système d'amplificateur haute efficacité fournit toujours une autonomie suffisante. Port de charge rapide USB-C prend en charge un courant de charge plus élevé pour une vitesse de charge plus rapide. Système de gestion intelligente de l'alimentation optimise la consommation d'énergie et prolonge le temps de lecture."
+          },
+          {
+            "number": "03",
+            "title": "Fonctionnalités de Niveau Professionnel",
+            "description": "Technologie Bluetooth 5.4 garantit une connexion stable et une transmission audio de haute qualité. Technologie TWS True Wireless Stereo prend en charge le couplage à double unité pour un système stéréo super puissant de 160W. Prend en charge les entrées audio USB/carte TF, AUX, fonction d'appel mains libres intégrée. Ajustement sonore EQ offre plusieurs modes sonores préréglés pour différents types de musique et scénarios d'utilisation. Conception étanche IPX4 s'adapte à divers environnements extérieurs."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/bt508/02.webp",
+          "alt": "BT508",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/bt508/03.webp",
+          "alt": "BT508",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le BT508 utilise des composants audio de qualité professionnelle et un système de batterie haute performance, garantissant un fonctionnement de haute qualité à long terme et d'excellentes performances sonores.",
+        "groups": [
+          {
+            "title": "Performance Audio",
+            "tags": [
+              "Enceintes Doubles 40W",
+              "Puissance Totale 80W",
+              "Ajustement Son EQ"
+            ]
+          },
+          {
+            "title": "Système d'Alimentation",
+            "tags": [
+              "Batterie 11.1V/2200mAh",
+              "Charge Rapide USB-C"
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "tags": [
+              "Bluetooth 5.4",
+              "Lecture USB/TF",
+              "Couplage TWS",
+              "Appel Mains Libres",
+              "Étanche IPX4",
+              "Entrée AUX"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "80W",
+            "label": "Sortie Puissante"
+          },
+          {
+            "stat": "BT5.4",
+            "label": "Technologie Bluetooth"
+          },
+          {
+            "stat": "IPX4",
+            "label": "Indice d'Étanchéité"
+          },
+          {
+            "stat": "TWS",
+            "label": "Couplage Sans Fil"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pt9818b",
+      "name": "Enceinte de Fête Double 8\" PT9818B",
+      "category": "portable",
+      "categoryName": "PORTABLE",
+      "year": "2026",
+      "description": "Enceinte de fête portable avec double haut-parleurs 8 pouces, batterie rechargeable 12V/5A intégrée, sortie puissante de 100W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore, choix idéal pour les rassemblements en plein air et les performances.",
+      "detailDescription": "Enceinte de fête portable avec double haut-parleurs 8 pouces, batterie rechargeable 12V/5A intégrée, sortie puissante de 100W. Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore. Dispose d'entrée guitare et d'entrée microphone, choix idéal pour les rassemblements en plein air et les performances.",
+      "features": [
+        "Double 8\"",
+        "Batterie Intégrée",
+        "Liaison TWS"
+      ],
+      "mainImage": "/assets/img/products/portable/pt9818b/00.webp",
+      "imagePosition": "right",
+      "featured": true,
+      "metadata": {
+        "title": "Détails du Produit - Enceinte de Fête Portable PT9818B",
+        "description": "Enceinte de Fête Portable Double 8 pouces PT9818B avec batterie rechargeable intégrée, puissance de sortie 100W, prend en charge Bluetooth/USB/radio FM",
+        "keywords": "enceinte portable,enceinte de fête,enceinte bluetooth,enceinte extérieure,double 8 pouces"
+      },
+      "projectMeta": {
+        "type": "Enceinte de Fête Portable",
+        "year": "2026"
+      },
+      "showcaseImages": [
+        "/assets/img/products/portable/pt9818b/01.webp"
+      ],
+      "introduction": {
+        "title": "Présentation du Produit",
+        "paragraphs": [
+          "Le PT9818B est une enceinte de fête portable conçue spécialement pour les rassemblements en plein air et les performances mobiles. La configuration double haut-parleurs 8 pouces offre une sortie puissante de 100W, offrant des performances audio impressionnantes que ce soit pour des fêtes en plein air ou de petites performances.",
+          "Batterie rechargeable 12V/5A intégrée vous libère des contraintes du cordon d'alimentation, vous permettant de profiter de la musique à tout moment, n'importe où. Prend en charge la connexion sans fil Bluetooth, lecture USB, radio FM et autres méthodes d'entrée audio. La technologie TWS True Wireless Stereo peut interconnecter deux enceintes pour créer un système stéréo plus puissant. Dispose d'entrée guitare et d'entrée microphone (prend en charge les microphones filaires/sans fil), adapté à divers scénarios de performance et de karaoké. Affichage LED montre intuitivement l'état de fonctionnement, et l'utilisation de la télécommande est plus pratique."
+        ]
+      },
+      "specifications": [
+        {
+          "label": "Modèle",
+          "value": "PT9818B"
+        },
+        {
+          "label": "Taille Enceintes",
+          "value": "Double 8\""
+        },
+        {
+          "label": "Puissance de Sortie",
+          "value": "100W"
+        },
+        {
+          "label": "Batterie",
+          "value": "12V/5A Rechargeable"
+        },
+        {
+          "label": "Application",
+          "value": "Fêtes Extérieures / Performances"
+        }
+      ],
+      "coreAdvantages": {
+        "title": "Avantages Principaux",
+        "description": "Le PT9818B intègre design portable et performances puissantes, ce qui en fait le compagnon parfait pour le divertissement en plein air et les performances mobiles.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Design Portable",
+            "description": "Batterie rechargeable haute capacité 12V/5A intégrée vous libère des contraintes du cordon d'alimentation, vous permettant de profiter de la musique à tout moment, n'importe où. Design de corps compact est pratique pour le transport et le déplacement, adapté aux rassemblements en plein air, pique-niques, camping et divers autres scénarios."
+          },
+          {
+            "number": "02",
+            "title": "Performance Audio Puissante",
+            "description": "Configuration double haut-parleurs 8 pouces grand diamètre avec sortie puissante de 100W offre des performances audio impressionnantes. Que ce soit les basses fréquences ou les moyennes-hautes fréquences, elles peuvent être clairement présentées pour répondre aux besoins de lecture de divers styles musicaux."
+          },
+          {
+            "number": "03",
+            "title": "Divertissement Multi-Fonctions",
+            "description": "Prend en charge Bluetooth, USB, radio FM, interconnexion TWS et plus encore. Dispose d'entrée guitare et d'entrée microphone, prend en charge les microphones filaires/sans fil (en option), adapté au karaoké, performances et divers scénarios de divertissement. Affichage LED et télécommande rendent l'utilisation plus pratique."
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/assets/img/products/portable/pt9818b/02.webp",
+          "alt": "PT9818B",
+          "featured": true
+        },
+        {
+          "src": "/assets/img/products/portable/pt9818b/03.webp",
+          "alt": "PT9818B",
+          "featured": true
+        }
+      ],
+      "technicalSpecs": {
+        "title": "Spécifications Techniques",
+        "description": "Le PT9818B utilise des composants audio de haute qualité et un système de batterie stable pour garantir un fonctionnement stable à long terme et d'excellentes performances sonores.",
+        "groups": [
+          {
+            "title": "Performance Audio",
+            "tags": [
+              "Enceintes Doubles 8\"",
+              "Sortie 100W"
+            ]
+          },
+          {
+            "title": "Système d'Alimentation",
+            "tags": [
+              "Batterie 12V/5A",
+              "Design Portable"
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "tags": [
+              "Bluetooth",
+              "USB (32GB)",
+              "Radio FM",
+              "Liaison TWS",
+              "Entrée Guitare/Micro"
+            ]
+          }
+        ]
+      },
+      "highlights": {
+        "title": "Points Forts du Produit",
+        "items": [
+          {
+            "stat": "100W",
+            "label": "Sortie Puissante"
+          },
+          {
+            "stat": "Double 8\"",
+            "label": "Grands Haut-parleurs"
+          },
+          {
+            "stat": "Batterie",
+            "label": "Alimentation Intégrée"
+          },
+          {
+            "stat": "TWS",
+            "label": "Liaison Sans Fil"
+          }
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "value": "*",
+      "label": "Tous les Produits"
+    },
+    {
+      "value": "soundbar",
+      "label": "BARRE DE SON"
+    },
+    {
+      "value": "portable",
+      "label": "PORTABLE"
+    },
+    {
+      "value": "turntable",
+      "label": "PLATINE VINYLE"
+    }
+  ],
+  "navigation": {
+    "prev": "Produit Précédent",
+    "next": "Produit Suivant",
+    "all": "Tous les Produits"
+  }
+}

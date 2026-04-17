@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "404 - Page Non Trouvée",
+    "description": "La page que vous recherchez est introuvable.",
+    "keywords": "404, non trouvé, erreur"
+  },
+  "errorNumber": "404",
+  "errorTitle": "Page Non Trouvée",
+  "errorDescription": "Désolé, la page que vous recherchez a peut-être été supprimée, son nom a changé ou est temporairement indisponible.",
+  "helpfulLinksTitle": "Vous pourriez rechercher :",
+  "helpfulLinks": [
+    {
+      "icon": "bi bi-house-door",
+      "title": "Page d'Accueil",
+      "description": "Retournez à notre page principale pour explorer l'histoire de la marque CKY et les derniers produits.",
+      "linkText": "Aller à l'Accueil",
+      "linkHref": "/{lang}#hero"
+    },
+    {
+      "icon": "bi bi-speaker",
+      "title": "Produits",
+      "description": "Parcourez notre gamme complète de produits audio et découvrez la solution parfaite pour vous.",
+      "linkText": "Voir les Produits",
+      "linkHref": "/{lang}/products"
+    },
+    {
+      "icon": "bi bi-envelope",
+      "title": "Contactez-Nous",
+      "description": "Contactez notre équipe pour une assistance et un soutien personnalisés.",
+      "linkText": "Contactez-Nous",
+      "linkHref": "/{lang}#contact"
+    }
+  ]
+}

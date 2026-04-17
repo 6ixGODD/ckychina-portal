@@ -10,5 +10,17 @@
     "name": "Chinese",
     "nativeName": "中文",
     "bcp47": "zh-CN"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "bcp47": "fr-FR"
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "bcp47": "es-ES"
   }
 ]
