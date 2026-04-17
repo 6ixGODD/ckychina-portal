@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "preview": "serve out -l 3000",
+    "preview:5000": "serve out -l 5000"
   },
   "dependencies": {
     "aos": "^2.3.4",
@@ -48,6 +50,7 @@
     "husky": "^8.0.0",
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.2",
+    "serve": "^14.2.6",
     "typescript": "^5",
     "typescript-eslint": "^8.58.2"
   },
