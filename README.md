@@ -233,6 +233,10 @@ Create `.env.local`
 
 ### Aliyun OSS
 
+#### 0. Install ossutil
+
+Please refer to the [official documentation](https://help.aliyun.com/zh/oss/developer-reference/install-ossutil) for installation steps and ensure the `ossutil` command is available.
+
 #### 1. Configure OSS Credentials
 
 ```bash

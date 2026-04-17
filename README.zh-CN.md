@@ -233,6 +233,10 @@ export default function Feature({ data }: Props) {
 
 ### 阿里云 OSS
 
+#### 0. 安装 ossutil
+
+具体步骤请参考[官方文档](https://help.aliyun.com/zh/oss/developer-reference/install-ossutil)，并确保 `ossutil` 命令可用。
+
 #### 1. 配置 OSS 凭证
 
 ```bash
