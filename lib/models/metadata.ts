@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { z } from 'zod';
 
+import { SITE_URL } from '@/lib/config';
+
 /**
  * Schema for default metadata configuration
  */
@@ -84,7 +86,7 @@ export async function buildMetadata(
     const languageAlternates: Record<string, string> = {};
     if (languages) {
         languages.forEach((l) => {
-            languageAlternates[l.bcp47] = `/${l.code}${pathSegment}`;
+            languageAlternates[l.bcp47] = `${SITE_URL}/${l.code}${pathSegment}`;
         });
     }
 
