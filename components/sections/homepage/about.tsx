@@ -45,13 +45,13 @@ export default function About({ data }: Props) {
             <div className='container' data-aos='fade-up' data-aos-delay='100'>
                 {/* Logo */}
                 <div className='row justify-content-center mb-5' data-aos='zoom-in' data-aos-delay='200'>
-                    <div className='col-lg-8 text-center'>
+                    <div className='image-wrapper text-center'>
                         <Image
                             src={data.logo.src}
                             alt={data.logo.alt}
                             className='cky-full-logo'
-                            width={500}
-                            height={400}
+                            width={400}
+                            height={320}
                             unoptimized={true}
                         />
                     </div>

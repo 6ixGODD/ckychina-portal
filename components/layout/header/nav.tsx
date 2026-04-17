@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 import LangSwitcher from '@/components/layout/header/lang-switcher';
+import MobileNavPortal from '@/components/layout/header/mobile-nav-portal';
 import type { Language } from '@/lib/i18n';
 
 type NavElement = {
@@ -25,8 +26,14 @@ export default function Nav({ data }: Props) {
     const [activeHash, setActiveHash] = useState('');
 
     const toggleMobileNav = () => {
-        setIsMobileNavActive(!isMobileNavActive);
-        document.body.classList.toggle('mobile-nav-active');
+        const newState = !isMobileNavActive;
+        setIsMobileNavActive(newState);
+
+        if (newState) {
+            document.body.classList.add('mobile-nav-active');
+        } else {
+            document.body.classList.remove('mobile-nav-active');
+        }
     };
 
     const handleNavClick = () => {
@@ -43,7 +50,7 @@ export default function Nav({ data }: Props) {
                 .filter((el) => el.href.includes('#'))
                 .map((el) => ({
                     ...el,
-                    hash: '#' + el.href.split('#')[1], // 提取 hash 部分
+                    hash: '#' + el.href.split('#')[1],
                 }));
 
             for (const element of hashLinks) {
@@ -82,28 +89,65 @@ export default function Nav({ data }: Props) {
     }, []);
 
     return (
-        <nav id='navmenu' className='navmenu d-flex align-items-center'>
-            <ul>
-                {data.elements.map((element) => {
-                    const hasHash = element.href.includes('#');
-                    const hash = hasHash ? '#' + element.href.split('#')[1] : '';
-                    const isActive = hasHash && activeHash === hash;
+        <>
+            <nav id='navmenu' className='navmenu'>
+                {/* Desktop menu - always rendered */}
+                <ul className='desktop-menu'>
+                    {data.elements.map((element) => {
+                        const hasHash = element.href.includes('#');
+                        const hash = hasHash ? '#' + element.href.split('#')[1] : '';
+                        const isActive = hasHash && activeHash === hash;
 
-                    return (
-                        <li key={element.name}>
-                            <Link href={element.href} className={isActive ? 'active' : ''} onClick={handleNavClick}>
-                                {element.name}
-                            </Link>
-                        </li>
-                    );
-                })}
-            </ul>
+                        return (
+                            <li key={element.name}>
+                                <Link href={element.href} className={isActive ? 'active' : ''}>
+                                    {element.name}
+                                </Link>
+                            </li>
+                        );
+                    })}
+                </ul>
 
-            <LangSwitcher languages={data.languages} />
-            <i
-                className={`mobile-nav-toggle d-xl-none bi ${isMobileNavActive ? 'bi-x' : 'bi-list'}`}
-                onClick={toggleMobileNav}
-            ></i>
-        </nav>
+                {/* Language switcher - hidden when mobile menu is active */}
+                <div className={`lang-wrapper ${isMobileNavActive ? 'mobile-hidden' : ''}`}>
+                    <LangSwitcher languages={data.languages} />
+                </div>
+
+                <i
+                    className={`mobile-nav-toggle d-xl-none bi ${isMobileNavActive ? 'bi-x' : 'bi-list'}`}
+                    onClick={toggleMobileNav}
+                ></i>
+            </nav>
+
+            {/* Mobile menu - rendered via Portal to body */}
+            <MobileNavPortal isActive={isMobileNavActive}>
+                <div className='mobile-nav-overlay'>
+                    <div className='mobile-nav-content'>
+                        <ul className='mobile-menu'>
+                            {data.elements.map((element) => {
+                                const hasHash = element.href.includes('#');
+                                const hash = hasHash ? '#' + element.href.split('#')[1] : '';
+                                const isActive = hasHash && activeHash === hash;
+
+                                return (
+                                    <li key={element.name}>
+                                        <Link
+                                            href={element.href}
+                                            className={isActive ? 'active' : ''}
+                                            onClick={handleNavClick}
+                                        >
+                                            {element.name}
+                                        </Link>
+                                    </li>
+                                );
+                            })}
+                        </ul>
+                    </div>
+
+                    {/* Close button in mobile overlay */}
+                    <i className='mobile-nav-close bi bi-x' onClick={toggleMobileNav}></i>
+                </div>
+            </MobileNavPortal>
+        </>
     );
 }
