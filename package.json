@@ -9,6 +9,7 @@
     "lint": "eslint",
     "prepare": "husky install",
     "preview": "serve out -l 3000",
+    "preview:build": "pnpm run build && pnpm run preview",
     "oss:config": "ossutil config -c .ossutilconfig",
     "oss:ls": "ossutil -c .ossutilconfig ls oss://ckychina-portal",
     "oss:cp": "ossutil -c .ossutilconfig cp out/ oss://ckychina-portal --recursive -f",
