@@ -82,63 +82,63 @@ pnpm preview      # 预览构建结果
 ckychina-portal/
 ├── app/
 │   ├── [lang]/                    # i18n 路由
-│   │   ├── layout.tsx            # 语言级布局（包含 Footer）
-│   │   ├── page.tsx              # 首页
-│   │   ├── products/             # 产品页
-│   │   │   ├── page.tsx         # 产品列表
-│   │   │   └── [category]/[id]/ # 产品详情
-│   │   ├── privacy/              # 隐私政策
-│   │   ├── terms/                # 服务条款
-│   │   └── 404/                  # 404 页面
+│   │   ├── layout.tsx             # 语言级布局（包含 Footer）
+│   │   ├── page.tsx               # 首页
+│   │   ├── products/              # 产品页
+│   │   │   ├── page.tsx           # 产品列表
+│   │   │   └── [category]/[id]/   # 产品详情
+│   │   ├── privacy/               # 隐私政策
+│   │   ├── terms/                 # 服务条款
+│   │   └── 404/                   # 404 页面
 │   ├── styles/                    # 全局样式
-│   │   ├── main.scss            # 入口
-│   │   ├── _variables.scss      # CSS 变量
-│   │   ├── layouts/             # 布局样式
-│   │   ├── sections/            # 各 section 样式
-│   │   └── components/          # 组件样式
-│   ├── page.tsx                  # 根路径重定向
-│   ├── sitemap.ts               # 动态生成 sitemap.xml
-│   └── robots.ts                # 动态生成 robots.txt
+│   │   ├── main.scss              # 入口
+│   │   ├── _variables.scss        # CSS 变量
+│   │   ├── layouts/               # 布局样式
+│   │   ├── sections/              # 各 section 样式
+│   │   └── components/            # 组件样式
+│   ├── page.tsx                   # 根路径重定向
+│   ├── sitemap.ts                 # 动态生成 sitemap.xml
+│   └── robots.ts                  # 动态生成 robots.txt
 │
 ├── components/
 │   ├── layout/
-│   │   ├── header/              # 导航、语言切换
-│   │   └── footer/              # 页脚
-│   ├── sections/                # 页面模块
+│   │   ├── header/                # 导航、语言切换
+│   │   └── footer/                # 页脚
+│   ├── sections/                  # 页面模块
 │   │   ├── homepage/
 │   │   ├── products/
 │   │   ├── privacy/
 │   │   ├── terms/
 │   │   └── error/
-│   ├── ui/                      # 通用组件
-│   └── providers/               # 客户端 Provider
+│   ├── ui/                        # 通用组件
+│   └── providers/                 # 客户端 Provider
 │
 ├── lib/
-│   ├── i18n.ts                  # 国际化工具
-│   ├── constants.ts             # 常量定义
-│   ├── config.ts                # 配置
-│   ├── utils.ts                 # 工具函数
-│   └── models/                  # 数据模型
+│   ├── i18n.ts                    # 国际化工具
+│   ├── constants.ts               # 常量定义
+│   ├── config.ts                  # 配置
+│   ├── utils.ts                   # 工具函数
+│   └── models/                    # 数据模型
 │       ├── header.ts
 │       ├── footer.ts
 │       ├── metadata.ts
-│       └── pages/               # 各页面数据构建器
+│       └── pages/                 # 各页面数据构建器
 │
-├── data/                         # JSON 内容数据
-│   ├── languages.json           # 语言配置
-│   ├── metadata.json            # 全局 SEO
-│   ├── en/                      # 英文内容
-│   └── zh/                      # 中文内容
+├── data/                          # JSON 内容数据
+│   ├── languages.json             # 语言配置
+│   ├── metadata.json              # 全局 SEO
+│   ├── en/                        # 英文内容
+│   └── zh/                        # 中文内容
 │       └── ...
 │
 ├── public/
 │   └── assets/
-│       ├── img/                 # 图片资源
-│       ├── fonts/               # 字体文件
-│       ├── logo.svg            # Logo（深色）
-│       └── logo-white.svg      # Logo（浅色）
+│       ├── img/                   # 图片资源
+│       ├── fonts/                 # 字体文件
+│       ├── logo.svg               # Logo（深色）
+│       └── logo-white.svg         # Logo（浅色）
 │
-├── .ossutilconfig               # OSS 配置（不提交）
+├── .ossutilconfig                 # OSS 配置（不提交）
 ├── next.config.ts
 ├── tsconfig.json
 └── package.json
