@@ -1,3 +1,5 @@
+'use client';
+
 import About, { AboutData } from '@/components/layout/footer/about';
 import Copyright, { CopyrightData } from '@/components/layout/footer/copyright';
 import LinksGroup, { LinksGroupData } from '@/components/layout/footer/links-group';

@@ -1,3 +1,5 @@
+'use client';
+
 export type SectionTitleData = {
     subtitle: string;
     title: string;

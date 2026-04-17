@@ -1,3 +1,5 @@
+'use client';
+
 export type HelpfulLinkItem = {
     icon: string;
     title: string;

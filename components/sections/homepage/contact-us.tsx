@@ -1,3 +1,5 @@
+'use client';
+
 import ContactDetail, { ContactDetailData } from '@/components/ui/contact-detail';
 import SectionTitle, { SectionTitleData } from '@/components/ui/section-title';
 

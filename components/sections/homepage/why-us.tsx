@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 
 import FeatureItem, { FeatureItemData } from '@/components/ui/feature-item';

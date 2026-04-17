@@ -1,3 +1,5 @@
+'use client';
+
 export type ErrorContentData = {
     errorNumber: string;
     errorTitle: string;

@@ -1,3 +1,5 @@
+'use client';
+
 export type ServiceCardData = {
     icon: string;
     title: string;

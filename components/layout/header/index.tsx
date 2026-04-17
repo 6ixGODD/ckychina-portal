@@ -1,3 +1,5 @@
+'use client';
+
 import Nav, { NavData } from '@/components/layout/header/nav';
 import Logo, { LogoData } from '@/components/ui/logo';
 

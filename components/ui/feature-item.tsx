@@ -1,3 +1,5 @@
+'use client';
+
 export type FeatureItemData = {
     icon: string;
     title: string;

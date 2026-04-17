@@ -1,3 +1,5 @@
+'use client';
+
 import SectionTitle, { SectionTitleData } from '@/components/ui/section-title';
 import ServiceCard, { ServiceCardData } from '@/components/ui/service-card';
 

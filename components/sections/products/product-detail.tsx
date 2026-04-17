@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 
 import type { ProductJsonData } from '@/lib/models/pages/products';

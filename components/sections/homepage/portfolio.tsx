@@ -1,3 +1,5 @@
+'use client';
+
 import PortfolioCard, { PortfolioCardData } from '@/components/ui/portfolio-card';
 import SectionTitle, { SectionTitleData } from '@/components/ui/section-title';
 
