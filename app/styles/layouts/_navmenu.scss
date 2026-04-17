@@ -1,17 +1,34 @@
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-/* Navmenu - Desktop */
+
+/* Desktop Navigation */
 @media (min-width: 1200px) {
     .navmenu {
         padding: 0;
+        display: flex;
+        align-items: center;
 
-        ul {
+        .desktop-menu {
             margin: 0;
             padding: 0;
             display: flex;
             list-style: none;
             align-items: center;
+        }
+
+        /* Hide mobile-only elements on desktop */
+        .mobile-menu {
+            display: none;
+        }
+
+        /* Always show lang switcher on desktop */
+        .lang-wrapper {
+            display: block;
+        }
+
+        .mobile-hidden {
+            display: block !important;
         }
 
         li {
@@ -111,7 +128,7 @@
     }
 }
 
-/* Navmenu - Mobile */
+/* Mobile Navigation */
 @media (max-width: 1199px) {
     .mobile-nav-toggle {
         color: var(--nav-color);
@@ -120,120 +137,120 @@
         margin-right: 10px;
         cursor: pointer;
         transition: color 0.3s;
+        position: relative;
+        z-index: 1000;
     }
 
     .navmenu {
         padding: 0;
-        z-index: 9997;
+        display: flex;
+        align-items: center;
+        gap: 10px;
 
-        ul {
+        /* Hide desktop menu on mobile */
+        .desktop-menu {
             display: none;
-            list-style: none;
+        }
+
+        /* Hide lang switcher when mobile menu is active */
+        .lang-wrapper.mobile-hidden {
+            display: none;
+        }
+    }
+
+    /* Mobile nav overlay - rendered via Portal to body */
+    .mobile-nav-overlay {
+        position: fixed;
+        inset: 0;
+        /* Enhanced frosted glass effect */
+        background: rgba(33, 37, 41, 0.85);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        z-index: 9998;
+        overflow-y: auto;
+        animation: fadeIn 0.3s ease-out;
+
+        .mobile-nav-content {
             position: absolute;
             inset: 60px 20px 20px 20px;
             padding: 10px 0;
             margin: 0;
-            border-radius: 6px;
-            background-color: var(--nav-mobile-background-color);
+            border-radius: 12px;
+            /* Content also has subtle frosted glass */
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
             overflow-y: auto;
-            transition: 0.3s;
-            z-index: 9998;
-            box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+            animation: slideDown 0.3s ease-out;
         }
 
-        a,
-        a:focus {
-            color: var(--nav-dropdown-color);
-            padding: 10px 20px;
-            font-family: var(--nav-font), sans-serif;
-            font-size: 18px;
-            font-weight: 300;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            white-space: nowrap;
-            transition: 0.3s;
+        .mobile-menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
 
-            i {
-                font-size: 12px;
-                line-height: 0;
-                margin-left: 5px;
-                width: 30px;
-                height: 30px;
+            a,
+            a:focus {
+                color: var(--nav-dropdown-color);
+                padding: 10px 20px;
+                font-family: var(--nav-font), sans-serif;
+                font-size: 18px;
+                font-weight: 300;
                 display: flex;
                 align-items: center;
-                justify-content: center;
-                border-radius: 50%;
+                justify-content: space-between;
+                white-space: nowrap;
                 transition: 0.3s;
-                background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
+                text-decoration: none;
+            }
 
-                &:hover {
-                    background-color: var(--accent-color);
-                    color: var(--contrast-color);
-                }
+            a:hover,
+            .active {
+                color: var(--nav-dropdown-hover-color);
+                background: rgba(0, 0, 0, 0.03);
             }
         }
 
-        a:hover,
-        .active,
-        .active:focus {
-            color: var(--nav-dropdown-hover-color);
-        }
-
-        .active i,
-        .active:focus i {
-            background-color: var(--accent-color);
-            color: var(--contrast-color);
-            transform: rotate(180deg);
-        }
-
-        .dropdown {
-            ul {
-                position: static;
-                display: none;
-                z-index: 99;
-                padding: 10px 0;
-                margin: 10px 20px;
-                background-color: var(--nav-dropdown-background-color);
-                border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
-                box-shadow: none;
-                transition: all 0.5s ease-in-out;
-
-                ul {
-                    background-color: rgba(33, 37, 41, 0.1);
-                }
-            }
-
-            > .dropdown-active {
-                display: block;
-                background-color: rgba(33, 37, 41, 0.03);
-            }
-        }
-    }
-
-    .mobile-nav-active {
-        overflow: hidden;
-
-        .mobile-nav-toggle {
+        .mobile-nav-close {
             color: #fff;
             position: absolute;
             font-size: 32px;
             top: 15px;
             right: 15px;
-            margin-right: 0;
+            cursor: pointer;
             z-index: 9999;
-        }
+            transition: transform 0.3s ease;
 
-        .navmenu {
-            position: fixed;
-            overflow: hidden;
-            inset: 0;
-            background: rgba(33, 37, 41, 0.8);
-            transition: 0.3s;
-
-            > ul {
-                display: block;
+            &:hover {
+                transform: rotate(90deg);
             }
         }
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes slideDown {
+        from {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    /* Body class when mobile nav is active */
+    .mobile-nav-active {
+        overflow: hidden;
     }
 }
